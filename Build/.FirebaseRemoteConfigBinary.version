@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "7.3.0",
+  "iOS" : [
+    {
+      "name" : "FirebaseABTesting",
+      "hash" : "72618e2598632a7de1cc3d8c72124bf411cbc5ea4e5a513e1ff44711150432a9",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "FirebaseRemoteConfig",
+      "hash" : "5ce21d10ba4225216a86b4a960aa7fb621830e04620bf7b9b79706588b1a08a5",
+      "linking" : "dynamic"
+    }
+  ]
+}

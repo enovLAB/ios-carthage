@@ -1,0 +1,19 @@
+{
+  "commitish" : "1.8.2",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "b760da2d2434739019d4881004e47cb0919af0a4329041d616906b206b4bbc41",
+      "name" : "SnapshotTesting",
+      "container" : "SnapshotTesting.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "89bb06f7886ebabb82e83142a32c8b432930e1541288e7dbb82d1e950a48420f",
+      "name" : "SnapshotTesting",
+      "container" : "SnapshotTesting.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}

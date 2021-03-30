@@ -1,0 +1,19 @@
+{
+  "commitish" : "4.2.1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "b24e91ccfce7e0750b729e44b5e3b62aa62d4323c3d0a6a8ddb393fcba3fcc52",
+      "name" : "DeviceKit",
+      "container" : "DeviceKit.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "51f47263f861402923ca6364589dfd6e254b205c9c15189e800d21ae13b663c3",
+      "name" : "DeviceKit",
+      "container" : "DeviceKit.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

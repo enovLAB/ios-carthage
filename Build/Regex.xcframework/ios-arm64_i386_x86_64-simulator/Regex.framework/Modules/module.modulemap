@@ -1,0 +1,4 @@
+framework module Regex {
+  header "Regex-Swift.h"
+  requires objc
+}

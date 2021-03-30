@@ -1,0 +1,19 @@
+{
+  "commitish" : "3.1.9",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "1602e89f73b39ef18558670293fa6b6b8dc5a01c107037c3e001b4b31a2fe062",
+      "name" : "Lottie",
+      "container" : "Lottie.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "69bc7d6675e880143af75f81fe72f6d20313b8155a40647e7382c8f692ba3f43",
+      "name" : "Lottie",
+      "container" : "Lottie.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

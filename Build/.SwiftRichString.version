@@ -1,0 +1,19 @@
+{
+  "commitish" : "3.7.2",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "8ee16b7da7c6b3f46d61c8e5a2d00c984d40506451b9512abffc546628559ac9",
+      "name" : "SwiftRichString",
+      "container" : "SwiftRichString.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "17d78112cf4ae70285d3372a624051b67085792be5a658a8fed78f3649de77fc",
+      "name" : "SwiftRichString",
+      "container" : "SwiftRichString.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

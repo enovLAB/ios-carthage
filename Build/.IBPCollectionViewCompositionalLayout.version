@@ -1,0 +1,17 @@
+{
+  "commitish" : "v0.6.8",
+  "iOS" : [
+    {
+      "hash" : "7404fcfb48bf0a5c0f590433158300b9835a78c878f8e523125c872224b470c9",
+      "name" : "IBPCollectionViewCompositionalLayout",
+      "container" : "IBPCollectionViewCompositionalLayout.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "b94c7ee673a3770c20c0aa21f702e02fc26ffa50be5c36b94fe476495a7993e8",
+      "name" : "IBPCollectionViewCompositionalLayout",
+      "container" : "IBPCollectionViewCompositionalLayout.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

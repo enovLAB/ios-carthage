@@ -1,0 +1,44 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "7.3.0",
+  "iOS" : [
+    {
+      "name" : "BoringSSL-GRPC",
+      "hash" : "5e4e05fb62fccd5fe95267359b774b7f0716546ab0568914bba1f15c8a2a5850",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "FirebaseFirestore",
+      "hash" : "da4bbdb079f5c77be6c88f1e41df7534754f7364a9dcca1c3a641352dbeb8e28",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "abseil",
+      "hash" : "a6264d20f0e2a6577c0e88f0fbddd166ce05177669681adb78c5a9c4d5755a6b",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "gRPC-C++",
+      "hash" : "bcb1177d8067a85e0a02aa10948cf9593278999987c7d5465902553e80b9b543",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "gRPC-Core",
+      "hash" : "a5d26546cd9e68b050ad72f1b5979235f0f39aad1417d06eb40be4d462980ccc",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "leveldb-library",
+      "hash" : "f3a25e16471e3fec278d51e468e66e6a6873ba47878456f7c23cd1558c2f7313",
+      "linking" : "dynamic"
+    }
+  ]
+}
