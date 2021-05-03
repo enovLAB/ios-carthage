@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
 // swift-module-flags: -target arm64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=unchecked -O -module-name DeviceKit
 import Swift
 import UIKit
@@ -57,6 +57,8 @@ public enum Device {
   case iPadPro12Inch3
   case iPadPro11Inch2
   case iPadPro12Inch4
+  case iPadPro11Inch3
+  case iPadPro12Inch5
   case homePod
   indirect case simulator(DeviceKit.Device)
   case unknown(Swift.String)
@@ -258,10 +260,10 @@ extension Device {
     case landscape
     case portrait
     public static func == (a: DeviceKit.Device.Orientation, b: DeviceKit.Device.Orientation) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public var orientation: DeviceKit.Device.Orientation {
     get
@@ -293,8 +295,8 @@ extension Device {
     public init(rawValue: Swift.UInt)
     public static let firstGeneration: DeviceKit.Device.ApplePencilSupport
     public static let secondGeneration: DeviceKit.Device.ApplePencilSupport
-    public typealias Element = DeviceKit.Device.ApplePencilSupport
     public typealias ArrayLiteralElement = DeviceKit.Device.ApplePencilSupport
+    public typealias Element = DeviceKit.Device.ApplePencilSupport
     public typealias RawValue = Swift.UInt
   }
   public static var allApplePencilCapableDevices: [DeviceKit.Device] {
@@ -312,10 +314,10 @@ extension Device {
     case telephoto
     case ultraWide
     public static func == (a: DeviceKit.Device.CameraType, b: DeviceKit.Device.CameraType) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public var cameras: [DeviceKit.Device.CameraType] {
     get
