@@ -2,29 +2,29 @@
   "commitish" : "1.6.0",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
-      "hash" : "472dfce2d893a747df2e1556e42c117bfa91afa4a60c88bcb72c69b25ae1e413",
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "66bc537cdb71e3e6442ad7d1091a0fa0af514dd1f3be3e4be23fda4e2d686a6a",
       "name" : "ReCaptcha",
       "container" : "ReCaptcha.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
-      "hash" : "8433df8ac86d4897901fad9d0b8c428780d0cdaa89a9ddba71da315dc732f1fb",
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "88852c8340e64c906593ff13dc9c574486ed6e8ef75b793a903914f145beacbd",
       "name" : "ReCaptcha",
       "container" : "ReCaptcha.xcframework",
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
-      "hash" : "bd3572ec24ce758ceb7aa581c8ddb6ba1a05183f10b55bbe33821c99791e3b5a",
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "3f7d27a5953cd66bb032d404add74d6d80e3d3e0044bc595dd462af0f545f029",
       "name" : "ReCaptcha_RxSwift",
       "container" : "ReCaptcha_RxSwift.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
-      "hash" : "92b26a142587a2c7581d0ee2e4f87a607604ae28051835e588e8e7ccb4dc43a3",
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "30ec0ab3fd5a22e4040996ed32aad743be3d68c1ec524dfa404b2c65c4f38f7e",
       "name" : "ReCaptcha_RxSwift",
       "container" : "ReCaptcha_RxSwift.xcframework",
       "identifier" : "ios-arm64_armv7"

@@ -1,24 +1,48 @@
 {
   "Mac" : [
-
+    {
+      "hash" : "c42e63f8027857b094bcebdeb196efa0499c25a0b87a9046571456fd6b0e45d2",
+      "name" : "FirebaseMessaging",
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
   ],
   "watchOS" : [
 
   ],
   "tvOS" : [
-
-  ],
-  "commitish" : "7.9.0",
-  "iOS" : [
     {
-      "name" : "FirebaseInstanceID",
-      "hash" : "c886720afa9fd8b5dd2fb211b44013ac693cc10e1aed26230aaff40f9af4ef81",
-      "linking" : "dynamic"
+      "hash" : "0ed6787e37ae691097196d824b13a12720bb8d9222edc4c64970944065cb8d89",
+      "name" : "FirebaseMessaging",
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
+      "hash" : "c92318939ef0daab6b2dd3732fd61887f83cea5c5e9061db75df493411a90a6d",
       "name" : "FirebaseMessaging",
-      "hash" : "00beac220c8a18b23ac524687434c60b11f37f2ae82e2e99409f4268c56977aa",
-      "linking" : "dynamic"
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "tvos-arm64"
+    }
+  ],
+  "commitish" : "8.6.0",
+  "iOS" : [
+    {
+      "hash" : "04d7c8326b8c1c57e8a962a6dd431d040759273d9c80626658217b9076e12fc9",
+      "name" : "FirebaseMessaging",
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "d02da99b827a4352cd2e3bf0b60e854aba889824f1b75b80d192db7f1e18d712",
+      "name" : "FirebaseMessaging",
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "322849ccc1bef796ed175bebb80a72e8a30f189476e229e85f08ca33dc34cb42",
+      "name" : "FirebaseMessaging",
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "ios-arm64_armv7"
     }
   ]
 }

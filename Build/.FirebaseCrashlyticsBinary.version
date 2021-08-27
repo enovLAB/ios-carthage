@@ -1,19 +1,48 @@
 {
   "Mac" : [
-
+    {
+      "hash" : "b0cad66daaf3fe056b12e5f73001ad2161ca2744270f37df58b22e23e1238eba",
+      "name" : "FirebaseCrashlytics",
+      "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
   ],
   "watchOS" : [
 
   ],
   "tvOS" : [
-
+    {
+      "hash" : "090887d1b5d82b3ae9f0a90377d70364f967cd4811fecf516db9c5821837cb4a",
+      "name" : "FirebaseCrashlytics",
+      "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "c113a7f3644287da66e06e1bfedb7406b75dfaf99f0993e5a216d2824b8f7beb",
+      "name" : "FirebaseCrashlytics",
+      "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "tvos-arm64"
+    }
   ],
-  "commitish" : "7.9.0",
+  "commitish" : "8.6.0",
   "iOS" : [
     {
+      "hash" : "3ac7c618932569f10be628ad2d40a5e4187232d036eb426aab90180c4c9f3b4a",
       "name" : "FirebaseCrashlytics",
-      "hash" : "b63fd8f8c3a43b371eeee2ee967151b41665e97e9177a624c373aec7ff6110af",
-      "linking" : "dynamic"
+      "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "626147b976da7086731750caab87d4cf8e1dfa3b4a2c8493979a035512fff11b",
+      "name" : "FirebaseCrashlytics",
+      "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "bc0fdb3d696b3112a4cb6b8e934587ad41fea46bb69483dc32502a10ac6c03e6",
+      "name" : "FirebaseCrashlytics",
+      "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "ios-arm64_armv7"
     }
   ]
 }
