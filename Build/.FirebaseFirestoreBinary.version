@@ -171,16 +171,16 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "62e53cf9a029ea3a429e5b53bba01e6c2a59cf195bf81d8e2aa75e8cdcd211d7",
-      "name" : "gRPC-C++",
-      "container" : "gRPC-C++.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
       "hash" : "5c589006ac6201cdd7e082ec3f4eef97bfa816c0c0bad980f3e54894c717110a",
       "name" : "gRPC-C++",
       "container" : "gRPC-C++.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "62e53cf9a029ea3a429e5b53bba01e6c2a59cf195bf81d8e2aa75e8cdcd211d7",
+      "name" : "gRPC-C++",
+      "container" : "gRPC-C++.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
       "hash" : "d750e2809ba60fee20b73e1fbae933135ffc66dc70bbc5c916ece4c8e707a87a",
@@ -207,12 +207,6 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "350ef7eafcc810eff72f8e011ee7c324cd442ddc7f79353d036490d13f4c798c",
-      "name" : "leveldb-library",
-      "container" : "leveldb-library.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
       "hash" : "1202eda6ba9f783696a5767117da8432a43e89da3638d1b03d9ad2081994a5c1",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
@@ -223,6 +217,12 @@
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
       "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "350ef7eafcc810eff72f8e011ee7c324cd442ddc7f79353d036490d13f4c798c",
+      "name" : "leveldb-library",
+      "container" : "leveldb-library.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     }
   ]
 }
