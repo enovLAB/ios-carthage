@@ -44,6 +44,13 @@
   "iOS" : [
     {
       "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
+      "hash" : "f3e00cc5af9e5646fe97e7a72c7bc68987f1d7ae9b6929ebe4a3a83adac8394a",
+      "name" : "CryptoSwift",
+      "container" : "CryptoSwift.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
       "hash" : "44a09be62b1aa24b94517649ef2c0a37b608a97bed8aad27b77ef396d7d6660c",
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
@@ -55,13 +62,6 @@
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "f3e00cc5af9e5646fe97e7a72c7bc68987f1d7ae9b6929ebe4a3a83adac8394a",
-      "name" : "CryptoSwift",
-      "container" : "CryptoSwift.xcframework",
-      "identifier" : "ios-arm64_armv7"
     }
   ]
 }

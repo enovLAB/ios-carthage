@@ -1,0 +1,156 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Volumes/MatteoExternal/Download/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/13.0_13A5212g/ReCaptcha/1.6.0/Build/Intermediates.noindex/ArchiveIntermediates/ReCaptcha_RxSwift/IntermediateBuildFilesPath/ReCaptcha-Carthage.build/Release-iphoneos/ReCaptcha_RxSwift.build/DerivedSources/ReCaptcha_RxSwift_vers.c
+/Users/matteo/Projects/yoop-ios/Carthage/Checkouts/ReCaptcha
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0AcDP2rxAC0E0Vy0E4BaseQzGmvgZTW
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0AcDP2rxAC0E0Vy0E4BaseQzGmvsZTW
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0AcDP2rxAC0E0Vy0E4BaseQzGmvMZTW
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0AcDP2rxAC0E0Vy0E4BaseQzGmvMZTW.resume.0
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0AcDP2rxAC0E0Vy0E4BaseQzGvgTW
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0AcDP2rxAC0E0Vy0E4BaseQzGvsTW
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0AcDP2rxAC0E0Vy0E4BaseQzGvMTW
+___swift_instantiateConcreteTypeFromMangledName
+_$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_TA
+_$ss6ResultOySSs5Error_pGIegg_7RxSwift10Disposable_pIeggr_AByxsAC_pGlySSIsegn_AeF_pIeggr_TRTA
+_$s7RxSwift17PrimitiveSequenceVyAA11SingleTraitOSSGACyxq_GAA0cD4TypeAAWl
+_$s7RxSwift17PrimitiveSequenceVyAA11SingleTraitOSSGMa
+_$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE5resetAA11AnyObserverVyytGvgyAA5EventOyytGcfU_TA
+_$s7RxSwift5EventOyytGIegg_ADIegn_TRTA
+_$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_
+_$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_TA
+_$s7RxSwift10ObservableCyytGACyxGAA0C4TypeAAWl
+_$s7RxSwift11AnyObserverVyytGACyxGAA0D4TypeAAWlTm
+_$s7RxSwift10ObservableCyytGMa
+__swift_FORCE_LOAD_$_swiftCompatibility50
+__swift_FORCE_LOAD_$_swiftCompatibility51
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements
+_$sx7RxSwift8ReactiveVyq_Gr0_ly9ReCaptchaAECAFIsetWAlYl_TC
+_$sxXMT7RxSwift8ReactiveVyq_GXMtr0_ly9ReCaptchaAECAFIsetWAyYl_TC
+_$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_yycfU_TA
+_$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_yycfU0_TA
+___swift_project_boxed_opaque_existential_1
+___swift_allocate_boxed_opaque_existential_1
+___swift_destroy_boxed_opaque_existential_1
+_$s7RxSwift11AnyObserverVyytGACyxGAA0D4TypeAAWl
+_$s7RxSwift11AnyObserverVyytGMa
+_$s7RxSwift10ObservableCyytGMaTm
+_$ss6ResultOySSs5Error_pGIegn_ADIegg_TRTA
+_$ss6ResultOySSs5Error_pGWOy
+_$ss6ResultOySSs5Error_pGWOe
+_$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_yAE0deN0OcfU_TA
+_$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_yycfU0_TA
+_$s9ReCaptcha0aB5ErrorOACs0C0AAWl
+_$s9ReCaptcha0aB5ErrorOWOy
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0AcDP2rxAC0E0Vy0E4BaseQzGvMTW.resume.0
+_symbolic _____y_____SSG 7RxSwift17PrimitiveSequenceV AA11SingleTraitO
+_$s7RxSwift17PrimitiveSequenceVyAA11SingleTraitOSSGMD
+_symbolic xSgXw
+_symbolic xSgXwz_x______RbzlXX 9ReCaptchaAAC
+_symbolic So6UIViewC
+_symbolic Sb
+_symbolic x
+_symbolic B0
+_symbolic _____ySS______pGIegg_______pIeggr_ s6ResultO s5ErrorP 7RxSwift10DisposableP
+_$s7RxSwift17PrimitiveSequenceVyAA11SingleTraitOSSGACyxq_GAA0cD4TypeAAWL
+_$s7RxSwift17PrimitiveSequenceVyAA11SingleTraitOSSGML
+_symbolic _____yytGIegg_ 7RxSwift5EventO
+_symbolic _____yytG 7RxSwift10ObservableC
+_$s7RxSwift10ObservableCyytGMD
+_$s7RxSwift10ObservableCyytGACyxGAA0C4TypeAAWL
+_$s7RxSwift10ObservableCyytGML
+_symbolic _____ 9ReCaptchaAAC
+_symbolic $s7RxSwift18ReactiveCompatibleP
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0MA
+_$s17ReCaptcha_RxSwiftMXM
+_$s9ReCaptchaAAC7RxSwift18ReactiveCompatible0ab1_cD0McMK
+__swift_FORCE_LOAD_$_swiftUIKit_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftDarwin_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftFoundation_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftDispatch_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftCoreImage_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftMetal_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftFileProvider_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftDataDetection_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftWebKit_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftCompatibility50_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftCompatibility51_$_ReCaptcha_RxSwift
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements_$_ReCaptcha_RxSwift
+_symbolic _____yytG 7RxSwift11AnyObserverV
+_$s7RxSwift11AnyObserverVyytGMD
+_$s7RxSwift11AnyObserverVyytGACyxGAA0D4TypeAAWL
+_$s7RxSwift11AnyObserverVyytGML
+_symbolic _____ySS______pGIegn_ s6ResultO s5ErrorP
+_symbolic _____ySS______pGIegg_ s6ResultO s5ErrorP
+_$s9ReCaptcha0aB5ErrorOACs0C0AAWL
+___swift_reflection_version
+Apple clang version 13.0.0 (clang-1300.0.28.1)
+<swift-imported-modules>
+Apple Swift version 5.5 effective-4.2 (swiftlang-1300.0.29.102 clang-1300.0.28.1)
+/Users/matteo/Projects/yoop-ios/Carthage/Checkouts/ReCaptcha/ReCaptcha/Classes/Rx/ReCaptcha+Rx.swift
+$s9ReCaptcha0aB5ErrorOACs0C0AAWl
+<compiler-generated>
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_yycfU0_TA
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_yycfU0_
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_yAE0deN0OcfU_TA
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_yAE0deN0OcfU_
+$ss6ResultOySSs5Error_pGIegn_ADIegg_TRTA
+$ss6ResultOySSs5Error_pGIegn_ADIegg_TR
+$s7RxSwift10ObservableCyytGMa
+__swift_destroy_boxed_opaque_existential_1
+__swift_allocate_boxed_opaque_existential_1
+__swift_project_boxed_opaque_existential_1
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_yycfU0_TA
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_yycfU0_
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_yycfU_TA
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_yycfU_
+objectdestroy.19
+$s7RxSwift11AnyObserverVyytGACyxGAA0D4TypeAAWl
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_TA
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE16didFinishLoadingAA10ObservableCyytGvgAA10Disposable_pAA11AnyObserverVyytGcfU_
+didFinishLoading.get
+$s7RxSwift5EventOyytGIegg_ADIegn_TRTA
+$s7RxSwift5EventOyytGIegg_ADIegn_TR
+objectdestroy.12
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE5resetAA11AnyObserverVyytGvgyAA5EventOyytGcfU_TA
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE5resetAA11AnyObserverVyytGvgyAA5EventOyytGcfU_
+reset.get
+$s7RxSwift17PrimitiveSequenceVyAA11SingleTraitOSSGMa
+$s7RxSwift17PrimitiveSequenceVyAA11SingleTraitOSSGACyxq_GAA0cD4TypeAAWl
+$ss6ResultOySSs5Error_pGIegg_7RxSwift10Disposable_pIeggr_AByxsAC_pGlySSIsegn_AeF_pIeggr_TRTA
+$ss6ResultOySSs5Error_pGIegg_7RxSwift10Disposable_pIeggr_AByxsAC_pGlySSIsegn_AeF_pIeggr_TR
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_TA
+$s7RxSwift8ReactiveV010ReCaptcha_aB00dE0AECRbzlE8validate2on12resetOnErrorAA10ObservableCySSGSo6UIViewC_SbtFAA10Disposable_pys6ResultOySSs0J0_pGccfU_
+objectdestroy.2
+objectdestroy
+__swift_instantiateConcreteTypeFromMangledName
+validate
+rx.modify
+rx.set
+rx.get
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wsuggest-override -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -arch arm64 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/Compatibility51/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+nullptrToBoolConversion -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNeonImmediateRangeCheck -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+revert09abecef7bbf -mlinker-version=711 -stdlib=libc++
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/Compatibility51/Overrides.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/swift-macosx-x86_64
+_swift_getFunctionReplacement50
+_swift_getOrigOfReplaceable50
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/CompatibilityDynamicReplacements -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/CompatibilityDynamicReplacements -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wsuggest-override -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -arch arm64 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibilityDynamicReplacements -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o -MF stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o.d -o stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+nullptrToBoolConversion -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNeonImmediateRangeCheck -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+revert09abecef7bbf -mlinker-version=711 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+swift_getOrigOfReplaceable50
+Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs
+swift_getFunctionReplacement50
+__ZL29installGetClassHook_untrustedv
+__ZL35getObjCClassByMangledName_untrustedPKcPP10objc_class
+__ZL15OldGetClassHook
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility50 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/Compatibility50 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wsuggest-override -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -arch arm64 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility50 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/Compatibility50/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+nullptrToBoolConversion -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNeonImmediateRangeCheck -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+revert09abecef7bbf -mlinker-version=711 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/Compatibility50/Overrides.cpp
+getObjCClassByMangledName_untrusted
+Sources/swiftlang/swiftlang-1300.0.29.102/swift/stdlib/toolchain/Compatibility50/Overrides.cpp
+llvm.loop.mustprogress
+installGetClassHook_untrusted
