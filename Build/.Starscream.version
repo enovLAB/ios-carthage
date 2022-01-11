@@ -2,15 +2,15 @@
   "commitish" : "3.1.1",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.5 (swiftlang-1300.0.29.102 clang-1300.0.28.1)",
-      "hash" : "c3709a3c9a2c3ca02771d1836743c9c54126d77f9eb19ec6313bea784136e9ca",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "3328f547e84409f1c95e29abaa51687c82212e1c1694a081573bc779dd69428b",
       "name" : "Starscream",
       "container" : "Starscream.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "swiftToolchainVersion" : "5.5 (swiftlang-1300.0.29.102 clang-1300.0.28.1)",
-      "hash" : "d583b87f7c510b0edd0e20a7a2aba24aa8a92109b655be58016d81f70f4d484d",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "14667839b93270de2d0cdcddec9fb583bf3f8edcdbedb234afa52b1efd71209c",
       "name" : "Starscream",
       "container" : "Starscream.xcframework",
       "identifier" : "ios-arm64_armv7"

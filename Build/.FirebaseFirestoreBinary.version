@@ -66,16 +66,16 @@
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "478c6ede62b3dc7b9bee29c0c9c02df61b8f5e811f546bbc282cdfeb715ea8c1",
-      "name" : "abseil",
-      "container" : "abseil.xcframework",
-      "identifier" : "tvos-arm64"
-    },
-    {
       "hash" : "4804d46c1c780a59507dbf91dd28bd2a73b0395709de88226db75160a897e68e",
       "name" : "abseil",
       "container" : "abseil.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "478c6ede62b3dc7b9bee29c0c9c02df61b8f5e811f546bbc282cdfeb715ea8c1",
+      "name" : "abseil",
+      "container" : "abseil.xcframework",
+      "identifier" : "tvos-arm64"
     },
     {
       "hash" : "0ad88e33897e21ccc34fad4b01d86ba77fda5f38dff0af6acf62ccab8186b543",
@@ -102,16 +102,16 @@
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "18fa682c4418992958f812311c61a00c66b1a0150217906ad8786e1b0e063c5e",
-      "name" : "leveldb-library",
-      "container" : "leveldb-library.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
-    },
-    {
       "hash" : "e6addfcf7e08fffa033d0e2bcc675b3e4c57ee41623a353a8d49448b8a1e941e",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
       "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "18fa682c4418992958f812311c61a00c66b1a0150217906ad8786e1b0e063c5e",
+      "name" : "leveldb-library",
+      "container" : "leveldb-library.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     }
   ],
   "commitish" : "8.6.0",
@@ -153,21 +153,27 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "6ba93473ad6f21c09bea85b756aca9496910b974b38a09fc5ca6922451a8269e",
-      "name" : "abseil",
-      "container" : "abseil.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
       "hash" : "b99c4c7960647e84ca377d78754db7a3094f19e78bef31a4de18ce06522dba9d",
       "name" : "abseil",
       "container" : "abseil.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
+      "hash" : "6ba93473ad6f21c09bea85b756aca9496910b974b38a09fc5ca6922451a8269e",
+      "name" : "abseil",
+      "container" : "abseil.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
       "hash" : "e8d8cf1af60dec396815b4d2df367db22e6c205809b4f2ec1dd9fd56d9b77af7",
       "name" : "abseil",
       "container" : "abseil.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "d750e2809ba60fee20b73e1fbae933135ffc66dc70bbc5c916ece4c8e707a87a",
+      "name" : "gRPC-C++",
+      "container" : "gRPC-C++.xcframework",
       "identifier" : "ios-arm64_armv7"
     },
     {
@@ -181,12 +187,6 @@
       "name" : "gRPC-C++",
       "container" : "gRPC-C++.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
-      "hash" : "d750e2809ba60fee20b73e1fbae933135ffc66dc70bbc5c916ece4c8e707a87a",
-      "name" : "gRPC-C++",
-      "container" : "gRPC-C++.xcframework",
-      "identifier" : "ios-arm64_armv7"
     },
     {
       "hash" : "81394475c9717e7a09613e3cbd7992e3f71e775bd2e405228bf82c5524f0a8c2",
@@ -207,6 +207,12 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
+      "hash" : "350ef7eafcc810eff72f8e011ee7c324cd442ddc7f79353d036490d13f4c798c",
+      "name" : "leveldb-library",
+      "container" : "leveldb-library.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
       "hash" : "1202eda6ba9f783696a5767117da8432a43e89da3638d1b03d9ad2081994a5c1",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
@@ -217,12 +223,6 @@
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
       "identifier" : "ios-arm64_armv7"
-    },
-    {
-      "hash" : "350ef7eafcc810eff72f8e011ee7c324cd442ddc7f79353d036490d13f4c798c",
-      "name" : "leveldb-library",
-      "container" : "leveldb-library.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
     }
   ]
 }

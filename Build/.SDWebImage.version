@@ -2,13 +2,13 @@
   "commitish" : "4.4.8",
   "iOS" : [
     {
-      "hash" : "974f0fbb56ac07fc6653afa148960a82aa2f01feded1e5f74e52e60a1113f050",
+      "hash" : "10e8b45aee2c611a08adaa911b91b746fdcbce4edbf67197d95f3aa168fe7bef",
       "name" : "SDWebImage",
       "container" : "SDWebImage.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "hash" : "deda2f45e0cc3698b04da64c88cf55f26316cc42f7b5b3ab559015150aa7a2da",
+      "hash" : "66500abfee1a2afae5cb767a12da88ca90c0c6da287b1ace6bc0320bc67a937a",
       "name" : "SDWebImage",
       "container" : "SDWebImage.xcframework",
       "identifier" : "ios-arm64_armv7"

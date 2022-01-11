@@ -6,83 +6,83 @@
 	<dict>
 		<key>Headers/Lottie-Swift.h</key>
 		<data>
-		WRRzPazhECQqhLo7/fwJg8EjtxI=
+		bmnxMijUrvWuxNHxm7Vz5NGmPm8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bJIWkglDwrc+OorgfsCvARGlogs=
+		9iPX+9Lj/kr2suIlrdK4FHFhmB8=
 		</data>
 		<key>Modules/Lottie.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		/vqnvOPnRNzabZIKLv8spWicrB4=
+		QHPazefUn2pT9Qbyhh0nEA1VG+A=
 		</data>
 		<key>Modules/Lottie.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		/vqnvOPnRNzabZIKLv8spWicrB4=
+		QHPazefUn2pT9Qbyhh0nEA1VG+A=
 		</data>
 		<key>Modules/Lottie.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ujRGR+y26tYAkMxcVaHs2SvsAEg=
+		fXl1oboNxoDTIa2nqm6pZZ74PS8=
 		</data>
 		<key>Modules/Lottie.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<data>
-		ujRGR+y26tYAkMxcVaHs2SvsAEg=
+		fXl1oboNxoDTIa2nqm6pZZ74PS8=
 		</data>
 		<key>Modules/Lottie.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		4OpsQaCvhUxuLVnLDd5D4KK7rjE=
+		saM9eAQFG1zezModOtsr/o5ZKaI=
 		</data>
 		<key>Modules/Lottie.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		4OpsQaCvhUxuLVnLDd5D4KK7rjE=
+		saM9eAQFG1zezModOtsr/o5ZKaI=
 		</data>
 		<key>Modules/Lottie.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OklEGqFFqur0VBRbMzyVvRuui6s=
+		YNL04BJQXRfvq8juQhrzoYv3dNM=
 		</data>
 		<key>Modules/Lottie.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		od3lSN/ax08JHryfpwBGqUO/I0Y=
+		gMmRVfzPdWOALzrjFkWFxanfbDA=
 		</data>
 		<key>Modules/Lottie.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		OklEGqFFqur0VBRbMzyVvRuui6s=
+		YNL04BJQXRfvq8juQhrzoYv3dNM=
 		</data>
 		<key>Modules/Lottie.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		od3lSN/ax08JHryfpwBGqUO/I0Y=
+		gMmRVfzPdWOALzrjFkWFxanfbDA=
 		</data>
 		<key>Modules/Lottie.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		2AItUYTHbz5k3EcV2emNq0kAjF0=
+		3SZkelwuwCqtfEc2e0fV3idjZwY=
 		</data>
 		<key>Modules/Lottie.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Pr/mOEl/nMn0w6ksmNiUwlyJatE=
+		AqHyU9cLK6dXfR5Bu8qWsHlAuio=
 		</data>
 		<key>Modules/Lottie.swiftmodule/i386.swiftdoc</key>
 		<data>
-		2AItUYTHbz5k3EcV2emNq0kAjF0=
+		3SZkelwuwCqtfEc2e0fV3idjZwY=
 		</data>
 		<key>Modules/Lottie.swiftmodule/i386.swiftmodule</key>
 		<data>
-		Pr/mOEl/nMn0w6ksmNiUwlyJatE=
+		AqHyU9cLK6dXfR5Bu8qWsHlAuio=
 		</data>
 		<key>Modules/Lottie.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ii1KpJ3RJG2vJ0MChnFDwFWfn4Y=
+		B1Mll2UBNzioGfDzwbCpmDC6YHg=
 		</data>
 		<key>Modules/Lottie.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rHfH5xEGriKfaX/7vvrrf6uucHA=
+		uovU5Cu0hWr4fkysQ0RrufW0Q+k=
 		</data>
 		<key>Modules/Lottie.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Ii1KpJ3RJG2vJ0MChnFDwFWfn4Y=
+		B1Mll2UBNzioGfDzwbCpmDC6YHg=
 		</data>
 		<key>Modules/Lottie.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		rHfH5xEGriKfaX/7vvrrf6uucHA=
+		uovU5Cu0hWr4fkysQ0RrufW0Q+k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,209 +95,209 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WRRzPazhECQqhLo7/fwJg8EjtxI=
+			bmnxMijUrvWuxNHxm7Vz5NGmPm8=
 			</data>
 			<key>hash2</key>
 			<data>
-			3dYETPnfnH6d1z/gKFE789X9htdB4mKVRTY+3fXDEgg=
+			CQD8C25z+mx9crr0ydgqagfEUerW4Vftl/ynJDqkYRI=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/vqnvOPnRNzabZIKLv8spWicrB4=
+			QHPazefUn2pT9Qbyhh0nEA1VG+A=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Q+dcF427wbgPKN1mZQBRooN2mS4DorM9tMYDKJktks=
+			iOC4OS5/eCcXgR3O4BpjCLVYYS6yRqgqUHbL+ZdvBlM=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/vqnvOPnRNzabZIKLv8spWicrB4=
+			QHPazefUn2pT9Qbyhh0nEA1VG+A=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Q+dcF427wbgPKN1mZQBRooN2mS4DorM9tMYDKJktks=
+			iOC4OS5/eCcXgR3O4BpjCLVYYS6yRqgqUHbL+ZdvBlM=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ujRGR+y26tYAkMxcVaHs2SvsAEg=
+			fXl1oboNxoDTIa2nqm6pZZ74PS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			eXg3Hf6nO1iJyk7qEhr58FDOJ2PoD8su1pyIVb6V7gk=
+			16OxNzzPAvTUu+fS2axLml0uSg5ZIH60NWf7STc8Qfs=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ujRGR+y26tYAkMxcVaHs2SvsAEg=
+			fXl1oboNxoDTIa2nqm6pZZ74PS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			eXg3Hf6nO1iJyk7qEhr58FDOJ2PoD8su1pyIVb6V7gk=
+			16OxNzzPAvTUu+fS2axLml0uSg5ZIH60NWf7STc8Qfs=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4OpsQaCvhUxuLVnLDd5D4KK7rjE=
+			saM9eAQFG1zezModOtsr/o5ZKaI=
 			</data>
 			<key>hash2</key>
 			<data>
-			X+BnwBjjs5poJi5dVvmN/ygKNutoRGn/ToCWO+l22WI=
+			A/0DSQ4WCEMnQZjhdAZ3HtFVLucHm8OCQh5AA3x8FDE=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4OpsQaCvhUxuLVnLDd5D4KK7rjE=
+			saM9eAQFG1zezModOtsr/o5ZKaI=
 			</data>
 			<key>hash2</key>
 			<data>
-			X+BnwBjjs5poJi5dVvmN/ygKNutoRGn/ToCWO+l22WI=
+			A/0DSQ4WCEMnQZjhdAZ3HtFVLucHm8OCQh5AA3x8FDE=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OklEGqFFqur0VBRbMzyVvRuui6s=
+			YNL04BJQXRfvq8juQhrzoYv3dNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			IP1qZuXKRjiicMKUAOMNmICl6EQ+UmTTlu8zl+s9YBA=
+			d8B/EqLPQIjWwVv7ht7/MIh4RXvSPRkIDEVNCP+R5W4=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			od3lSN/ax08JHryfpwBGqUO/I0Y=
+			gMmRVfzPdWOALzrjFkWFxanfbDA=
 			</data>
 			<key>hash2</key>
 			<data>
-			omvYD5AWBhW13fGOSEenu1zBRlWuh8w0Q4VtARnyO6c=
+			5Fxgy2/on8XndefKpfZm2+ozGZToPt1T4+hTroWmhiE=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OklEGqFFqur0VBRbMzyVvRuui6s=
+			YNL04BJQXRfvq8juQhrzoYv3dNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			IP1qZuXKRjiicMKUAOMNmICl6EQ+UmTTlu8zl+s9YBA=
+			d8B/EqLPQIjWwVv7ht7/MIh4RXvSPRkIDEVNCP+R5W4=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			od3lSN/ax08JHryfpwBGqUO/I0Y=
+			gMmRVfzPdWOALzrjFkWFxanfbDA=
 			</data>
 			<key>hash2</key>
 			<data>
-			omvYD5AWBhW13fGOSEenu1zBRlWuh8w0Q4VtARnyO6c=
+			5Fxgy2/on8XndefKpfZm2+ozGZToPt1T4+hTroWmhiE=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2AItUYTHbz5k3EcV2emNq0kAjF0=
+			3SZkelwuwCqtfEc2e0fV3idjZwY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6LlVuIA2Lbi5fnCf6yO8AV9SedtqGLmRlL9+ylJwcNU=
+			hoK2e7xdYBjpMSI/iejVDFagKwK4jeNlOGeZHF1JJFs=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pr/mOEl/nMn0w6ksmNiUwlyJatE=
+			AqHyU9cLK6dXfR5Bu8qWsHlAuio=
 			</data>
 			<key>hash2</key>
 			<data>
-			E0OHamFx9np8gMwA5DxQRnJnZOHr5WPWNEd7jYBQ/WQ=
+			br0nctS6DwKSle6K7ic5vvptxE8tLsYzKssI6ZAMTt8=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2AItUYTHbz5k3EcV2emNq0kAjF0=
+			3SZkelwuwCqtfEc2e0fV3idjZwY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6LlVuIA2Lbi5fnCf6yO8AV9SedtqGLmRlL9+ylJwcNU=
+			hoK2e7xdYBjpMSI/iejVDFagKwK4jeNlOGeZHF1JJFs=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pr/mOEl/nMn0w6ksmNiUwlyJatE=
+			AqHyU9cLK6dXfR5Bu8qWsHlAuio=
 			</data>
 			<key>hash2</key>
 			<data>
-			E0OHamFx9np8gMwA5DxQRnJnZOHr5WPWNEd7jYBQ/WQ=
+			br0nctS6DwKSle6K7ic5vvptxE8tLsYzKssI6ZAMTt8=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ii1KpJ3RJG2vJ0MChnFDwFWfn4Y=
+			B1Mll2UBNzioGfDzwbCpmDC6YHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Qcu5wmkChoBtGkykzVU5EueLIm7zJap0gI9tY6iPbw=
+			OkMMJy0BZJ3sX46F1jDkl3ec/7Fa+H9ZgdlC1+PKpLw=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rHfH5xEGriKfaX/7vvrrf6uucHA=
+			uovU5Cu0hWr4fkysQ0RrufW0Q+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			3uJHGozASAGxetHFPHe4+rk8LH3HLz9Y8rGxmmVZGpE=
+			yLA+A8nSzQGjEhes8ow/cAdEt+/610kk+vfl9O+ukS8=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ii1KpJ3RJG2vJ0MChnFDwFWfn4Y=
+			B1Mll2UBNzioGfDzwbCpmDC6YHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Qcu5wmkChoBtGkykzVU5EueLIm7zJap0gI9tY6iPbw=
+			OkMMJy0BZJ3sX46F1jDkl3ec/7Fa+H9ZgdlC1+PKpLw=
 			</data>
 		</dict>
 		<key>Modules/Lottie.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rHfH5xEGriKfaX/7vvrrf6uucHA=
+			uovU5Cu0hWr4fkysQ0RrufW0Q+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			3uJHGozASAGxetHFPHe4+rk8LH3HLz9Y8rGxmmVZGpE=
+			yLA+A8nSzQGjEhes8ow/cAdEt+/610kk+vfl9O+ukS8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
