@@ -6,83 +6,47 @@
 	<dict>
 		<key>Headers/SwiftyBeaver-Swift.h</key>
 		<data>
-		MY46CBVCY1f14FSvymZSZ+gvznc=
+		/PtgBEE53qmChZU2C1Ed2cn5o/U=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zUhPR0QkGOBqjJDsKEFoNbXXR8k=
+		WTUhgmrKgyhYCNYuiX8zJeuaiqo=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		rgbAGEI3w74buRRV9WSE24VzYMk=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		rgbAGEI3w74buRRV9WSE24VzYMk=
+		323xviw05efO1pLT8dqrNBeGNEM=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		xw3TKjGHC2DITEk/16biKoHQdQ4=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<data>
-		xw3TKjGHC2DITEk/16biKoHQdQ4=
+		ayKOU7IbaWl4mZXQCqqH1h7/kSg=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		y6Lb8mGCsyXQtXol21mKAushj/k=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		y6Lb8mGCsyXQtXol21mKAushj/k=
+		MQShlNa2INAzr7Dpb+1lOMiRZj0=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		YpzYsGlEkwx6WQthR/dUK/pkQfM=
+		WkqAbSvtUYROjr5roAsFpQYJPpA=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/9JhqievmTT+pD70VL4um29vXJE=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		YpzYsGlEkwx6WQthR/dUK/pkQfM=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		/9JhqievmTT+pD70VL4um29vXJE=
+		5xBReJsZxdK6QNmW6G4jBgYVf70=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cBzblYpPZVs/zija5onmBvWTpCU=
+		V6yK8aNgPUiRyBKSm3KARLf7azY=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oVChAszg1O6+kPB6WhuH1hUfhr0=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/i386.swiftdoc</key>
-		<data>
-		cBzblYpPZVs/zija5onmBvWTpCU=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/i386.swiftmodule</key>
-		<data>
-		oVChAszg1O6+kPB6WhuH1hUfhr0=
+		vTrwKwyJm/N1/Ox0fP9Q/BboxU8=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RvmB79kAQTEY71J3Pa8ovmW2Fco=
+		D6kGe9GSiMiPLIsi9g9UxXxD5lY=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GWwQsEuzH6s2llqkLtY8oZAjHSk=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		RvmB79kAQTEY71J3Pa8ovmW2Fco=
-		</data>
-		<key>Modules/SwiftyBeaver.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		GWwQsEuzH6s2llqkLtY8oZAjHSk=
+		HTgLhk1JmCc0tctu+pLEu0xmOcg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,209 +59,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MY46CBVCY1f14FSvymZSZ+gvznc=
+			/PtgBEE53qmChZU2C1Ed2cn5o/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			ClJuZa+NnBedpUvJO23LUIvHgQQ5RvZTp+TfWW0m4ys=
+			A2MpQKCRUwvxN9Sk96PDyIS550ompATX8oIp9bU5FHs=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rgbAGEI3w74buRRV9WSE24VzYMk=
+			323xviw05efO1pLT8dqrNBeGNEM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xKu+qSCprjKpwXEZG5E1WJN6A8JxLc24TM8109dQzVA=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rgbAGEI3w74buRRV9WSE24VzYMk=
-			</data>
-			<key>hash2</key>
-			<data>
-			xKu+qSCprjKpwXEZG5E1WJN6A8JxLc24TM8109dQzVA=
+			b4waczjFW6DGLG01qXMcNW5Ol6wKWC0ma7FSowTx22U=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xw3TKjGHC2DITEk/16biKoHQdQ4=
+			ayKOU7IbaWl4mZXQCqqH1h7/kSg=
 			</data>
 			<key>hash2</key>
 			<data>
-			3IWpFrsGVVFSy6GBZc7JXCQ9AFzIbdGLXlWSu/qcpQA=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xw3TKjGHC2DITEk/16biKoHQdQ4=
-			</data>
-			<key>hash2</key>
-			<data>
-			3IWpFrsGVVFSy6GBZc7JXCQ9AFzIbdGLXlWSu/qcpQA=
+			fKlohwgmq1QTRPjOprTTg2pBW13hBgIHJlzG5bIGdzE=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			y6Lb8mGCsyXQtXol21mKAushj/k=
+			MQShlNa2INAzr7Dpb+1lOMiRZj0=
 			</data>
 			<key>hash2</key>
 			<data>
-			kmQm/82TmZqeuVwOlzmqU8p9AnSxUOmHgchdBepDVYE=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y6Lb8mGCsyXQtXol21mKAushj/k=
-			</data>
-			<key>hash2</key>
-			<data>
-			kmQm/82TmZqeuVwOlzmqU8p9AnSxUOmHgchdBepDVYE=
+			FWfLT00jNggqvUZXygFyGBIAV6qKCFCqeEyJOTEUk6Y=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YpzYsGlEkwx6WQthR/dUK/pkQfM=
+			WkqAbSvtUYROjr5roAsFpQYJPpA=
 			</data>
 			<key>hash2</key>
 			<data>
-			hwIpEw/XeeaO6gHFnRstZaaAkIHsp/BuxTQSM4sTEqM=
+			gOIm0bvYt64w6bqny6+awWZANzt5vQIZIBnTCjUY/S8=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/9JhqievmTT+pD70VL4um29vXJE=
+			5xBReJsZxdK6QNmW6G4jBgYVf70=
 			</data>
 			<key>hash2</key>
 			<data>
-			i324eJWh0P6TCvblYRPcJM+dHjau5NRrqxtzOYJoIbU=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YpzYsGlEkwx6WQthR/dUK/pkQfM=
-			</data>
-			<key>hash2</key>
-			<data>
-			hwIpEw/XeeaO6gHFnRstZaaAkIHsp/BuxTQSM4sTEqM=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/9JhqievmTT+pD70VL4um29vXJE=
-			</data>
-			<key>hash2</key>
-			<data>
-			i324eJWh0P6TCvblYRPcJM+dHjau5NRrqxtzOYJoIbU=
+			68S0r3hMeAKaSUiZBTCoRt47YBi5C0lkcmkA4YGLZbU=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cBzblYpPZVs/zija5onmBvWTpCU=
+			V6yK8aNgPUiRyBKSm3KARLf7azY=
 			</data>
 			<key>hash2</key>
 			<data>
-			xK9/4SUrURIfh6Arap4IoxK7aEMBb+p5lYZuii4pKS4=
+			hxiX1NHbBL3pxddNLsQq7SM70n2MogkPbcWDZP4NRhQ=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oVChAszg1O6+kPB6WhuH1hUfhr0=
+			vTrwKwyJm/N1/Ox0fP9Q/BboxU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			zP6TAC4yZSi4fwkSEHGewMNLR9Tzw9odRO8aFN5QVfg=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cBzblYpPZVs/zija5onmBvWTpCU=
-			</data>
-			<key>hash2</key>
-			<data>
-			xK9/4SUrURIfh6Arap4IoxK7aEMBb+p5lYZuii4pKS4=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oVChAszg1O6+kPB6WhuH1hUfhr0=
-			</data>
-			<key>hash2</key>
-			<data>
-			zP6TAC4yZSi4fwkSEHGewMNLR9Tzw9odRO8aFN5QVfg=
+			vExsdHOK6fKbPwj3svmWEm65S+UU0FfFX8Ybpwi9Ecg=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RvmB79kAQTEY71J3Pa8ovmW2Fco=
+			D6kGe9GSiMiPLIsi9g9UxXxD5lY=
 			</data>
 			<key>hash2</key>
 			<data>
-			iAjxTJuyDciqA/OQkKbnEme4Uz1uvqlF2mnCJexjHg4=
+			NE1uq+Yj6jgBmO9DDRaVBjf0uJOLTOtZYzghR53qIDE=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GWwQsEuzH6s2llqkLtY8oZAjHSk=
+			HTgLhk1JmCc0tctu+pLEu0xmOcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			54W+MrwPj6+yQuVsixNnX6Pn0IyP2tsnSxgmLa01P98=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RvmB79kAQTEY71J3Pa8ovmW2Fco=
-			</data>
-			<key>hash2</key>
-			<data>
-			iAjxTJuyDciqA/OQkKbnEme4Uz1uvqlF2mnCJexjHg4=
-			</data>
-		</dict>
-		<key>Modules/SwiftyBeaver.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GWwQsEuzH6s2llqkLtY8oZAjHSk=
-			</data>
-			<key>hash2</key>
-			<data>
-			54W+MrwPj6+yQuVsixNnX6Pn0IyP2tsnSxgmLa01P98=
+			hMXBjUQ/gA2xkeDgNyz9ybjwQnUK2Z43cdNvWuHI1TQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

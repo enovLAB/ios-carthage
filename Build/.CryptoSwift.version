@@ -1,8 +1,8 @@
 {
   "Mac" : [
     {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "ad2a59bbd1cddc62125557459e73b912c6b5fa6054c116405f2d0d1ed1a45b55",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "c62537f24b0c4b1dec6d7f5fa7e325f09a9198adb0100812512d41202497a246",
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
       "identifier" : "macos-arm64_x86_64"
@@ -10,15 +10,15 @@
   ],
   "watchOS" : [
     {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "c762bbfd279548195236276ba634d1564b7c02eb159c1bfc9352a1160a8446c5",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "c1f70e2c321f72013332b4ba49c9e491b21e308880d7f915cad0fc30e4e6c77e",
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
       "identifier" : "watchos-arm64_i386_x86_64-simulator"
     },
     {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "f2b5652d1e5d56b4ef403a28c99573dcefe8a57a1fc8ea5b92623e213438ee6a",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "b6a41fb4ee49b5b9eb40e2d3010dcaa48066576a53939167e0676ac1affa8279",
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
       "identifier" : "watchos-arm64_32_armv7k"
@@ -26,39 +26,39 @@
   ],
   "tvOS" : [
     {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "4fb634c6edbc811aea5cde0ee2924a21252cee9f7ef6d8392bd882537fbcdf78",
-      "name" : "CryptoSwift",
-      "container" : "CryptoSwift.xcframework",
-      "identifier" : "tvos-arm64"
-    },
-    {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "20067057e05672db14ba7a60eef992401dd447442460cc2fd7b4dfb196c00ce3",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "9059a7074b2ff9129c0aea4e50e6d2273ac1c98304e6966d70804c7dbef8f5fb",
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "4b46a76829cfd098288315826677946abb7952bde4c128968fba146b3b7f5b23",
+      "name" : "CryptoSwift",
+      "container" : "CryptoSwift.xcframework",
+      "identifier" : "tvos-arm64"
     }
   ],
-  "commitish" : "1.4.1",
+  "commitish" : "1.4.3",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "44a09be62b1aa24b94517649ef2c0a37b608a97bed8aad27b77ef396d7d6660c",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "d90972ecdcc694b7968bd861447a294d5f5d5f365e81efb112a519c22f85d0b8",
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "f3090cee70545fd830a393ec4c5b01625b15683aadcf1734212ad1e23cda148e",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "64c627854dfa2ba4ac1c0579ce0f71beb26257adf5ab8027b935879952d4da75",
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "swiftToolchainVersion" : "5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)",
-      "hash" : "f3e00cc5af9e5646fe97e7a72c7bc68987f1d7ae9b6929ebe4a3a83adac8394a",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "50c3cfcdc3a59b68535cf04e8272908e1d83962628dcd8686fdb9763263c3741",
       "name" : "CryptoSwift",
       "container" : "CryptoSwift.xcframework",
       "identifier" : "ios-arm64_armv7"

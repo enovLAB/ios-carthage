@@ -1,60 +1,60 @@
 {
   "Mac" : [
     {
-      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
-      "hash" : "ea96d014052c27317d3b271e5ac17edc7dfda242bd5be798dab35e6f5feba505",
-      "name" : "RxSwift",
-      "container" : "RxSwift.xcframework",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "75484da391e4c914ea981bec21b1c296fe6cb1047d29e32e396f8724bdfbbf09",
+      "name" : "RxBlocking",
+      "container" : "RxBlocking.xcframework",
       "identifier" : "macos-arm64_x86_64"
     }
   ],
   "watchOS" : [
     {
-      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
-      "hash" : "c2cc6050f499cad3173adebb61daf580fe60ba14b7c8fca960563d68d098cf55",
-      "name" : "RxSwift",
-      "container" : "RxSwift.xcframework",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "61b210f24ca27150d711b542a161a336ef06ec70421197cb6434b5b9d7a14094",
+      "name" : "RxBlocking",
+      "container" : "RxBlocking.xcframework",
       "identifier" : "watchos-arm64_i386_x86_64-simulator"
     },
     {
-      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
-      "hash" : "1831685a3c925a0adfa1eeb88f053425cab4500211a6c51a60df9008b37712d7",
-      "name" : "RxSwift",
-      "container" : "RxSwift.xcframework",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "f63b2861b4556b927751f8bf0a6304957ca80e75a095dbc18f781f5523f35fdc",
+      "name" : "RxBlocking",
+      "container" : "RxBlocking.xcframework",
       "identifier" : "watchos-arm64_32_armv7k"
     }
   ],
   "tvOS" : [
     {
-      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
-      "hash" : "bee201e65a44c8a3f8e9d8bd0ab28c1d2bbaeef5ceaa09aa5f76e110af311ba9",
-      "name" : "RxSwift",
-      "container" : "RxSwift.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "aae4ae7752c86c4250f1413f462153cc19280269b132bd1ab2d50e95a290fa38",
+      "name" : "RxBlocking",
+      "container" : "RxBlocking.xcframework",
+      "identifier" : "tvos-arm64"
     },
     {
-      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
-      "hash" : "7a500d64a172d0bbe75eddcdf4f8d1a6845243a9b793737da7267943a021ad51",
-      "name" : "RxSwift",
-      "container" : "RxSwift.xcframework",
-      "identifier" : "tvos-arm64"
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "7fd4af28f03823b7187cd866bdefee6c772b465f3337cbc0effc46ad39058e2b",
+      "name" : "RxBlocking",
+      "container" : "RxBlocking.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     }
   ],
-  "commitish" : "6.2.0",
+  "commitish" : "6.5.0",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
-      "hash" : "5d496e51701db4e997a979dd4ffd86a9887b0cc9861c83df12023b48582fe938",
-      "name" : "RxSwift",
-      "container" : "RxSwift.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "0d38e1bf234d32d7123134b1442c1f12130d3738fe85dda059f2b1b4f0470db6",
+      "name" : "RxBlocking",
+      "container" : "RxBlocking.xcframework",
+      "identifier" : "ios-arm64_armv7"
     },
     {
-      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
-      "hash" : "223dda163bcd41b2ff47a1c8b6a915e262fd13feee89ad7a851b4857be11d5f3",
-      "name" : "RxSwift",
-      "container" : "RxSwift.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "44a79a7dc47ef5b053f45e9a76b2407301b8d90d90ee53ad26ee2484d8fb9b7c",
+      "name" : "RxBlocking",
+      "container" : "RxBlocking.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
     }
   ]
 }

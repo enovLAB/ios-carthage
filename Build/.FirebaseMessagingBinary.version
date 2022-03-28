@@ -1,7 +1,7 @@
 {
   "Mac" : [
     {
-      "hash" : "c42e63f8027857b094bcebdeb196efa0499c25a0b87a9046571456fd6b0e45d2",
+      "hash" : "9405e3e9a10ae777c7f49894d6fb7ab00a71fc4103535d04e0224788c8a5b4df",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "macos-arm64_x86_64"
@@ -12,34 +12,34 @@
   ],
   "tvOS" : [
     {
-      "hash" : "0ed6787e37ae691097196d824b13a12720bb8d9222edc4c64970944065cb8d89",
+      "hash" : "3fe5bbd308cab3bb72ad2a284bdd54d4aa1f3e0753660cb51a1495f92f8b312c",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "c92318939ef0daab6b2dd3732fd61887f83cea5c5e9061db75df493411a90a6d",
+      "hash" : "134d311265246005eceb5eeba8eb42247a0d4ee716a3a9350fdd0d04a2aad192",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "tvos-arm64"
     }
   ],
-  "commitish" : "8.6.0",
+  "commitish" : "8.14.0",
   "iOS" : [
     {
-      "hash" : "04d7c8326b8c1c57e8a962a6dd431d040759273d9c80626658217b9076e12fc9",
-      "name" : "FirebaseMessaging",
-      "container" : "FirebaseMessaging.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
-      "hash" : "d02da99b827a4352cd2e3bf0b60e854aba889824f1b75b80d192db7f1e18d712",
+      "hash" : "fb09f27d23f3c463c2f173ab84cea306c20189b1384842ca6759127cc7beb6fb",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "hash" : "322849ccc1bef796ed175bebb80a72e8a30f189476e229e85f08ca33dc34cb42",
+      "hash" : "7cab108ac95189b101fdf9bd8a2b527fbb8e98e111255b1ff1a6d6b97d189672",
+      "name" : "FirebaseMessaging",
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "c04bbd07dc97abd23a07f3e05ebf4a2d16ab7c7a94ddf4ec8a845df417941d40",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "ios-arm64_armv7"

@@ -2,18 +2,18 @@
   "commitish" : "2.0.6",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
-      "hash" : "83868bb1c33bb4d6c36152ddf6b099c157892389c47403533b9bbffb4de36ac4",
-      "name" : "Hydra",
-      "container" : "Hydra.xcframework",
-      "identifier" : "ios-arm64_x86_64-simulator"
-    },
-    {
-      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
-      "hash" : "899e5db4d11548c6df2c14f2fb6aa0a604be4d877e0f098189386edb563b4a54",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "17ad2b7aaf8be616d95665032026d1a032446b8a0c3992d77b08a8257291f656",
       "name" : "Hydra",
       "container" : "Hydra.xcframework",
       "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "4fede6f2f3efb2e74047037fbf931adefb3376d88ac3611844ac2ece7ab32a43",
+      "name" : "Hydra",
+      "container" : "Hydra.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
     }
   ]
 }

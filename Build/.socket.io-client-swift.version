@@ -2,15 +2,15 @@
   "commitish" : "v15.2.0",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
-      "hash" : "5d72a3d9bb070bdc82650578c6d26c37fbce1e5f432b684a5edfa749b6001c73",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "d0e11e83972da773fd82159768a67c00e2cc9e37f48fdf6667f2f5c036494e47",
       "name" : "SocketIO",
       "container" : "SocketIO.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
-      "hash" : "6090f884b1c96ea76f024da9f792cf238fc2440ccbb211bb54b28a61b19c1f63",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "377333c6e1274aef874ea1ace6283e0bffbdb11cb3ac87b5e753671da50419bc",
       "name" : "SocketIO",
       "container" : "SocketIO.xcframework",
       "identifier" : "ios-arm64_armv7"

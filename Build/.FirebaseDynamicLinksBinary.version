@@ -8,22 +8,22 @@
   "tvOS" : [
 
   ],
-  "commitish" : "8.6.0",
+  "commitish" : "8.14.0",
   "iOS" : [
     {
-      "hash" : "75c34f5afce667eb8abebfde8aff3800de7d07992618a11b69a8f7266d8efdc6",
-      "name" : "FirebaseDynamicLinks",
-      "container" : "FirebaseDynamicLinks.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
-      "hash" : "cab1700fd133a52d126f0e1ac3d45d3c318a5d21e9fda0a3a6c7972e8e6f9383",
+      "hash" : "f62330fc315aa59a7cfe1af48d4c6217860e1125497c15151f1de78c0722c06b",
       "name" : "FirebaseDynamicLinks",
       "container" : "FirebaseDynamicLinks.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "d30446b40aad8323f3efeb2a2e2451f34375031dba83e2dfe61996244c4fc032",
+      "hash" : "b3758d83ca9eb91f93ced3d8a3fc035b37127997318c35985a995ae13985bc9f",
+      "name" : "FirebaseDynamicLinks",
+      "container" : "FirebaseDynamicLinks.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "34fc9f606527115c784a3ac81948187d0edde7307ac2c78506aa868f326b7fae",
       "name" : "FirebaseDynamicLinks",
       "container" : "FirebaseDynamicLinks.xcframework",
       "identifier" : "ios-arm64_armv7"

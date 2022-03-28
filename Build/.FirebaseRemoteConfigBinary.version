@@ -1,13 +1,13 @@
 {
   "Mac" : [
     {
-      "hash" : "fa502484318509722b9f784f2640ad68d5200a618401848b83fc2eb97839e3c1",
+      "hash" : "9e7884e8b097fc5b5d45f90d20a3c18dc79b162cf19251e659dcab129521b6fc",
       "name" : "FirebaseABTesting",
       "container" : "FirebaseABTesting.xcframework",
       "identifier" : "macos-arm64_x86_64"
     },
     {
-      "hash" : "47252e4ffb50778a3e86d475962430e6f057058f64c26d6a90ba17f14d618223",
+      "hash" : "66823d34251a906dd412521105db0a5f875cb1bf4cfba8f903ba278f164241d7",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
       "identifier" : "macos-arm64_x86_64"
@@ -18,67 +18,67 @@
   ],
   "tvOS" : [
     {
-      "hash" : "65221ec1b7944164c909c873f23925a7373546490407cedeeb161928cd643675",
+      "hash" : "b0ea16ee0834dd18f0d3e8cd035a4e76e81a1f16857abb4f101ea930f2734db9",
       "name" : "FirebaseABTesting",
       "container" : "FirebaseABTesting.xcframework",
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "b7da058c5fa37ef57a98676bafc1457d4e1c3e73b5063da0c663de2ed4a44c6b",
+      "hash" : "bc4f6183a595113fffdefb544f5fcf76736f3e4782380f86a482c00d7f950d7e",
       "name" : "FirebaseABTesting",
       "container" : "FirebaseABTesting.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "3f21470d06d06804f9bd42729a02ea9e056c01ce6ec5ec5b37ac11587b3348f4",
+      "hash" : "fa415833b19178f3f929dfae16810d727d734d12a2949703a07c5bfbc4c9bc66",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "51bd20961bf33c0e321171c9a905fcc86adceacb9442ac419706958700fb8c23",
+      "hash" : "ff83efea27add62b290bbd21e8d4dbaf120600a3b93b0d7e3e103c02b6523ec8",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
       "identifier" : "tvos-arm64"
     }
   ],
-  "commitish" : "8.6.0",
+  "commitish" : "8.14.0",
   "iOS" : [
     {
-      "hash" : "e2e6dcc34ee50c4c2b619ca1e489e3961b1512460da9d948d01d0ae6b41d3c12",
-      "name" : "FirebaseABTesting",
-      "container" : "FirebaseABTesting.xcframework",
-      "identifier" : "ios-arm64_armv7"
-    },
-    {
-      "hash" : "2f7a6387ae6e48d8d8c642914aa3fcaf094fe500a93bdf88a0e78a74800be8b8",
-      "name" : "FirebaseABTesting",
-      "container" : "FirebaseABTesting.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
-      "hash" : "ed1ea545481359510fdb3bb31979d71face26ec7b21b0d4c86f0c07ee83bc447",
+      "hash" : "f17dcc14da7f111a1d0e96a8e0ff25e2fb3057a7fad8ecdc25ac517376d3b6dd",
       "name" : "FirebaseABTesting",
       "container" : "FirebaseABTesting.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "773f13e6ad8963030ec215bf1bc564d459e2b66d4e9bf9a01042bd6bd3db45bd",
-      "name" : "FirebaseRemoteConfig",
-      "container" : "FirebaseRemoteConfig.xcframework",
+      "hash" : "9d54b32df4743bc9691aeaf4ad114432bde26087b29c077517d027920b2c28e0",
+      "name" : "FirebaseABTesting",
+      "container" : "FirebaseABTesting.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "9a37e3fa6d543e982eb12c25c6e7964c39e5f7c9bf97eff47d9a62e315073660",
+      "name" : "FirebaseABTesting",
+      "container" : "FirebaseABTesting.xcframework",
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "d8e9ece8a507fd75336a12531684eece75e88456a774cacf6333c0bc8f72b6fe",
+      "hash" : "ca59ccd5b20fe212f53b3134eaf641ce7a122ec9c903202f9183059654d415c2",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "44207a1aed9cc2c50f8435e1de476568a982feee59fe9cb2b491d60282d68a7c",
+      "hash" : "6f461e64e160d069d1ad5ad97d940bf99cb6629e9ef4063a6b5790ab524b29d1",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "d59c8fb21e69a0ba1efd693f091b501006881b698ac0a4e554c3f63880b33f29",
+      "name" : "FirebaseRemoteConfig",
+      "container" : "FirebaseRemoteConfig.xcframework",
+      "identifier" : "ios-arm64_armv7"
     }
   ]
 }

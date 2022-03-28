@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CryptoSwift-Swift.h</key>
 		<data>
-		BXYpe6ZHvRFtjFPO+4b2WewkdNA=
+		Bm2iH7YWroPvoUO2Qp33gQ1g9R0=
 		</data>
 		<key>Headers/CryptoSwift.h</key>
 		<data>
@@ -14,103 +14,103 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ph8NBkDacSYeLR0rFmvXnecUYp8=
+		4rfRE0E3iteG7uqrKNlVMck7kLQ=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		tvbZErDywz1Cy8wU2/6loUFiX1w=
+		BmRoKknqtyraMJxRoeOXf8rWpUE=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		tvbZErDywz1Cy8wU2/6loUFiX1w=
+		BmRoKknqtyraMJxRoeOXf8rWpUE=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		hAy281T3lFlkeqRJNFk+F9DnKEM=
+		ZHGONdZNB3qqJQ9q8jZT3I5kz3Y=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<data>
-		hAy281T3lFlkeqRJNFk+F9DnKEM=
+		ZHGONdZNB3qqJQ9q8jZT3I5kz3Y=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		sBaHO2ekMQc8sEUmJeXtECI9Uf0=
+		gdnGavZrsrns2jGCY/mGeOIPn4c=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		sBaHO2ekMQc8sEUmJeXtECI9Uf0=
+		gdnGavZrsrns2jGCY/mGeOIPn4c=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9XMDbgG6Q/7kdbvZZHnchT5Wx6g=
+		9QLHi4Rwqk7VES36PbJ6FrMlKqE=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fwQ/2pDHhiNNaI0Hcogbj4pgmRw=
+		6EFUdpRhOltNbfIQi3aDL9x/Sn8=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rImQWcwCspKhyZLW0u4i+N/lj0Y=
+		VHsEabMsIWVQz1YVB5XN1TDtkhU=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		9XMDbgG6Q/7kdbvZZHnchT5Wx6g=
+		9QLHi4Rwqk7VES36PbJ6FrMlKqE=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		fwQ/2pDHhiNNaI0Hcogbj4pgmRw=
+		6EFUdpRhOltNbfIQi3aDL9x/Sn8=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		rImQWcwCspKhyZLW0u4i+N/lj0Y=
+		VHsEabMsIWVQz1YVB5XN1TDtkhU=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		J7H43Ja470d+Ug9I1p+/62aKHXg=
+		i/P6smN+2tilkZa3Im2WyutGr7A=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YX0d5hHFUEYU8jJXx+bD5Kb8Nes=
+		ayCmVcshEePVXWYkn/G8yOSc7qQ=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Fq8C0w28Yl1CbW6ULN+1dYNoLGY=
+		n/3LZNLlNnvibEO7Rfq1+L95Nlg=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/i386.swiftdoc</key>
 		<data>
-		J7H43Ja470d+Ug9I1p+/62aKHXg=
+		i/P6smN+2tilkZa3Im2WyutGr7A=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/i386.swiftinterface</key>
 		<data>
-		YX0d5hHFUEYU8jJXx+bD5Kb8Nes=
+		ayCmVcshEePVXWYkn/G8yOSc7qQ=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/i386.swiftmodule</key>
 		<data>
-		Fq8C0w28Yl1CbW6ULN+1dYNoLGY=
+		n/3LZNLlNnvibEO7Rfq1+L95Nlg=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		1xSJfKDEfSm+a5zNQY9Sz/+YIm0=
+		tr9X9cCnoKH5jBQ/tcQByXnhj6Q=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FGTnLaaMpHKea5rkK+i4C7PkJoE=
+		1i+CHdJx8QF7NSoBq8op80tVvCY=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zq3r6FQd6KYP0wFOwmcrNA8sQng=
+		w513ilnOloq6SiWXnNeG1Iu0WWw=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		1xSJfKDEfSm+a5zNQY9Sz/+YIm0=
+		tr9X9cCnoKH5jBQ/tcQByXnhj6Q=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		FGTnLaaMpHKea5rkK+i4C7PkJoE=
+		1i+CHdJx8QF7NSoBq8op80tVvCY=
 		</data>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		zq3r6FQd6KYP0wFOwmcrNA8sQng=
+		w513ilnOloq6SiWXnNeG1Iu0WWw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,11 +123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BXYpe6ZHvRFtjFPO+4b2WewkdNA=
+			Bm2iH7YWroPvoUO2Qp33gQ1g9R0=
 			</data>
 			<key>hash2</key>
 			<data>
-			4aSyCKIk3ekZscyvUGMIplPQ8dmYuWPbDlML69y6o0E=
+			EL5mwjg20VeQQMz37Cwik/PX10SFI1CSpbsqA/LhKWw=
 			</data>
 		</dict>
 		<key>Headers/CryptoSwift.h</key>
@@ -145,264 +145,264 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tvbZErDywz1Cy8wU2/6loUFiX1w=
+			BmRoKknqtyraMJxRoeOXf8rWpUE=
 			</data>
 			<key>hash2</key>
 			<data>
-			rm+ciA8UdUziSijFaKRB00aoRt6fQ5DVtCqMlemXQeU=
+			/uziRUDnfNW3I21LlzriU1Lz7iQXXHq9Fef5TehNHsM=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tvbZErDywz1Cy8wU2/6loUFiX1w=
+			BmRoKknqtyraMJxRoeOXf8rWpUE=
 			</data>
 			<key>hash2</key>
 			<data>
-			rm+ciA8UdUziSijFaKRB00aoRt6fQ5DVtCqMlemXQeU=
+			/uziRUDnfNW3I21LlzriU1Lz7iQXXHq9Fef5TehNHsM=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hAy281T3lFlkeqRJNFk+F9DnKEM=
+			ZHGONdZNB3qqJQ9q8jZT3I5kz3Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			o6rL4ZJiG2xoeqEzgqKF03oe/wYLJLVIrRvXET1oG2o=
+			fpmZ6y4ZL/oT7yZ6CSF/P2OD5tHJQq9M7Q6aaTmiAUY=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hAy281T3lFlkeqRJNFk+F9DnKEM=
+			ZHGONdZNB3qqJQ9q8jZT3I5kz3Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			o6rL4ZJiG2xoeqEzgqKF03oe/wYLJLVIrRvXET1oG2o=
+			fpmZ6y4ZL/oT7yZ6CSF/P2OD5tHJQq9M7Q6aaTmiAUY=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sBaHO2ekMQc8sEUmJeXtECI9Uf0=
+			gdnGavZrsrns2jGCY/mGeOIPn4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			DnkIq2VB4qAg6/73a2Px9yDuSDTCQGfMP8aWP489RKs=
+			vkCqBpWgUwtLKsSU/3pg6/giG5FbfoDfbKqYD1Q64y8=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sBaHO2ekMQc8sEUmJeXtECI9Uf0=
+			gdnGavZrsrns2jGCY/mGeOIPn4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			DnkIq2VB4qAg6/73a2Px9yDuSDTCQGfMP8aWP489RKs=
+			vkCqBpWgUwtLKsSU/3pg6/giG5FbfoDfbKqYD1Q64y8=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9XMDbgG6Q/7kdbvZZHnchT5Wx6g=
+			9QLHi4Rwqk7VES36PbJ6FrMlKqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			U83LPuXJ0eLv31IjbmjwKBKG//G/PsH+CyI6ORuVcaA=
+			9qDPGmL7SH42UZEGzmSXvtcW4DOR2CUv5nEqtxTRhU0=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fwQ/2pDHhiNNaI0Hcogbj4pgmRw=
+			6EFUdpRhOltNbfIQi3aDL9x/Sn8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gii52jseynH5ngQ0vexwwX2C/3kW89tmTrkDuAGUI3k=
+			CW+zWQHv67bTuYkgIZ8uopvzUbSg7WhxILXGA8iD6rk=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rImQWcwCspKhyZLW0u4i+N/lj0Y=
+			VHsEabMsIWVQz1YVB5XN1TDtkhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			yEJp2t4I8MUorK1cuo4MOtCiq/YaOCJvoMFTQTedWGY=
+			qeiYry7wKBYV1tDkQVLOfMnlAwE153rbAbvZjuZq9LU=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9XMDbgG6Q/7kdbvZZHnchT5Wx6g=
+			9QLHi4Rwqk7VES36PbJ6FrMlKqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			U83LPuXJ0eLv31IjbmjwKBKG//G/PsH+CyI6ORuVcaA=
+			9qDPGmL7SH42UZEGzmSXvtcW4DOR2CUv5nEqtxTRhU0=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fwQ/2pDHhiNNaI0Hcogbj4pgmRw=
+			6EFUdpRhOltNbfIQi3aDL9x/Sn8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gii52jseynH5ngQ0vexwwX2C/3kW89tmTrkDuAGUI3k=
+			CW+zWQHv67bTuYkgIZ8uopvzUbSg7WhxILXGA8iD6rk=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rImQWcwCspKhyZLW0u4i+N/lj0Y=
+			VHsEabMsIWVQz1YVB5XN1TDtkhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			yEJp2t4I8MUorK1cuo4MOtCiq/YaOCJvoMFTQTedWGY=
+			qeiYry7wKBYV1tDkQVLOfMnlAwE153rbAbvZjuZq9LU=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J7H43Ja470d+Ug9I1p+/62aKHXg=
+			i/P6smN+2tilkZa3Im2WyutGr7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			lxxltnmO3INlTyCGF0xUsDDdzIfas2ZPCW869Qv3bjc=
+			GjqWDV6OroBH/2dFuxEMZxlsEJ9Hq01nV6H7nyoPV8w=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YX0d5hHFUEYU8jJXx+bD5Kb8Nes=
+			ayCmVcshEePVXWYkn/G8yOSc7qQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			tJnLAWXptSGJkAS0xi9ecCyGOfm2tlm7RH6k8MfkIfM=
+			ZZyf5fcqI4e2YQ3AsgPoXO5BD3Gn8JYWC33vcVKa43A=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fq8C0w28Yl1CbW6ULN+1dYNoLGY=
+			n/3LZNLlNnvibEO7Rfq1+L95Nlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			h9q7AEmysm6dc6K13akz8emti/7nj6NvJhaM412xPx4=
+			chuJ19L8ydGr5Ydf9t/rP4Vy+yWqnVWpdjN1J6ckcC8=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J7H43Ja470d+Ug9I1p+/62aKHXg=
+			i/P6smN+2tilkZa3Im2WyutGr7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			lxxltnmO3INlTyCGF0xUsDDdzIfas2ZPCW869Qv3bjc=
+			GjqWDV6OroBH/2dFuxEMZxlsEJ9Hq01nV6H7nyoPV8w=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YX0d5hHFUEYU8jJXx+bD5Kb8Nes=
+			ayCmVcshEePVXWYkn/G8yOSc7qQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			tJnLAWXptSGJkAS0xi9ecCyGOfm2tlm7RH6k8MfkIfM=
+			ZZyf5fcqI4e2YQ3AsgPoXO5BD3Gn8JYWC33vcVKa43A=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fq8C0w28Yl1CbW6ULN+1dYNoLGY=
+			n/3LZNLlNnvibEO7Rfq1+L95Nlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			h9q7AEmysm6dc6K13akz8emti/7nj6NvJhaM412xPx4=
+			chuJ19L8ydGr5Ydf9t/rP4Vy+yWqnVWpdjN1J6ckcC8=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1xSJfKDEfSm+a5zNQY9Sz/+YIm0=
+			tr9X9cCnoKH5jBQ/tcQByXnhj6Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			7o0h7T7NqsMPOzlg+TjikHLCiUinJgFHva909z69NmI=
+			GuA4H3AgU7Emv1hID7eRleCk/d6pHa14BNpsY29m9wY=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FGTnLaaMpHKea5rkK+i4C7PkJoE=
+			1i+CHdJx8QF7NSoBq8op80tVvCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wblrj4smtj9PgcRllOvK1l9KFiiG1fSooDHpciNcRko=
+			qoYz58SfmlgR94iciYNsbWf8EYbcrhZ12XK5jsWwlEo=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zq3r6FQd6KYP0wFOwmcrNA8sQng=
+			w513ilnOloq6SiWXnNeG1Iu0WWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			zYEndwuaxs8mMosfe1hOHaRjM5cRg++dbxsUFHL+LT8=
+			kGauuGhWOiwhYHE20ttTcUL73rGNk5uTDtDFQBD2DvQ=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1xSJfKDEfSm+a5zNQY9Sz/+YIm0=
+			tr9X9cCnoKH5jBQ/tcQByXnhj6Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			7o0h7T7NqsMPOzlg+TjikHLCiUinJgFHva909z69NmI=
+			GuA4H3AgU7Emv1hID7eRleCk/d6pHa14BNpsY29m9wY=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FGTnLaaMpHKea5rkK+i4C7PkJoE=
+			1i+CHdJx8QF7NSoBq8op80tVvCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wblrj4smtj9PgcRllOvK1l9KFiiG1fSooDHpciNcRko=
+			qoYz58SfmlgR94iciYNsbWf8EYbcrhZ12XK5jsWwlEo=
 			</data>
 		</dict>
 		<key>Modules/CryptoSwift.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zq3r6FQd6KYP0wFOwmcrNA8sQng=
+			w513ilnOloq6SiWXnNeG1Iu0WWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			zYEndwuaxs8mMosfe1hOHaRjM5cRg++dbxsUFHL+LT8=
+			kGauuGhWOiwhYHE20ttTcUL73rGNk5uTDtDFQBD2DvQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
