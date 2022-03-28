@@ -1,7 +1,7 @@
 {
   "Mac" : [
     {
-      "hash" : "b0cad66daaf3fe056b12e5f73001ad2161ca2744270f37df58b22e23e1238eba",
+      "hash" : "ab176d47558ec44cf3324187544b41c0fb7d4aa7c157d9962da868f31436c969",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
       "identifier" : "macos-arm64_x86_64"
@@ -12,34 +12,34 @@
   ],
   "tvOS" : [
     {
-      "hash" : "090887d1b5d82b3ae9f0a90377d70364f967cd4811fecf516db9c5821837cb4a",
+      "hash" : "ac676dac81e4a2ccb00c835c630765cc8f9358eaf8175662e182ef53192cc072",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "c113a7f3644287da66e06e1bfedb7406b75dfaf99f0993e5a216d2824b8f7beb",
+      "hash" : "df33226d2b3490146526b9f432bc6cce53af64e0278eb29f636e922c40e400ff",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
       "identifier" : "tvos-arm64"
     }
   ],
-  "commitish" : "8.6.0",
+  "commitish" : "8.14.0",
   "iOS" : [
     {
-      "hash" : "3ac7c618932569f10be628ad2d40a5e4187232d036eb426aab90180c4c9f3b4a",
+      "hash" : "e5f2d06620146dff87341fecf6d258fa56b2e1233aadb77bc6dc1fe9fe460da4",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "626147b976da7086731750caab87d4cf8e1dfa3b4a2c8493979a035512fff11b",
+      "hash" : "6bfe17c7d089c8707e1fa69b2d432d3d0ee49fe04dc7d367f803aca5f9131291",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "hash" : "bc0fdb3d696b3112a4cb6b8e934587ad41fea46bb69483dc32502a10ac6c03e6",
+      "hash" : "321d837e3e7a1396f6b56ebbd31de23d84bafe9d396d3923841e9d50ec0f0677",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
       "identifier" : "ios-arm64_armv7"

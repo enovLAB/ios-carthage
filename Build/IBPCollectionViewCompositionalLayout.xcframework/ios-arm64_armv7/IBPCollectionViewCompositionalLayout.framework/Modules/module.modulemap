@@ -1,6 +1,0 @@
-framework module IBPCollectionViewCompositionalLayout {
-  umbrella header "IBPCollectionViewCompositionalLayout.h"
-
-  export *
-  module * { export * }
-}

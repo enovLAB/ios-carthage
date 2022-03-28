@@ -6,59 +6,35 @@
 	<dict>
 		<key>Headers/Hydra-Swift.h</key>
 		<data>
-		QTW5wHp3I1GiCT1PtvfJlKzmgUA=
+		9GHS1Ti46XnIeIlkcVTLXYNFHUk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Nr2H8TBHECQDEVBpo4uujR9v8mQ=
+		WGLgwRfLSOzixMuLBxCUgOKCInM=
 		</data>
 		<key>Modules/Hydra.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		GS8Z+AjH8WUIFVsKweEWU56hdTY=
-		</data>
-		<key>Modules/Hydra.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		GS8Z+AjH8WUIFVsKweEWU56hdTY=
+		MTSEiiAdh3nxlwQqT3AkuTwe1qM=
 		</data>
 		<key>Modules/Hydra.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ESrSD/T57/hDemnWn+OlMtvwI3U=
-		</data>
-		<key>Modules/Hydra.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		ESrSD/T57/hDemnWn+OlMtvwI3U=
+		loNbCVgRWSd/UNGuvR1jTrjVgLI=
 		</data>
 		<key>Modules/Hydra.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		F2BVV7pI/Eo4Avgw1Hr4cEi7EiM=
+		F1DXBaxmuzoH+qxqr+z+NpG6lSE=
 		</data>
 		<key>Modules/Hydra.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gKgvQDXUeyptcooDl9FBGPtgQX0=
-		</data>
-		<key>Modules/Hydra.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		F2BVV7pI/Eo4Avgw1Hr4cEi7EiM=
-		</data>
-		<key>Modules/Hydra.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		gKgvQDXUeyptcooDl9FBGPtgQX0=
+		DZeUhzgPMQnb4LPwlcjIPv9w6Ro=
 		</data>
 		<key>Modules/Hydra.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+KUkVvPQ8bu44XmdGbyclk5aCmQ=
+		BBPPQIubcrM83Y+ifw8m1Q5B9PA=
 		</data>
 		<key>Modules/Hydra.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FC1JnPTrH8bCwTnmYYOid9uEtCs=
-		</data>
-		<key>Modules/Hydra.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		+KUkVvPQ8bu44XmdGbyclk5aCmQ=
-		</data>
-		<key>Modules/Hydra.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		FC1JnPTrH8bCwTnmYYOid9uEtCs=
+		ZBK0oAAD2sKdi6g5+TtJdGtcE7c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,91 +47,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ExUQIAMxMG2CtKBcj555LmHT7cWCbMpvwU/A54M9Dhk=
+			Q0nLW2RsJ9qhQc9n26DGV0y4F/woGtVvPDFi52dUx5Q=
 			</data>
 		</dict>
 		<key>Modules/Hydra.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FOyIvGZX2WJxqjkGAOlNgwsqcpqQLJxtCxLnR5IdKRQ=
-			</data>
-		</dict>
-		<key>Modules/Hydra.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FOyIvGZX2WJxqjkGAOlNgwsqcpqQLJxtCxLnR5IdKRQ=
+			eJR5J53DskW7dykWJGCNH+/IWWvBiCm02wi8JU6WnB8=
 			</data>
 		</dict>
 		<key>Modules/Hydra.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MRd3DSZRMRPWVW5lvXV410GFr3n9/0oh6Z4McHcf4Hg=
-			</data>
-		</dict>
-		<key>Modules/Hydra.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MRd3DSZRMRPWVW5lvXV410GFr3n9/0oh6Z4McHcf4Hg=
+			XwFGzZ22z4JY/DRTD1sWIGRuHT3gfHprIiTye6zyIVs=
 			</data>
 		</dict>
 		<key>Modules/Hydra.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A7uvdPZXuGddX7dvs6aXZ3Ub5XWdb9Ck06Viontr51Q=
+			BIU/nWxIOC9j2+5zTYiglhmr7ygl0bXxnyXX6yLypIE=
 			</data>
 		</dict>
 		<key>Modules/Hydra.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E57JBKjaEqyH3ZcxmXFedm/0BI88eHz4CrAyj4Z6hUU=
-			</data>
-		</dict>
-		<key>Modules/Hydra.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			A7uvdPZXuGddX7dvs6aXZ3Ub5XWdb9Ck06Viontr51Q=
-			</data>
-		</dict>
-		<key>Modules/Hydra.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			E57JBKjaEqyH3ZcxmXFedm/0BI88eHz4CrAyj4Z6hUU=
+			dA1odj/BcsQb7WwAY9hSKKvvc4Be2MbYeXBmBxC7aJE=
 			</data>
 		</dict>
 		<key>Modules/Hydra.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8jdyGbnisvAfRt++s7bhliC6DJB706YnHVTyYV/Cv2g=
+			gs73E1yBZd8ysU4eWzYWx+a2j7IkqxIopTDitU9KR9g=
 			</data>
 		</dict>
 		<key>Modules/Hydra.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b7v+eCIMZWxmOzZ1zhaJtOihTSOikvAAcq4dbihCc20=
-			</data>
-		</dict>
-		<key>Modules/Hydra.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8jdyGbnisvAfRt++s7bhliC6DJB706YnHVTyYV/Cv2g=
-			</data>
-		</dict>
-		<key>Modules/Hydra.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			b7v+eCIMZWxmOzZ1zhaJtOihTSOikvAAcq4dbihCc20=
+			YD8RPtQTkyCqb9a4OAIk5eD1DC1Q4+DryV/lrrcap4c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

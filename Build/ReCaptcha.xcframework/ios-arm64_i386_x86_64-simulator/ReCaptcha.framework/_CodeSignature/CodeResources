@@ -10,83 +10,47 @@
 		</data>
 		<key>Headers/ReCaptcha-Swift.h</key>
 		<data>
-		EXFVBfzYa+bSh1bjHaHbymXyPSU=
+		hYsnFqE0UapVuxtg/p6doUEUf4c=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TJKEftVe/HZQnR9ElIMbF0zeA+U=
+		4hBYLEVxGS3bHG2EsqFNA+wCTDo=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		GbcDvU91u5F/C1WLHFeQTa/H1W8=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		GbcDvU91u5F/C1WLHFeQTa/H1W8=
+		Av+akaS14CRy1WlYQ9DyRAvbRw8=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		gkmFfM90DnhrF8LmxKrCDx1DhNU=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<data>
-		gkmFfM90DnhrF8LmxKrCDx1DhNU=
+		WIivm063shS0iPO10uR4giG/Pds=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		THEwaOi+2CCm/m7ygFwCowzJ2+M=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		THEwaOi+2CCm/m7ygFwCowzJ2+M=
+		NjHnHzA8JnmCqpA0f6OX3m76m5s=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+5W4SYR5Vpl9LBRhJF02Zm83T1A=
+		lKA4geI1Dn8+AVhihPq5pnsMXws=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		67R3mpVg9nTaH/K7NEV7715ZTjs=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		+5W4SYR5Vpl9LBRhJF02Zm83T1A=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		67R3mpVg9nTaH/K7NEV7715ZTjs=
+		Rvp7MU5vJKqk4FkoF+eMzVZqDHg=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		BgulYxPkjnC/c1wWSApjWQH9rcg=
+		LaDll+oo0nTWxH8E3krNxoOcbnc=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		00S24SKqYjW90XhMnB+P84e3Ezc=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/i386.swiftdoc</key>
-		<data>
-		BgulYxPkjnC/c1wWSApjWQH9rcg=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/i386.swiftmodule</key>
-		<data>
-		00S24SKqYjW90XhMnB+P84e3Ezc=
+		n4eE4Ln+bB1TjFKxpgvcptOACR8=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Z0Co/FTxejefuB2viog8RC0UfsM=
+		4WNk4k9cvC6rKsl/FvtZVfZwaJo=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rTR5z/oBVD8WoMjwq5WheXyBPwI=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		Z0Co/FTxejefuB2viog8RC0UfsM=
-		</data>
-		<key>Modules/ReCaptcha.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		rTR5z/oBVD8WoMjwq5WheXyBPwI=
+		WcYX9SwVlEPqDuNJuCYP/HOaDaQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -114,209 +78,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EXFVBfzYa+bSh1bjHaHbymXyPSU=
+			hYsnFqE0UapVuxtg/p6doUEUf4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			1+BRk/jyYs6HlOmxAHZoNP78fmNtwffj28YVnQd72Mg=
+			7lQvuu7RkH8OTry63oTaeNAi42CgxbGEJyJBzIL2XfI=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GbcDvU91u5F/C1WLHFeQTa/H1W8=
+			Av+akaS14CRy1WlYQ9DyRAvbRw8=
 			</data>
 			<key>hash2</key>
 			<data>
-			2j2JCvdKtj9IGUprKK+I5sN5oXjoaIYVtQ2+QAIFssU=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GbcDvU91u5F/C1WLHFeQTa/H1W8=
-			</data>
-			<key>hash2</key>
-			<data>
-			2j2JCvdKtj9IGUprKK+I5sN5oXjoaIYVtQ2+QAIFssU=
+			ZlTKa61fmzSd9HHUc3TBKpbevU9ssPKDWKbGelmPHJA=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gkmFfM90DnhrF8LmxKrCDx1DhNU=
+			WIivm063shS0iPO10uR4giG/Pds=
 			</data>
 			<key>hash2</key>
 			<data>
-			4rU3yjmu+rDGeuLv1zt77XAYTjzavhnn0Nqnn4m+KMk=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gkmFfM90DnhrF8LmxKrCDx1DhNU=
-			</data>
-			<key>hash2</key>
-			<data>
-			4rU3yjmu+rDGeuLv1zt77XAYTjzavhnn0Nqnn4m+KMk=
+			vG96LiMzk4Dj3CdkKCmXfNcUOvWQu5X6JP6Re4ouls0=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			THEwaOi+2CCm/m7ygFwCowzJ2+M=
+			NjHnHzA8JnmCqpA0f6OX3m76m5s=
 			</data>
 			<key>hash2</key>
 			<data>
-			z3wHmoIubxutRr65a+yGL4oorscLHw4QOWt8fL5yhNo=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			THEwaOi+2CCm/m7ygFwCowzJ2+M=
-			</data>
-			<key>hash2</key>
-			<data>
-			z3wHmoIubxutRr65a+yGL4oorscLHw4QOWt8fL5yhNo=
+			pqIrEIrjy/LfX4IB7wcbJxlaXnnA/RlyuEl4N+Y4tHY=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+5W4SYR5Vpl9LBRhJF02Zm83T1A=
+			lKA4geI1Dn8+AVhihPq5pnsMXws=
 			</data>
 			<key>hash2</key>
 			<data>
-			m2MzqQD029qRwldeuhmoD8XKQHcZMi4XaC2bA4AKcQI=
+			+W9erJyDOr8tysZXPfSsxQvbaltr2J5S1fBi0OVQU1U=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			67R3mpVg9nTaH/K7NEV7715ZTjs=
+			Rvp7MU5vJKqk4FkoF+eMzVZqDHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			AimU2szW6lySQ0Q0skweqZahPdgBsoMYrSp157a0LgU=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+5W4SYR5Vpl9LBRhJF02Zm83T1A=
-			</data>
-			<key>hash2</key>
-			<data>
-			m2MzqQD029qRwldeuhmoD8XKQHcZMi4XaC2bA4AKcQI=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			67R3mpVg9nTaH/K7NEV7715ZTjs=
-			</data>
-			<key>hash2</key>
-			<data>
-			AimU2szW6lySQ0Q0skweqZahPdgBsoMYrSp157a0LgU=
+			rHoDuftY5N7dqNHfYuIoPrmVJApCloawY7cwlCbz0C8=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BgulYxPkjnC/c1wWSApjWQH9rcg=
+			LaDll+oo0nTWxH8E3krNxoOcbnc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zmEVODuO8jVeN1UMC9uYvtUq9uePkxXqV9yacQ9BH2A=
+			23pxNWri9erMqe8XLCkiwRxGfYQm3xvnGlEkZc4nu5E=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			00S24SKqYjW90XhMnB+P84e3Ezc=
+			n4eE4Ln+bB1TjFKxpgvcptOACR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			sicPylZkB9XXmUBbvbwVReHLfc2mPjKrBQn0uF1Qtms=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BgulYxPkjnC/c1wWSApjWQH9rcg=
-			</data>
-			<key>hash2</key>
-			<data>
-			zmEVODuO8jVeN1UMC9uYvtUq9uePkxXqV9yacQ9BH2A=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			00S24SKqYjW90XhMnB+P84e3Ezc=
-			</data>
-			<key>hash2</key>
-			<data>
-			sicPylZkB9XXmUBbvbwVReHLfc2mPjKrBQn0uF1Qtms=
+			tiSm28R/t0mLtHQd8M3cE8k0+zoBe58YNhxodCXYP8Q=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z0Co/FTxejefuB2viog8RC0UfsM=
+			4WNk4k9cvC6rKsl/FvtZVfZwaJo=
 			</data>
 			<key>hash2</key>
 			<data>
-			pWF2M8BwQT0sbD7Ja2F7cKOHOZsmbnbTC+QZ5ZRlizk=
+			8oWGtxk824Edf4/IUjYWp35D56Tzd/wQradHExcWPYc=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rTR5z/oBVD8WoMjwq5WheXyBPwI=
+			WcYX9SwVlEPqDuNJuCYP/HOaDaQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			XYjy1DxcEN4G3su/DuC+pFMbVf8nNU2UkPUmv/faY90=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z0Co/FTxejefuB2viog8RC0UfsM=
-			</data>
-			<key>hash2</key>
-			<data>
-			pWF2M8BwQT0sbD7Ja2F7cKOHOZsmbnbTC+QZ5ZRlizk=
-			</data>
-		</dict>
-		<key>Modules/ReCaptcha.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rTR5z/oBVD8WoMjwq5WheXyBPwI=
-			</data>
-			<key>hash2</key>
-			<data>
-			XYjy1DxcEN4G3su/DuC+pFMbVf8nNU2UkPUmv/faY90=
+			oqnJMI0LF4/IdoRXqIR08i/02PnmCuXp9BIApIPa6YA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
