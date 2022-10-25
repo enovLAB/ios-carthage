@@ -102,16 +102,16 @@
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "f41a5a29ae8e4b63fd55af4e1cb8c089f6c2991dcc5615da581d194ab2a49da3",
-      "name" : "leveldb-library",
-      "container" : "leveldb-library.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
-    },
-    {
       "hash" : "e1c88a592ef2eb0911e606f2985713ac4772b17b726d8e86e4eab2ff67728adc",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
       "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "f41a5a29ae8e4b63fd55af4e1cb8c089f6c2991dcc5615da581d194ab2a49da3",
+      "name" : "leveldb-library",
+      "container" : "leveldb-library.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     }
   ],
   "commitish" : "8.14.0",
@@ -153,12 +153,6 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "58b0d5ad637dec5ad3aa02cbea3bc3e52cc41c1165a1cc0c7bb6690b9cc9df95",
-      "name" : "abseil",
-      "container" : "abseil.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
       "hash" : "53c11a3fbc25d673ed1777127017446c98e7d8d446b9ba02850f31080cba26af",
       "name" : "abseil",
       "container" : "abseil.xcframework",
@@ -171,9 +165,9 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "586c4a24766bc80de6b70a32576b3749b6e488058177b67d108ba6db27810990",
-      "name" : "gRPC-C++",
-      "container" : "gRPC-C++.xcframework",
+      "hash" : "58b0d5ad637dec5ad3aa02cbea3bc3e52cc41c1165a1cc0c7bb6690b9cc9df95",
+      "name" : "abseil",
+      "container" : "abseil.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
@@ -181,6 +175,12 @@
       "name" : "gRPC-C++",
       "container" : "gRPC-C++.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "586c4a24766bc80de6b70a32576b3749b6e488058177b67d108ba6db27810990",
+      "name" : "gRPC-C++",
+      "container" : "gRPC-C++.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
       "hash" : "f3754137c132b202c95032e25312abe8c244dc052680b993a956328f6923be77",

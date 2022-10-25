@@ -78,16 +78,16 @@
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "9ac9f7d05b8dd7b2ba5814585e40d25eb31b3011f5be16beadc0c3f4d72f7b17",
-      "name" : "FirebaseCore",
-      "container" : "FirebaseCore.xcframework",
-      "identifier" : "tvos-arm64"
-    },
-    {
       "hash" : "5198dc4bebcc65305b5227b0b968f442a0a82e83b45fa8cabd3c4a2fe4885c4d",
       "name" : "FirebaseCore",
       "container" : "FirebaseCore.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "9ac9f7d05b8dd7b2ba5814585e40d25eb31b3011f5be16beadc0c3f4d72f7b17",
+      "name" : "FirebaseCore",
+      "container" : "FirebaseCore.xcframework",
+      "identifier" : "tvos-arm64"
     },
     {
       "hash" : "9ec647fef8e12186544e62e3db0c499d566c7c72ac1d2f5d6744002f70f6d871",
@@ -102,16 +102,16 @@
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "1d60053b7bcd9ce597667753242b50b21b7aa06882b35a3a189eadb1b6140f1b",
-      "name" : "FirebaseInstallations",
-      "container" : "FirebaseInstallations.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
-    },
-    {
       "hash" : "5b317fbe56481dae61a8c9fd0a4e989675553f3baa9c9cba986dfb1cc8636470",
       "name" : "FirebaseInstallations",
       "container" : "FirebaseInstallations.xcframework",
       "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "1d60053b7bcd9ce597667753242b50b21b7aa06882b35a3a189eadb1b6140f1b",
+      "name" : "FirebaseInstallations",
+      "container" : "FirebaseInstallations.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
       "hash" : "c0bcb7b9c74c4d97e51524d362ae39de59f606df744aec206db852c4ec2d3f5e",
@@ -150,16 +150,16 @@
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "9c6c8d27f3ec726b818ba430f1dbc8091a9e1719ed465d951d3d2f48317bb2e8",
-      "name" : "GoogleUtilities",
-      "container" : "GoogleUtilities.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
-    },
-    {
       "hash" : "aa530ceafc48a114730d4fda5c504dec93400fb3f13be499f57af01c7c7cd0c2",
       "name" : "GoogleUtilities",
       "container" : "GoogleUtilities.xcframework",
       "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "9c6c8d27f3ec726b818ba430f1dbc8091a9e1719ed465d951d3d2f48317bb2e8",
+      "name" : "GoogleUtilities",
+      "container" : "GoogleUtilities.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
       "hash" : "3ba4d654f91cec27f31216e3495feb3da23aa28eade5e5116af7ba68604a1fdd",
@@ -194,6 +194,12 @@
       "linking" : "dynamic"
     },
     {
+      "hash" : "039afb2fe329c375fe29fc2b82233867f3920eaded015a00e20786c14a8f8389",
+      "name" : "FirebaseAnalytics",
+      "container" : "FirebaseAnalytics.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
       "hash" : "f670b1b40bbbf263736f9593d129dd1b9f447e4f6ea5e6785b282958b8e52051",
       "name" : "FirebaseAnalytics",
       "container" : "FirebaseAnalytics.xcframework",
@@ -206,9 +212,15 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "039afb2fe329c375fe29fc2b82233867f3920eaded015a00e20786c14a8f8389",
-      "name" : "FirebaseAnalytics",
-      "container" : "FirebaseAnalytics.xcframework",
+      "hash" : "2f14d8daff66f548b8b9a276e71e1b3ff55f4a38e2bbca453950cf374fbf7176",
+      "name" : "FirebaseCore",
+      "container" : "FirebaseCore.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "21603ea5125d6c2f2851ddfd82f2a8f7ecdf4fa561b7b491a78daf662caa685d",
+      "name" : "FirebaseCore",
+      "container" : "FirebaseCore.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
@@ -218,16 +230,10 @@
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "21603ea5125d6c2f2851ddfd82f2a8f7ecdf4fa561b7b491a78daf662caa685d",
-      "name" : "FirebaseCore",
-      "container" : "FirebaseCore.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
-      "hash" : "2f14d8daff66f548b8b9a276e71e1b3ff55f4a38e2bbca453950cf374fbf7176",
-      "name" : "FirebaseCore",
-      "container" : "FirebaseCore.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "hash" : "d4f32e2fc8b2aeacf1173c83d2afcb2e7e96357c47079b596b70a46dc31440b9",
+      "name" : "FirebaseCoreDiagnostics",
+      "container" : "FirebaseCoreDiagnostics.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
       "hash" : "0c99d9a4509ad2e9b8ac165fe38b3bb6f5fa9b01e129316541a8944a45f78fa4",
@@ -242,9 +248,9 @@
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "hash" : "d4f32e2fc8b2aeacf1173c83d2afcb2e7e96357c47079b596b70a46dc31440b9",
-      "name" : "FirebaseCoreDiagnostics",
-      "container" : "FirebaseCoreDiagnostics.xcframework",
+      "hash" : "21accd58c1b9c6be30b5f03b84180f53e914f6a4e49b3b3942ebeaeb461fb269",
+      "name" : "FirebaseInstallations",
+      "container" : "FirebaseInstallations.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
@@ -258,12 +264,6 @@
       "name" : "FirebaseInstallations",
       "container" : "FirebaseInstallations.xcframework",
       "identifier" : "ios-arm64_armv7"
-    },
-    {
-      "hash" : "21accd58c1b9c6be30b5f03b84180f53e914f6a4e49b3b3942ebeaeb461fb269",
-      "name" : "FirebaseInstallations",
-      "container" : "FirebaseInstallations.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
       "hash" : "075467321b16f05030925d56353e5ff7b54e17cbd19bdb44bb496c1c02ce87fe",
@@ -284,16 +284,16 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "87b9ecfb1298ac82ea4cbdd093fcad89e9e3316d2511afeb50a8aa8a2c80c390",
-      "name" : "GoogleAppMeasurementIdentitySupport",
-      "container" : "GoogleAppMeasurementIdentitySupport.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
       "hash" : "0ca19eedaba65ed757d045412dbff4c96fe34f570db8c38cbafc8ff3bfa6bd3c",
       "name" : "GoogleAppMeasurementIdentitySupport",
       "container" : "GoogleAppMeasurementIdentitySupport.xcframework",
       "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "87b9ecfb1298ac82ea4cbdd093fcad89e9e3316d2511afeb50a8aa8a2c80c390",
+      "name" : "GoogleAppMeasurementIdentitySupport",
+      "container" : "GoogleAppMeasurementIdentitySupport.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
       "hash" : "15a420f5c76d4340cb678a00113e7799903668e119a48e7b16dfb043432c7825",
@@ -320,16 +320,16 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "e3e8008a03ac0d26619d6f842d7327b5d45a5c5e02a836328154cf3b34cc2b6f",
-      "name" : "GoogleUtilities",
-      "container" : "GoogleUtilities.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
       "hash" : "afaa2b8f761d2ff851d30b9a7abf2f30309df8c89a905a2f8c23fc0036149d30",
       "name" : "GoogleUtilities",
       "container" : "GoogleUtilities.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "e3e8008a03ac0d26619d6f842d7327b5d45a5c5e02a836328154cf3b34cc2b6f",
+      "name" : "GoogleUtilities",
+      "container" : "GoogleUtilities.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
       "hash" : "82212056b5b24dd5a5e9b6d4d6ddf2f83dbcefdf2b526b0026bc92c27fcbc99a",
@@ -344,16 +344,16 @@
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "445bc17ee0bd9dca9e8028d809f1af92cb9e50c85885eebce4db137bc9bedf52",
-      "name" : "PromisesObjC",
-      "container" : "PromisesObjC.xcframework",
-      "identifier" : "ios-arm64_armv7"
-    },
-    {
       "hash" : "2a32e47c7fb2ab6ce7f9f1dc228e0acc80e55627a42e084fd52046d31d471989",
       "name" : "PromisesObjC",
       "container" : "PromisesObjC.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "445bc17ee0bd9dca9e8028d809f1af92cb9e50c85885eebce4db137bc9bedf52",
+      "name" : "PromisesObjC",
+      "container" : "PromisesObjC.xcframework",
+      "identifier" : "ios-arm64_armv7"
     },
     {
       "hash" : "897401d2dd1e9880f990be3a5e70e494040b34b5e7f738cff9ff34ce68ecb559",
