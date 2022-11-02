@@ -18,16 +18,16 @@
   ],
   "tvOS" : [
     {
-      "hash" : "b0ea16ee0834dd18f0d3e8cd035a4e76e81a1f16857abb4f101ea930f2734db9",
-      "name" : "FirebaseABTesting",
-      "container" : "FirebaseABTesting.xcframework",
-      "identifier" : "tvos-arm64"
-    },
-    {
       "hash" : "bc4f6183a595113fffdefb544f5fcf76736f3e4782380f86a482c00d7f950d7e",
       "name" : "FirebaseABTesting",
       "container" : "FirebaseABTesting.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "b0ea16ee0834dd18f0d3e8cd035a4e76e81a1f16857abb4f101ea930f2734db9",
+      "name" : "FirebaseABTesting",
+      "container" : "FirebaseABTesting.xcframework",
+      "identifier" : "tvos-arm64"
     },
     {
       "hash" : "fa415833b19178f3f929dfae16810d727d734d12a2949703a07c5bfbc4c9bc66",

@@ -138,16 +138,16 @@
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "3a0783a06a9a1fbd020565ade41fdad9ec39ec76bab6d9c7cc6bf7b22f0b4039",
-      "name" : "GoogleDataTransport",
-      "container" : "GoogleDataTransport.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
-    },
-    {
       "hash" : "47dac024918386012c853b9ec4f96519efa049889a7ae4404c72eab0d3f76643",
       "name" : "GoogleDataTransport",
       "container" : "GoogleDataTransport.xcframework",
       "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "3a0783a06a9a1fbd020565ade41fdad9ec39ec76bab6d9c7cc6bf7b22f0b4039",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
       "hash" : "aa530ceafc48a114730d4fda5c504dec93400fb3f13be499f57af01c7c7cd0c2",
@@ -212,27 +212,21 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "2f14d8daff66f548b8b9a276e71e1b3ff55f4a38e2bbca453950cf374fbf7176",
-      "name" : "FirebaseCore",
-      "container" : "FirebaseCore.xcframework",
-      "identifier" : "ios-arm64_armv7"
-    },
-    {
       "hash" : "21603ea5125d6c2f2851ddfd82f2a8f7ecdf4fa561b7b491a78daf662caa685d",
       "name" : "FirebaseCore",
       "container" : "FirebaseCore.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
+      "hash" : "2f14d8daff66f548b8b9a276e71e1b3ff55f4a38e2bbca453950cf374fbf7176",
+      "name" : "FirebaseCore",
+      "container" : "FirebaseCore.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
       "hash" : "f3fcd3a0bda7259b7b27f44ef462c43be236f20302983587df79401e5e1e6da1",
       "name" : "FirebaseCore",
       "container" : "FirebaseCore.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
-      "hash" : "d4f32e2fc8b2aeacf1173c83d2afcb2e7e96357c47079b596b70a46dc31440b9",
-      "name" : "FirebaseCoreDiagnostics",
-      "container" : "FirebaseCoreDiagnostics.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
@@ -246,6 +240,12 @@
       "name" : "FirebaseCoreDiagnostics",
       "container" : "FirebaseCoreDiagnostics.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "d4f32e2fc8b2aeacf1173c83d2afcb2e7e96357c47079b596b70a46dc31440b9",
+      "name" : "FirebaseCoreDiagnostics",
+      "container" : "FirebaseCoreDiagnostics.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
       "hash" : "21accd58c1b9c6be30b5f03b84180f53e914f6a4e49b3b3942ebeaeb461fb269",
@@ -284,16 +284,16 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "0ca19eedaba65ed757d045412dbff4c96fe34f570db8c38cbafc8ff3bfa6bd3c",
-      "name" : "GoogleAppMeasurementIdentitySupport",
-      "container" : "GoogleAppMeasurementIdentitySupport.xcframework",
-      "identifier" : "ios-arm64_armv7"
-    },
-    {
       "hash" : "87b9ecfb1298ac82ea4cbdd093fcad89e9e3316d2511afeb50a8aa8a2c80c390",
       "name" : "GoogleAppMeasurementIdentitySupport",
       "container" : "GoogleAppMeasurementIdentitySupport.xcframework",
       "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "0ca19eedaba65ed757d045412dbff4c96fe34f570db8c38cbafc8ff3bfa6bd3c",
+      "name" : "GoogleAppMeasurementIdentitySupport",
+      "container" : "GoogleAppMeasurementIdentitySupport.xcframework",
+      "identifier" : "ios-arm64_armv7"
     },
     {
       "hash" : "15a420f5c76d4340cb678a00113e7799903668e119a48e7b16dfb043432c7825",
@@ -308,16 +308,16 @@
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "0dae1e85cb870298f205f599a29b9698202ef0baaee4b9cf4037811a3c6ec1af",
-      "name" : "GoogleDataTransport",
-      "container" : "GoogleDataTransport.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
       "hash" : "d1604ecb161559e661e7f775a5faf05bec105a7d6fa451bf1228355b9098b642",
       "name" : "GoogleDataTransport",
       "container" : "GoogleDataTransport.xcframework",
       "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "0dae1e85cb870298f205f599a29b9698202ef0baaee4b9cf4037811a3c6ec1af",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
       "hash" : "afaa2b8f761d2ff851d30b9a7abf2f30309df8c89a905a2f8c23fc0036149d30",

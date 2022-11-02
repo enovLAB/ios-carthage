@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/Regex-Swift.h</key>
 		<data>
-		dOuwofZDm4tbxzGuJkyEbjXNft4=
+		+Y+UkauiYRBMNMN7/qy7KAxRKRs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		e4rOABqDUQ35kE7DI/s/V+pACNM=
+		MS9TuDhBlscMgzEFzCguGW5VjlE=
 		</data>
 		<key>Modules/Regex.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		q7eDfXIjCP25wAgy0gGBtP9w5Mc=
+		LC+pvwlXBtqrxNb2XCU4goTp8hA=
 		</data>
 		<key>Modules/Regex.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Od4uv+eH7JYO8d91SRTsXqy7oJA=
+		NEUQDE4hG9Ajar7yWMsOD46/Kbo=
 		</data>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		j51JcPaqEufeoz34fNjO9crHMYo=
+		KMdYj9Q7OMl+LZWJb5Pn0LaWOQ0=
 		</data>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZHJW7GyD5XGVDSYoqIh6mLxvi2A=
+		CK1w08okRjJkK98LP0XLnD40hcY=
 		</data>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		eZr60ypff0X7dR7jjZJ36I03fGw=
+		XDnFAF8ieQBmguKuneSQHWioRMY=
 		</data>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sBNL6itR+Vd83xvinKj1DrOmneo=
+		jgy6pami98kWJPw1Czn5vyscj2o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,33 +55,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dOuwofZDm4tbxzGuJkyEbjXNft4=
+			+Y+UkauiYRBMNMN7/qy7KAxRKRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			EZpt+0dPFRs0gmvONICNnVCwjsljD9Jw6sZU4DPadys=
+			TuDM1i1FUt8JLGiuRpjNTUWZ9flDczlYMQkPOVBo7Zg=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q7eDfXIjCP25wAgy0gGBtP9w5Mc=
+			LC+pvwlXBtqrxNb2XCU4goTp8hA=
 			</data>
 			<key>hash2</key>
 			<data>
-			k4PTk+hiNzNiHhexLNhYAtXDc0IQVEpcU+STLFTlMQI=
+			rjE3aDMIlrVtCCUspB9CBMPW3RDLmmxCzr3mVTaQfpU=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Od4uv+eH7JYO8d91SRTsXqy7oJA=
+			NEUQDE4hG9Ajar7yWMsOD46/Kbo=
 			</data>
 			<key>hash2</key>
 			<data>
-			kdIE1a90daalxg/rOBCGIhUs50bJpKX8ULt7Csg+PUA=
+			FFByIFuKSAFzEaIQF3XszAZHj2qwyhxOgJPAfoeUyGw=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -99,22 +99,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j51JcPaqEufeoz34fNjO9crHMYo=
+			KMdYj9Q7OMl+LZWJb5Pn0LaWOQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			x9A5XItIHi9oATPUpBwIpN4wkzM3Mk8B5A7AcWV9w2o=
+			GooCMh7r/6uMpSP0u1OYBVOCiwJBuADxuyFyJRRIKrA=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZHJW7GyD5XGVDSYoqIh6mLxvi2A=
+			CK1w08okRjJkK98LP0XLnD40hcY=
 			</data>
 			<key>hash2</key>
 			<data>
-			hsF7ihxN5Vm4AzNMFqhTMx4iXUSqth7EpvdnoIctf8s=
+			O8/PyBOo8WIXVHX1+jmAU5OdUvbwLTAIBMY4OaJMpJM=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -132,22 +132,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eZr60ypff0X7dR7jjZJ36I03fGw=
+			XDnFAF8ieQBmguKuneSQHWioRMY=
 			</data>
 			<key>hash2</key>
 			<data>
-			xlpjmJu2FqoDMH8I9lEFDK4HyndzRZkG1FJmBWU6EvA=
+			8etakujWp70gdBozmfBgzPGEDs0fdOdLQ2PFYMVGeBo=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sBNL6itR+Vd83xvinKj1DrOmneo=
+			jgy6pami98kWJPw1Czn5vyscj2o=
 			</data>
 			<key>hash2</key>
 			<data>
-			o761KsUemx1zssRew5mk27IOOQEMrIXDLyL1ypwuT40=
+			zmkXxFLywp/2H1SZsI3+Rz8z6rVSC2Q9ed30hrhpk6o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -2,18 +2,18 @@
   "commitish" : "9.0.6",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)",
-      "hash" : "7a1ae457ba36ef8159c8fb3efe757c8842ecbab20fa6a915488a514c7eb177e8",
-      "name" : "SwiftMessages",
-      "container" : "SwiftMessages.xcframework",
-      "identifier" : "ios-arm64_x86_64-simulator"
-    },
-    {
-      "swiftToolchainVersion" : "5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)",
-      "hash" : "02c3baa110945944f95a6f95534c35d35a63742cec7efd65148881786185cad4",
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "27a0490831515ca9ad5ee39dfb7a70db9e2ec79667bba22d837899207ac28296",
       "name" : "SwiftMessages",
       "container" : "SwiftMessages.xcframework",
       "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "1682e3cbdef79ad3452980fbf6c5bbabbaf36a4c19b5534a735b61bed1244844",
+      "name" : "SwiftMessages",
+      "container" : "SwiftMessages.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
     }
   ]
 }

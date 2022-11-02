@@ -30,16 +30,16 @@
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "8a2ceb06d8e314d058784daecbe09177e0bad9b8cea14768ed4831d7fc907d3a",
-      "name" : "GTMSessionFetcher",
-      "container" : "GTMSessionFetcher.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
-    },
-    {
       "hash" : "f5003a6ea594d5475c4a920e34c7b42b11a4d830ab905e5e6bcf4f813bfea3cb",
       "name" : "GTMSessionFetcher",
       "container" : "GTMSessionFetcher.xcframework",
       "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "8a2ceb06d8e314d058784daecbe09177e0bad9b8cea14768ed4831d7fc907d3a",
+      "name" : "GTMSessionFetcher",
+      "container" : "GTMSessionFetcher.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     }
   ],
   "commitish" : "8.14.0",
@@ -69,16 +69,16 @@
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "hash" : "f090bb65f5226c513d2380f766d1b7caba702795e58f9c8e6a619772f1a2e1bf",
-      "name" : "GTMSessionFetcher",
-      "container" : "GTMSessionFetcher.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
       "hash" : "ad733bd3b4193d4ec7afbfc257959c5204cfc1c2638e451b7c43ed6a03caba56",
       "name" : "GTMSessionFetcher",
       "container" : "GTMSessionFetcher.xcframework",
       "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "f090bb65f5226c513d2380f766d1b7caba702795e58f9c8e6a619772f1a2e1bf",
+      "name" : "GTMSessionFetcher",
+      "container" : "GTMSessionFetcher.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     }
   ]
 }

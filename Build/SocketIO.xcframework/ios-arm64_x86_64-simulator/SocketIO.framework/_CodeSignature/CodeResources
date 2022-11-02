@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SocketIO-Swift.h</key>
 		<data>
-		G7rMa0aEtZx7qRCutlnnQ3OEb7c=
+		LV0P4K+dk1Dgs6Y8Ec1VSOpd5WM=
 		</data>
 		<key>Headers/SocketIO.h</key>
 		<data>
@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VUapW7daqxassfyXxQc7s6laOd8=
+		tFSBTLaXc2t2ArvM/WEhe4vOKoc=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		AFukZ6NwWiqj12uaPSUcNxLLZ0I=
+		2MQooflIAIrTMe+k5+aBA59R08Y=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		hb1PVKTZxgmobZ5fgbQeTqFZZfQ=
+		jtPD+Jx8W2SwBIhcaxrJhEoqZKc=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/SocketIO.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		0qBxRKQxthyYKsGmyfnxeexpgNM=
+		5PF//YjAP226Jd3K4X+zp/xi9EA=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		paGs3jeSGyZJaLbOq99XYSAvSuA=
+		HcbwzSvFykZZWUzoEGV7wcnnkhw=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/SocketIO.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QpBK6E4s817RJPUPwnMWZXtb+Tk=
+		7dmJ8Bcw9adUidYhBiYKObc8UuE=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v7SNxGXNhYAVXRIP4H6OrzFP3Kw=
+		+V/60J3NGtg0nE7WSASvLCf3Eok=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,11 +59,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G7rMa0aEtZx7qRCutlnnQ3OEb7c=
+			LV0P4K+dk1Dgs6Y8Ec1VSOpd5WM=
 			</data>
 			<key>hash2</key>
 			<data>
-			6vJFKt08skkTzCPbFWO96Z90U10IfbdHxK+iG5f+ELs=
+			Q3ljDUyt4exRyoSP2W9N5UI9+fLVcMIjHT4B50U3YxA=
 			</data>
 		</dict>
 		<key>Headers/SocketIO.h</key>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AFukZ6NwWiqj12uaPSUcNxLLZ0I=
+			2MQooflIAIrTMe+k5+aBA59R08Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			I09od+b1xEDp6PP1B+S4dANcmIdf7u0TasdwXIVLBvE=
+			lFy6K/Luno3kqDGHn5Ft6xogDF0vZhz3Rkpts6gDHMc=
 			</data>
 		</dict>
 		<key>Modules/SocketIO.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hb1PVKTZxgmobZ5fgbQeTqFZZfQ=
+			jtPD+Jx8W2SwBIhcaxrJhEoqZKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			fpnkMVlWeG350b5MrlOkNJbDnAeE3h2kQIk0FrD3zGQ=
+			yzriMVcDTA5h8u/0zV/3T3lVgqWs/XEY/rptJvWTxlw=
 			</data>
 		</dict>
 		<key>Modules/SocketIO.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -114,22 +114,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0qBxRKQxthyYKsGmyfnxeexpgNM=
+			5PF//YjAP226Jd3K4X+zp/xi9EA=
 			</data>
 			<key>hash2</key>
 			<data>
-			gYeQB2iP3YJ3n4XBfocx/3JZG/pM4Yj23cAgrFRoZqI=
+			OATFTGGo82RalwUjmo3P6HzA7ljyiWLoelPBPE2QEKk=
 			</data>
 		</dict>
 		<key>Modules/SocketIO.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			paGs3jeSGyZJaLbOq99XYSAvSuA=
+			HcbwzSvFykZZWUzoEGV7wcnnkhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			hlVnjVnhGGl4zmbYOjdmQLzAbM7rugMpZSXUV58In2g=
+			1HOF2Wfgb/TkWR7GQLQ8Y9RHEYKk/j13VBwMdpDjmXw=
 			</data>
 		</dict>
 		<key>Modules/SocketIO.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -147,22 +147,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QpBK6E4s817RJPUPwnMWZXtb+Tk=
+			7dmJ8Bcw9adUidYhBiYKObc8UuE=
 			</data>
 			<key>hash2</key>
 			<data>
-			TgOM6nEO7v0lTEcbcm5G6Xwhpz4CjniU+URbh4B2i6s=
+			qm7aJJeWSNSUH7zBeM+sJxTbD2Zd/jFrwxQ4Jd9DSy8=
 			</data>
 		</dict>
 		<key>Modules/SocketIO.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v7SNxGXNhYAVXRIP4H6OrzFP3Kw=
+			+V/60J3NGtg0nE7WSASvLCf3Eok=
 			</data>
 			<key>hash2</key>
 			<data>
-			UG7h07XfShydVOzwlIMSROvCqFgCsbqMc341aPB/77o=
+			FKv/t+k5I9mux+cCFt4fGTTWzgP53dMJHFlYSIdnbog=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
