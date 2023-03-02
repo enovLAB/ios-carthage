@@ -63,16 +63,16 @@
       "identifier" : "ios-arm64_armv7"
     },
     {
-      "hash" : "db0f34f53a6e25642d069d425b8089b5d6f0d79169e912faa189f09c09d6f2e1",
-      "name" : "GTMSessionFetcher",
-      "container" : "GTMSessionFetcher.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
       "hash" : "f090bb65f5226c513d2380f766d1b7caba702795e58f9c8e6a619772f1a2e1bf",
       "name" : "GTMSessionFetcher",
       "container" : "GTMSessionFetcher.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "db0f34f53a6e25642d069d425b8089b5d6f0d79169e912faa189f09c09d6f2e1",
+      "name" : "GTMSessionFetcher",
+      "container" : "GTMSessionFetcher.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
       "hash" : "ad733bd3b4193d4ec7afbfc257959c5204cfc1c2638e451b7c43ed6a03caba56",

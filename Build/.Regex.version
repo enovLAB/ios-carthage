@@ -2,18 +2,18 @@
   "commitish" : "1.2.0",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
-      "hash" : "695db25a415127b869b834da544747e6da2158ed87da7f35fb1178415dcd3337",
+      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
+      "hash" : "b8ca46152ee6b4a7411803b0c415cf6ec372f0c1d01b70f82f4b22cd5fd681e4",
       "name" : "Regex",
       "container" : "Regex.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "identifier" : "ios-arm64"
     },
     {
-      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
-      "hash" : "7a16d31039d730f3ef393b01109d197715a8136b5e1c5ef6379a228a6765859c",
+      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
+      "hash" : "d563dbbbebcc7692a401ceeef540cf8ab684ddc7b4e0fe92a96f937ecb8267fa",
       "name" : "Regex",
       "container" : "Regex.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64_x86_64-simulator"
     }
   ]
 }

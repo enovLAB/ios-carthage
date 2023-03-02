@@ -33,16 +33,16 @@
       "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "hash" : "7cab108ac95189b101fdf9bd8a2b527fbb8e98e111255b1ff1a6d6b97d189672",
-      "name" : "FirebaseMessaging",
-      "container" : "FirebaseMessaging.xcframework",
-      "identifier" : "ios-arm64_x86_64-maccatalyst"
-    },
-    {
       "hash" : "c04bbd07dc97abd23a07f3e05ebf4a2d16ab7c7a94ddf4ec8a845df417941d40",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "7cab108ac95189b101fdf9bd8a2b527fbb8e98e111255b1ff1a6d6b97d189672",
+      "name" : "FirebaseMessaging",
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     }
   ]
 }
