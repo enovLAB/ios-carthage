@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/Regex-Swift.h</key>
 		<data>
-		AmWLgPj/i97aR3ryjBcCJ3B2Ehg=
+		kd9hafp4Ib9/nnudgAyf/YUcIew=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		E6iATEzjpF1fb5ai/CKlz3HtHJ4=
+		fUJyLWyGPg1lJMNBjDO6RS/4rOQ=
 		</data>
 		<key>Modules/Regex.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		RPar8wOoDnlfPBRmm3i/kwR83m8=
+		/xWpH55W6xpvBFddmK7A0cCrhgc=
 		</data>
 		<key>Modules/Regex.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		kq0vYHcHVmp1S0tdbqemz57MXFU=
+		4si8qDhAqtf/ec40RxAm3ND6h7M=
 		</data>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		AnOj/keoAG4wT7+x1q7eRR2O6ug=
+		l91uQIye3B5v0TyJwRmJsG+ZiWk=
 		</data>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vcWmai5fMd2ERCtFnHl8vJDWDhw=
+		NU/zBKa6nhqneMwxJb5kqoYsPIw=
 		</data>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fEDimeFXopWSyOUBBA1CLD2Ja7A=
+		VLmv1TscA2VguSp0OnT5FmYYBjQ=
 		</data>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dQSh/ZEJfG1ky/hHu/GdXLkEY54=
+		Po0MXag6k1Bqv1XgxL/GjmABlYM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -53,43 +53,27 @@
 	<dict>
 		<key>Headers/Regex-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AmWLgPj/i97aR3ryjBcCJ3B2Ehg=
-			</data>
 			<key>hash2</key>
 			<data>
-			v9VZ+8ObGAB9juF6AtR71DGWcGOqA5cSs9Mqu5J22BU=
+			tIIVDkILxsSMnMJoKTxVGW6QJoMHF64kIEAOHYuuoag=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RPar8wOoDnlfPBRmm3i/kwR83m8=
-			</data>
 			<key>hash2</key>
 			<data>
-			sCJpB5BOTUW7fJpFZ4cHIPKuF7tfXN0VD4t7g7dxBzQ=
+			Oql9V93UfBbn/PkL2Xbzoxf7NuPcJ1XI7Bfnbjl/jfk=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kq0vYHcHVmp1S0tdbqemz57MXFU=
-			</data>
 			<key>hash2</key>
 			<data>
-			YsJH5UevPDn8wxtXcenw6Ozz/qrBXmruUUgme5L7Kj4=
+			b6SYvYYqYq1Y4E/o4PHmxFUbTlS3lOaX1TPTEfmnP8g=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FSPnLbho3G+LL9smI3XgVOqBIQ4=
-			</data>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
@@ -97,32 +81,20 @@
 		</dict>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AnOj/keoAG4wT7+x1q7eRR2O6ug=
-			</data>
 			<key>hash2</key>
 			<data>
-			c87ITYatyO8m2GjF02kx3TmxydJjjbUPh232c2Pc6rc=
+			BHp/sJdxkSa2r9uEDVKfWaoIyWicqQvhBkCDD6Jhhxg=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vcWmai5fMd2ERCtFnHl8vJDWDhw=
-			</data>
 			<key>hash2</key>
 			<data>
-			6yuHWCN+1Zw7OzBpTeOwuamA96aWVdQMoBBmQp3k1Ic=
+			WzZccZsZjgsUPk1ABdwj9UvaCN5ERT5rY2jVIDAh2Kw=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FSPnLbho3G+LL9smI3XgVOqBIQ4=
-			</data>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
@@ -130,32 +102,20 @@
 		</dict>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fEDimeFXopWSyOUBBA1CLD2Ja7A=
-			</data>
 			<key>hash2</key>
 			<data>
-			o4Tt39bS0YWb8BDvG+gFrAr8YyWOmGZHtOfqdIhzI/c=
+			2ShVs8z6tMePZZ6qU0+CS1aanxmsos2M03tQXUsyxMc=
 			</data>
 		</dict>
 		<key>Modules/Regex.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dQSh/ZEJfG1ky/hHu/GdXLkEY54=
-			</data>
 			<key>hash2</key>
 			<data>
-			CV7ko5y4fDFgp56tnD4B9frLjdviM+NFZT8p+MH4gig=
+			L0jsXx40S3HXdoFcmAghATp+XJ7AMkGjzigSLabhhvg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SGhWl7AtOLP3GXxxE2dI3JspQbY=
-			</data>
 			<key>hash2</key>
 			<data>
 			xhx1unJSusyeJvtLWPhxdvZpe+hzOaGMSt3LvgCTFqo=

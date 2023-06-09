@@ -1,9 +1,15 @@
 {
   "Mac" : [
     {
-      "hash" : "9405e3e9a10ae777c7f49894d6fb7ab00a71fc4103535d04e0224788c8a5b4df",
+      "hash" : "efe315164c49c1449eb7c56615510d19753b113da49f8d3f935e9490649cf8c7",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "hash" : "6cadb3c49729181a40dd3cf3b65734a051f6a9a7a86e7f56c6ee1eff19456094",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
       "identifier" : "macos-arm64_x86_64"
     }
   ],
@@ -12,37 +18,67 @@
   ],
   "tvOS" : [
     {
-      "hash" : "3fe5bbd308cab3bb72ad2a284bdd54d4aa1f3e0753660cb51a1495f92f8b312c",
+      "hash" : "6f56425ef0633c5988cb3671d202e57c517aff15c03918c44f0c0db3c7002103",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "134d311265246005eceb5eeba8eb42247a0d4ee716a3a9350fdd0d04a2aad192",
+      "hash" : "e611f6de3113ccc1b6bb485a48d7dc83693a0e98ec6de7c3f7b29dc54b56ed6c",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "0a52d8d6332b8737cf6bdd92c0408b2a2af67a9f57d4434c3b4db1ac50aecc12",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "3cd10a97db7726aa56fc00b43dc186ec42b37c77869b546fcdec06a03bb56bc6",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     }
   ],
-  "commitish" : "8.14.0",
+  "commitish" : "10.10.0",
   "iOS" : [
     {
-      "hash" : "fb09f27d23f3c463c2f173ab84cea306c20189b1384842ca6759127cc7beb6fb",
+      "hash" : "e2141a6e0dc5ec40e5e97054df55191a02161049f5df7b12db35beb6e6603492",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64"
     },
     {
-      "hash" : "c04bbd07dc97abd23a07f3e05ebf4a2d16ab7c7a94ddf4ec8a845df417941d40",
-      "name" : "FirebaseMessaging",
-      "container" : "FirebaseMessaging.xcframework",
-      "identifier" : "ios-arm64_armv7"
-    },
-    {
-      "hash" : "7cab108ac95189b101fdf9bd8a2b527fbb8e98e111255b1ff1a6d6b97d189672",
+      "hash" : "95f8b07b38f6bbb7cbd628c932bec6c713eaade3ac7edb2de29ac6065a9e0bf6",
       "name" : "FirebaseMessaging",
       "container" : "FirebaseMessaging.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "a56d7fb3d195411e0e6b3aa4ab5c32ea52b14119f3c7bc359f2bd4d048a63c79",
+      "name" : "FirebaseMessaging",
+      "container" : "FirebaseMessaging.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "491a72cdc1d9b50b1e55ef620938a6d8bd10a2305d722220e31ae5d5c0a21a81",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "0f2c8618f1094e37c5853db25b52e7c1bb20fe6029fdab54c29a5008b4a11537",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "96954ae8462a2012290037ff114f64018f0456a888d46f8b237b99d9b6cff55a",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "ios-arm64"
     }
   ]
 }

@@ -1,37 +1,57 @@
 {
   "Mac" : [
     {
-      "hash" : "0fabc78b3aa81525d82ce53d90cae978fee1d64a43109baa69721a74e246b936",
+      "hash" : "6fee570843afd65fc117d0dc7808b11bca2a1b761d368363c01a50c4d04d4d03",
       "name" : "BoringSSL-GRPC",
       "container" : "BoringSSL-GRPC.xcframework",
       "identifier" : "macos-arm64_x86_64"
     },
     {
-      "hash" : "3cec43a8cb8fe0638e704f4b7c34743c6ef66413155ae68d3daa0106f7a2ad18",
+      "hash" : "79e2352e4b8ef9bd05710cfa571bcf5f92d2a9993a24e5b369aa8d943e8a1f59",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "hash" : "60635f8d6d544b603cf15642f7df6a548d72dc6abfba562135c0e1ce67611caa",
       "name" : "FirebaseFirestore",
       "container" : "FirebaseFirestore.xcframework",
       "identifier" : "macos-arm64_x86_64"
     },
     {
-      "hash" : "cd58492dd660fa0df25f303d6221ca75edc405c0af91ea99f9a3de671b03a4ff",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "f1ba5ad466c93519c1cde8d17553be98214ef1d1be126c9909aafc0bf9d14a83",
+      "name" : "FirebaseFirestoreSwift",
+      "container" : "FirebaseFirestoreSwift.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "160eab8360b207c6517bdc58fd9c4b7ea30f07518aa739cf3e091a347918a622",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "hash" : "68334a13fd1aa85d4bb33a62d9ae6d274b45ff85abd0f9aceba431e5946de9bd",
       "name" : "abseil",
       "container" : "abseil.xcframework",
       "identifier" : "macos-arm64_x86_64"
     },
     {
-      "hash" : "8d27bfa551848970f413d5ff2210f782d7050fa801ed299dd675d0117a2ccfb0",
+      "hash" : "37268b896be6570d9b60feee40025974f74deb6eed0567a87583d9848064a5fe",
       "name" : "gRPC-C++",
       "container" : "gRPC-C++.xcframework",
       "identifier" : "macos-arm64_x86_64"
     },
     {
-      "hash" : "6214b3e0cf4794f1efb90016e373fb32708c19a0b8bfd786b911b561ec69c6c7",
+      "hash" : "91f7ad89a73c0f8e4ad0cf1acab395f2802f2e4251cbfb9e4f5ab45b96b695f3",
       "name" : "gRPC-Core",
       "container" : "gRPC-Core.xcframework",
       "identifier" : "macos-arm64_x86_64"
     },
     {
-      "hash" : "1940ae16189695d4ad8f74b536b298df8393dece1ef4f72641441d2ccc9a5838",
+      "hash" : "0388c66836d8b66f630616ece6f075256bcf5ab25b7fdc3013dc8526da412f34",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
       "identifier" : "macos-arm64_x86_64"
@@ -42,187 +62,287 @@
   ],
   "tvOS" : [
     {
-      "hash" : "890b3956e3a0dade53f586fdd935dcd38a77ebbb1d59cabf86372019a20ba029",
-      "name" : "BoringSSL-GRPC",
-      "container" : "BoringSSL-GRPC.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
-    },
-    {
-      "hash" : "0182a121c1ec7da1eb8565825ec1cff46524b9a25e0d69e380f093ae49f44b18",
+      "hash" : "38f3c7a23299d3725d94640e4d2a4e64fcfb5278555e10d781a3a56000de7e00",
       "name" : "BoringSSL-GRPC",
       "container" : "BoringSSL-GRPC.xcframework",
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "9054f88165814e7c075d6c3543097dafcc4f2c4af56f6e324533aa09aa56acf4",
+      "hash" : "f7a0e491c99f353b1c36bc177e3724b50a2a51fcd929699a6599dbc0ed05c92c",
+      "name" : "BoringSSL-GRPC",
+      "container" : "BoringSSL-GRPC.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "425a1a1ee4bd6e0affcebfbc4b12baf449e7e2f8c9dbe8b40e3276cab9a4bb13",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "e6bf0220c4ef79c9bedbb93f5ec966c911ec866dd79188e877e4b03f7489bdc1",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "12704aaacbbaeb7d57efceab7fe92bedeeaa8fc13925b12043c759b2f7033194",
+      "name" : "FirebaseFirestore",
+      "container" : "FirebaseFirestore.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "ad0e17c3af93106973adbbe7dd3c8817828dccea3e2da0d4ded74122b15063d1",
       "name" : "FirebaseFirestore",
       "container" : "FirebaseFirestore.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "d033005708ccc92f1b60645701148a71377397d9319c2896549c3791c3cf5671",
-      "name" : "FirebaseFirestore",
-      "container" : "FirebaseFirestore.xcframework",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "17ad7231548c52a18095ad9061f81f5ec7cad0cf364eda0eca2dd56db33c40da",
+      "name" : "FirebaseFirestoreSwift",
+      "container" : "FirebaseFirestoreSwift.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "d194471bb07236c077053445b099f3c8abed382e91cb1af5bcc262c48eac225a",
+      "name" : "FirebaseFirestoreSwift",
+      "container" : "FirebaseFirestoreSwift.xcframework",
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "fd61e4d88c5c0454ad3917ba4f0de0f81f015edc169ed8af5255aff439888e56",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "05ede5a58069b540d449802427d8fa593071217842eb9f953bdc9e7a516c23d2",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "848e02fb5dafe321364bd2a2edeeb56f276d8eaa7895c181d5872b584a9fb62b",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "8dd81d63a47f0b6fbabbc6f8493dcc0a0bf0b8b207dae43195dc3e4760f72acf",
       "name" : "abseil",
       "container" : "abseil.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "03acd17f33f82684a505510b463e391c8ca5f232109d8cfaa50a29409f42d070",
+      "hash" : "ea7f124d6df8f2301690971e8f5ecd3eaecb46ca24ada642facdbccb0a794df8",
       "name" : "abseil",
       "container" : "abseil.xcframework",
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "1f224f15d5b1c254e843d55cc2960a19c608381cfa1f1c5ee106b5aa899ee9ab",
-      "name" : "gRPC-C++",
-      "container" : "gRPC-C++.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
-    },
-    {
-      "hash" : "04e35ee13301fb72c47a0ef15662e06458f248bf2f725d69bf92fbbd0795b538",
+      "hash" : "f0f7ae09069b84cc164d3dbfeacb3fa69ccc69cf109287ddfbbe308dca66adb1",
       "name" : "gRPC-C++",
       "container" : "gRPC-C++.xcframework",
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "5db46121710932158238345f494bed1daf2f87aae5c28334f7e2202273fa5674",
-      "name" : "gRPC-Core",
-      "container" : "gRPC-Core.xcframework",
+      "hash" : "1eb747d30f443434dcc9580c609f6735a1fb4504aed6dfa1044dfeb4597ca1a4",
+      "name" : "gRPC-C++",
+      "container" : "gRPC-C++.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "ea229170e1232a99b86a4c49a756909f1d64aad13e45831a2ecf03e45ff58e15",
+      "hash" : "6999518240e99476b54d42f44685c4d7318cf0bb49082f34549a0c0be29b4524",
       "name" : "gRPC-Core",
       "container" : "gRPC-Core.xcframework",
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "f41a5a29ae8e4b63fd55af4e1cb8c089f6c2991dcc5615da581d194ab2a49da3",
-      "name" : "leveldb-library",
-      "container" : "leveldb-library.xcframework",
+      "hash" : "7757891b7f3338b057a3ff45b292d57ec7a977fbe006b430f2bea81127541ac1",
+      "name" : "gRPC-Core",
+      "container" : "gRPC-Core.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "e1c88a592ef2eb0911e606f2985713ac4772b17b726d8e86e4eab2ff67728adc",
+      "hash" : "aea9f6e8418af27f13de9c955760fe443c5bbd36b11932221a4e5ca4efa71f7f",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
       "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "98bf384529503b4d50e655c06c1a5a17947e27f0e9db4a0858096b18e237b00c",
+      "name" : "leveldb-library",
+      "container" : "leveldb-library.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
     }
   ],
-  "commitish" : "8.14.0",
+  "commitish" : "10.10.0",
   "iOS" : [
     {
-      "hash" : "b8e5abe0d9d4939e213a6b6063f59d39226db170a7328de15edbfc9af03c97ce",
+      "hash" : "97f610dc698a951112c37ec285318fd62e01fea8986d9cee283c717e5f63ff08",
       "name" : "BoringSSL-GRPC",
       "container" : "BoringSSL-GRPC.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64"
     },
     {
-      "hash" : "270fda19fb50288378957ad61ae62719228d52161be3468250fe0c626434a283",
+      "hash" : "4ed6bc23f3b82d06c43ba0e960d34b52e69e4399ff801eda82b76d05c6aa7550",
       "name" : "BoringSSL-GRPC",
       "container" : "BoringSSL-GRPC.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "b84725f769c756401ff4a96d03c42fcaa00fece14ec322a812867a25d0d463d1",
+      "hash" : "53c4bbbb6b65dc1a267abb93b86c8bb0b90e15ebe3b6599adf7fa14b9c870499",
       "name" : "BoringSSL-GRPC",
       "container" : "BoringSSL-GRPC.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "identifier" : "ios-arm64_x86_64-simulator"
     },
     {
-      "hash" : "30b2dde7ca95fac386f94fd8338e0b3dd9e4df862dc2026970c85d94c2571e4c",
+      "hash" : "8306624fa794eb84e3d11205941c53b316dbd82cacd32a36b0e03e4e58f24e3d",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "ed353d8541253b4925e309a73006169eac1b66fcd07d01e9c8c93e340a000ba4",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "67837dcdbb7f2a65cc5d659e68c9adef173a704a01297d97d72c9de20aa551fe",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "42d64957194c887e316dfd68e7e1baa0559d235a9ec5f1f655145a5c9088dc66",
       "name" : "FirebaseFirestore",
       "container" : "FirebaseFirestore.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64"
     },
     {
-      "hash" : "f6a8e2535e92fc51aa3fd55542a60146adb8d2526ef906d686777f222e7e4497",
+      "hash" : "78f3ef0e0cb9cb436bde35023db5c4add92e66e5f4531e8543920ebaff9be3b0",
+      "name" : "FirebaseFirestore",
+      "container" : "FirebaseFirestore.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "53897bc9901ddebbc76a3e2aad3a9c375887e7463b631fbe137cd33081977198",
       "name" : "FirebaseFirestore",
       "container" : "FirebaseFirestore.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "25890049fa49e5c536850a9f37be7d7fabd6fb2a2e280e71947279cbc85bf06c",
-      "name" : "FirebaseFirestore",
-      "container" : "FirebaseFirestore.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "234f7583eee3ab63f3ed292d25b97ef298e3f8fdf9b72c257688e8ac00022738",
+      "name" : "FirebaseFirestoreSwift",
+      "container" : "FirebaseFirestoreSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
     },
     {
-      "hash" : "eb0d2fa365247bb06a6d004d428421fc75bcc1c7455bac34c72c09b193831c13",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "4e80b749a326bd765ccbca9b697c0678dbfe9c564a7c61311b129d55975519e3",
+      "name" : "FirebaseFirestoreSwift",
+      "container" : "FirebaseFirestoreSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "dc7de18139f488ff3490e226d1340f0dab06e734f2c0d351d221516c5785dfd7",
+      "name" : "FirebaseFirestoreSwift",
+      "container" : "FirebaseFirestoreSwift.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "8cee5618f7dd6606500b9ad68e5bd8eef5ffa3acc22f00a613b26090759118b1",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "6c38c0eebaad8c128f705f171648d756ef8b2b461b3d887a9d9401e48e417ef3",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "1109fc5250dcef2110818bd940fdc567f32d476c71724dddeec77d2f981c383d",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "23817201a47fde2d114a836cddb376e3a361ea2781a05d6b420db60ac30b7772",
       "name" : "abseil",
       "container" : "abseil.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "identifier" : "ios-arm64_x86_64-simulator"
     },
     {
-      "hash" : "58b0d5ad637dec5ad3aa02cbea3bc3e52cc41c1165a1cc0c7bb6690b9cc9df95",
+      "hash" : "cd5586aac7864e77585e2e37a9a7c75898119fdff4aad422c5ca511ae920972b",
       "name" : "abseil",
       "container" : "abseil.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "53c11a3fbc25d673ed1777127017446c98e7d8d446b9ba02850f31080cba26af",
+      "hash" : "531d2efc677a79b7d7b96c341cb1f36a6eb683c3ea0b8a8487e65b46f8f02bc0",
       "name" : "abseil",
       "container" : "abseil.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64"
     },
     {
-      "hash" : "042ee8fcd2acb065a8458193b627087b03ddba9288e43db86a15d14a924b857c",
+      "hash" : "8314ae14d5a3b17222553b46fb68acefe4e43c668b59de7782474866d6e05124",
       "name" : "gRPC-C++",
       "container" : "gRPC-C++.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64"
     },
     {
-      "hash" : "586c4a24766bc80de6b70a32576b3749b6e488058177b67d108ba6db27810990",
+      "hash" : "0819da90f63c57a761ab4a751a05433cf6d052d03b12dfe458c66ac6bf438b67",
       "name" : "gRPC-C++",
       "container" : "gRPC-C++.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "f3754137c132b202c95032e25312abe8c244dc052680b993a956328f6923be77",
+      "hash" : "b6e2e70b347ab0bd9179872f47fc9739b99313f2fd26156207e3e9e05f4a382e",
       "name" : "gRPC-C++",
       "container" : "gRPC-C++.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "identifier" : "ios-arm64_x86_64-simulator"
     },
     {
-      "hash" : "99fe312ef145cd678a6eab196aa421ace3ed9cbeae89cbea272d9214bca6b6e3",
+      "hash" : "46c5cd1460795bf0b7cb3d2b6dc591668428bcc4ad33fc5a788fc643476257d9",
+      "name" : "gRPC-Core",
+      "container" : "gRPC-Core.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "fe4e353bb9ff949f5d92c5c1f51bd62d08bdc8b857e01027163d55c935b8378c",
+      "name" : "gRPC-Core",
+      "container" : "gRPC-Core.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "b12fbac1075a06ef31b0b07892ba7a6da8356bb42de2dcca66bc9804dbaeb174",
       "name" : "gRPC-Core",
       "container" : "gRPC-Core.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "52df59e69ee98839a3a54eb1426f139b64e6016d3faf60a33af3857c17580e17",
-      "name" : "gRPC-Core",
-      "container" : "gRPC-Core.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
-      "hash" : "3191b9802de14a0db1fcc7b60bf211082c22c08be166751225f933ddffed3b8a",
-      "name" : "gRPC-Core",
-      "container" : "gRPC-Core.xcframework",
-      "identifier" : "ios-arm64_armv7"
-    },
-    {
-      "hash" : "308fcaff678ec5faee715d7ec94214e23c8513cc5983d2d4ae94c1b2f579f450",
+      "hash" : "00c39f95cc4d8ded74a87edf07ec228ecd04f2760da25ef50114ba4c3cbddadd",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64_x86_64-simulator"
     },
     {
-      "hash" : "921fdfdf4edb3c17288e5953cc0b23a9c33be2e19ae5c4a094542a5abd789488",
+      "hash" : "ba6d62ed5583e9e46419a597d04fe824e2b4000633e58c737c4ff4fd0b67ce7d",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "a1ac57bd5aec7944c8aae8e91b3054fa0d8c632f0f6b0e0f0c05ce2f53e4169e",
+      "hash" : "36c953c017bc3594d08312777ac67380f91b4ab4cea2f010a4b4571ebcaba065",
       "name" : "leveldb-library",
       "container" : "leveldb-library.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "identifier" : "ios-arm64"
     }
   ]
 }

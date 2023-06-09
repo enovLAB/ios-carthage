@@ -1,16 +1,16 @@
 {
-  "commitish" : "1.9.5",
+  "commitish" : "1.9.6",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
-      "hash" : "6d120498231a0a6f78e0712f69db747d6f4550d23994b42c53d99d1256cc17c1",
+      "swiftToolchainVersion" : "5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)",
+      "hash" : "7e8c068c4f954bc54899510a434d7122047f307531acd3213cba137b7e083171",
       "name" : "SwiftyBeaver",
       "container" : "SwiftyBeaver.xcframework",
       "identifier" : "ios-arm64"
     },
     {
-      "swiftToolchainVersion" : "5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)",
-      "hash" : "eda220c889695ca107b9f2a840e3a9c0ca3385c474e0d7dd17abde12a3e7f865",
+      "swiftToolchainVersion" : "5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)",
+      "hash" : "367376124f589cd3f06924ab100c2ceeef194243ed563f896a897ab6aa370e5d",
       "name" : "SwiftyBeaver",
       "container" : "SwiftyBeaver.xcframework",
       "identifier" : "ios-arm64_x86_64-simulator"

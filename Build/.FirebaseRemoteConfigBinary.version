@@ -1,15 +1,29 @@
 {
   "Mac" : [
     {
-      "hash" : "9e7884e8b097fc5b5d45f90d20a3c18dc79b162cf19251e659dcab129521b6fc",
+      "hash" : "712ec9e3a212f259579495a306b4508a1a2bf145e05ced493171680fe56b61ca",
       "name" : "FirebaseABTesting",
       "container" : "FirebaseABTesting.xcframework",
       "identifier" : "macos-arm64_x86_64"
     },
     {
-      "hash" : "66823d34251a906dd412521105db0a5f875cb1bf4cfba8f903ba278f164241d7",
+      "hash" : "75b69731b8846048b1ca1105555fbcd29b3058a774145c718d5fc3ba43afd274",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "0ea4f9ad1e507b151e72e8bd25512347aa051dedb5d29c9d8692230a56e88542",
+      "name" : "FirebaseRemoteConfigSwift",
+      "container" : "FirebaseRemoteConfigSwift.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "160eab8360b207c6517bdc58fd9c4b7ea30f07518aa739cf3e091a347918a622",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
       "identifier" : "macos-arm64_x86_64"
     }
   ],
@@ -18,67 +32,137 @@
   ],
   "tvOS" : [
     {
-      "hash" : "b0ea16ee0834dd18f0d3e8cd035a4e76e81a1f16857abb4f101ea930f2734db9",
+      "hash" : "bc962401277cf38c339388a57153f7b475dacc8f9a76899eefca04f29e5ba39b",
+      "name" : "FirebaseABTesting",
+      "container" : "FirebaseABTesting.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "1991f5c6297b6e3cfef33553c1cc7879e6ba4b930a3649bc54502bdb48ed9d88",
       "name" : "FirebaseABTesting",
       "container" : "FirebaseABTesting.xcframework",
       "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "bc4f6183a595113fffdefb544f5fcf76736f3e4782380f86a482c00d7f950d7e",
-      "name" : "FirebaseABTesting",
-      "container" : "FirebaseABTesting.xcframework",
-      "identifier" : "tvos-arm64_x86_64-simulator"
+      "hash" : "74bb3eadcd323d7eb50b94bc33a2ee28ccc004006dc49414c8d8e3aac58f3a31",
+      "name" : "FirebaseRemoteConfig",
+      "container" : "FirebaseRemoteConfig.xcframework",
+      "identifier" : "tvos-arm64"
     },
     {
-      "hash" : "fa415833b19178f3f929dfae16810d727d734d12a2949703a07c5bfbc4c9bc66",
+      "hash" : "2b7d60c3d221fdfab7b700b614ccd01ac32ec49b3dd7d2875adb17a895f5f7b7",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "ff83efea27add62b290bbd21e8d4dbaf120600a3b93b0d7e3e103c02b6523ec8",
-      "name" : "FirebaseRemoteConfig",
-      "container" : "FirebaseRemoteConfig.xcframework",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "f70ceb15119f6a834254316344439bd091396499717a8d88a4ac4233ea9ef8da",
+      "name" : "FirebaseRemoteConfigSwift",
+      "container" : "FirebaseRemoteConfigSwift.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "fbcb2b2f43c598b665daa40df6f885dba7da88accbaef4f9e6d3d848c7b03993",
+      "name" : "FirebaseRemoteConfigSwift",
+      "container" : "FirebaseRemoteConfigSwift.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "05ede5a58069b540d449802427d8fa593071217842eb9f953bdc9e7a516c23d2",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "848e02fb5dafe321364bd2a2edeeb56f276d8eaa7895c181d5872b584a9fb62b",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
       "identifier" : "tvos-arm64"
     }
   ],
-  "commitish" : "8.14.0",
+  "commitish" : "10.10.0",
   "iOS" : [
     {
-      "hash" : "f17dcc14da7f111a1d0e96a8e0ff25e2fb3057a7fad8ecdc25ac517376d3b6dd",
+      "hash" : "427f34fd7327fac9cf768ffa25fd458dad176e073caf2ff198d4b1e481ae74f8",
+      "name" : "FirebaseABTesting",
+      "container" : "FirebaseABTesting.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "8a5ebf351d938639b29820989ab525c5eb94ac44c02578b70ba3c52054cf6d6e",
+      "name" : "FirebaseABTesting",
+      "container" : "FirebaseABTesting.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "7b6101e687be4cd74707a2d8f0e5ba05f2fc3c80d9e08958d27ec1a744582b7d",
       "name" : "FirebaseABTesting",
       "container" : "FirebaseABTesting.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "9d54b32df4743bc9691aeaf4ad114432bde26087b29c077517d027920b2c28e0",
-      "name" : "FirebaseABTesting",
-      "container" : "FirebaseABTesting.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
-    },
-    {
-      "hash" : "9a37e3fa6d543e982eb12c25c6e7964c39e5f7c9bf97eff47d9a62e315073660",
-      "name" : "FirebaseABTesting",
-      "container" : "FirebaseABTesting.xcframework",
-      "identifier" : "ios-arm64_armv7"
-    },
-    {
-      "hash" : "ca59ccd5b20fe212f53b3134eaf641ce7a122ec9c903202f9183059654d415c2",
+      "hash" : "9cbe995389f0871ed117b8b0980ca9a45a2afad5ca29a1b8eae99b1275d67272",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "6f461e64e160d069d1ad5ad97d940bf99cb6629e9ef4063a6b5790ab524b29d1",
+      "hash" : "2bbbc76d5fb8a0a478dfaa755d77490b250ee4c1bed28a4a62ddc628610bafa6",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64"
     },
     {
-      "hash" : "d59c8fb21e69a0ba1efd693f091b501006881b698ac0a4e554c3f63880b33f29",
+      "hash" : "89a1d87a6a0ba45c19e5cd27377b985225306c53aac32b1e2af5df56f00cd0ac",
       "name" : "FirebaseRemoteConfig",
       "container" : "FirebaseRemoteConfig.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "f4039f1a2897f12e8dea244ed1a42aa544ae20ca976ae7c8f7e3341bf446a3a1",
+      "name" : "FirebaseRemoteConfigSwift",
+      "container" : "FirebaseRemoteConfigSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "d7f782bb9781032ceda96b6fab84bbda80c06962c3a29761ed0a120d12f669fc",
+      "name" : "FirebaseRemoteConfigSwift",
+      "container" : "FirebaseRemoteConfigSwift.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "0ba1c832316582277676016a00241d00b1bc72c32a4e4b0b85c8622e4fea55cd",
+      "name" : "FirebaseRemoteConfigSwift",
+      "container" : "FirebaseRemoteConfigSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "8cee5618f7dd6606500b9ad68e5bd8eef5ffa3acc22f00a613b26090759118b1",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "6c38c0eebaad8c128f705f171648d756ef8b2b461b3d887a9d9401e48e417ef3",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "1109fc5250dcef2110818bd940fdc567f32d476c71724dddeec77d2f981c383d",
+      "name" : "FirebaseSharedSwift",
+      "container" : "FirebaseSharedSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     }
   ]
 }

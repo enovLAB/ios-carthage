@@ -1,9 +1,35 @@
 {
   "Mac" : [
     {
-      "hash" : "ab176d47558ec44cf3324187544b41c0fb7d4aa7c157d9962da868f31436c969",
+      "hash" : "79e2352e4b8ef9bd05710cfa571bcf5f92d2a9993a24e5b369aa8d943e8a1f59",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "hash" : "270c92c43a090102ab9cd9db1239f7459c5462f927fd7fcf43fda479ae86f596",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "83b130b4c2ea3b74f3325a3c59e3897d14cb2e59d595b6bb92c328c65e96420b",
+      "name" : "FirebaseSessions",
+      "container" : "FirebaseSessions.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "hash" : "6cadb3c49729181a40dd3cf3b65734a051f6a9a7a86e7f56c6ee1eff19456094",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "5b97cd9299d7686daac135b0c02391421b6a735a757d7b55c4547a01a62b39af",
+      "name" : "PromisesSwift",
+      "container" : "PromisesSwift.xcframework",
       "identifier" : "macos-arm64_x86_64"
     }
   ],
@@ -12,37 +38,167 @@
   ],
   "tvOS" : [
     {
-      "hash" : "ac676dac81e4a2ccb00c835c630765cc8f9358eaf8175662e182ef53192cc072",
+      "hash" : "425a1a1ee4bd6e0affcebfbc4b12baf449e7e2f8c9dbe8b40e3276cab9a4bb13",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "e6bf0220c4ef79c9bedbb93f5ec966c911ec866dd79188e877e4b03f7489bdc1",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "2b9760f975089bf763b357a49ef8affd6f441b1ac0ba6734c28c8bbaa81508d5",
+      "name" : "FirebaseCrashlytics",
+      "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "8dc24cb33f8d0aa0450a8740f7d72ec617e25f20e396963a2450257987e2aa45",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator"
     },
     {
-      "hash" : "df33226d2b3490146526b9f432bc6cce53af64e0278eb29f636e922c40e400ff",
-      "name" : "FirebaseCrashlytics",
-      "container" : "FirebaseCrashlytics.xcframework",
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "94c515622204413099bf2e671dd500ce6c62c45316c2ea95254f6b2df8880bae",
+      "name" : "FirebaseSessions",
+      "container" : "FirebaseSessions.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "7573829c150095f9c7b4cdf81fcf1ec5d01f162cea7e10fcd0e4c265e2b94018",
+      "name" : "FirebaseSessions",
+      "container" : "FirebaseSessions.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "0a52d8d6332b8737cf6bdd92c0408b2a2af67a9f57d4434c3b4db1ac50aecc12",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "3cd10a97db7726aa56fc00b43dc186ec42b37c77869b546fcdec06a03bb56bc6",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "999ebf8aaabf505420a01ab2b5e28f45b7d0885b76644ee68976d2abac720e8c",
+      "name" : "PromisesSwift",
+      "container" : "PromisesSwift.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "8b3257ce1699a1add1a6699ac9de08739266f715ef6cdc7c57ffd5b8e5b99f49",
+      "name" : "PromisesSwift",
+      "container" : "PromisesSwift.xcframework",
       "identifier" : "tvos-arm64"
     }
   ],
-  "commitish" : "8.14.0",
+  "commitish" : "10.10.0",
   "iOS" : [
     {
-      "hash" : "e5f2d06620146dff87341fecf6d258fa56b2e1233aadb77bc6dc1fe9fe460da4",
+      "hash" : "8306624fa794eb84e3d11205941c53b316dbd82cacd32a36b0e03e4e58f24e3d",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "ed353d8541253b4925e309a73006169eac1b66fcd07d01e9c8c93e340a000ba4",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "67837dcdbb7f2a65cc5d659e68c9adef173a704a01297d97d72c9de20aa551fe",
+      "name" : "FirebaseCoreExtension",
+      "container" : "FirebaseCoreExtension.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "f09e1a4e9702838d8d5d35c671aaa28f9508712679731a3e4b2f73f196fea924",
+      "name" : "FirebaseCrashlytics",
+      "container" : "FirebaseCrashlytics.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "4a3c2965fe599b1a841a1c89c78c4197ff387dcb7826a6866ba7003e6a535f4c",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
       "identifier" : "ios-arm64_x86_64-maccatalyst"
     },
     {
-      "hash" : "6bfe17c7d089c8707e1fa69b2d432d3d0ee49fe04dc7d367f803aca5f9131291",
+      "hash" : "b26072eb1e6ab3d3131a44a210d1e1ee09ee6cd017a71a2e94b19b95035ef0de",
       "name" : "FirebaseCrashlytics",
       "container" : "FirebaseCrashlytics.xcframework",
-      "identifier" : "ios-arm64_i386_x86_64-simulator"
+      "identifier" : "ios-arm64_x86_64-simulator"
     },
     {
-      "hash" : "321d837e3e7a1396f6b56ebbd31de23d84bafe9d396d3923841e9d50ec0f0677",
-      "name" : "FirebaseCrashlytics",
-      "container" : "FirebaseCrashlytics.xcframework",
-      "identifier" : "ios-arm64_armv7"
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "52b736a4a7564105b25ba3fb6dc4d6a7db5f3665e238f0937c61fbe13e755347",
+      "name" : "FirebaseSessions",
+      "container" : "FirebaseSessions.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "8be0780886ebc0bfc97fffd599a6da0faa579dacbad4af853cbfeccf75ca95e7",
+      "name" : "FirebaseSessions",
+      "container" : "FirebaseSessions.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "14f4c9065e9e1b38475b9364e6b7100c762000df2417ea509ad37e8fff75fdf5",
+      "name" : "FirebaseSessions",
+      "container" : "FirebaseSessions.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "96954ae8462a2012290037ff114f64018f0456a888d46f8b237b99d9b6cff55a",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "491a72cdc1d9b50b1e55ef620938a6d8bd10a2305d722220e31ae5d5c0a21a81",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "0f2c8618f1094e37c5853db25b52e7c1bb20fe6029fdab54c29a5008b4a11537",
+      "name" : "GoogleDataTransport",
+      "container" : "GoogleDataTransport.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "c3210f70ba2ddb3051257cd3229c313aa0c7c4115facdb8664008712de264877",
+      "name" : "PromisesSwift",
+      "container" : "PromisesSwift.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "e2296c6729c1789829bbe2a27a4eb22e3e0cae8a73d88496f9c74866c86d94d0",
+      "name" : "PromisesSwift",
+      "container" : "PromisesSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "9cb9a26cfdfcd0a9e5f202b89137d14f04195daae9c6ddf92ba0d6af29d2971f",
+      "name" : "PromisesSwift",
+      "container" : "PromisesSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
     }
   ]
 }

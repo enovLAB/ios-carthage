@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
 // swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Stripe
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import Contacts
 import CoreLocation
@@ -18,6 +19,7 @@ import SwiftUI
 import UIKit
 import Vision
 import _Concurrency
+import _StringProcessing
 extension Stripe.STPBankSelectionMethod : Swift.CustomStringConvertible {
   public var description: Swift.String {
     get
@@ -49,7 +51,7 @@ extension StripeCore.STPAPIClient {
   }
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class STPAddCardViewController : Stripe.STPCoreTableViewController, StripePaymentsUI.STPPaymentCardTextFieldDelegate, UIKit.UITableViewDelegate, UIKit.UITableViewDataSource {
-  @objc convenience dynamic public init()
+  @_Concurrency.MainActor(unsafe) @objc convenience dynamic public init()
   @objc(initWithConfiguration:theme:) @_Concurrency.MainActor(unsafe) public init(configuration: Stripe.STPPaymentConfiguration, theme: Stripe.STPTheme)
   @objc @_Concurrency.MainActor(unsafe) weak public var delegate: Stripe.STPAddCardViewControllerDelegate?
   @objc @_Concurrency.MainActor(unsafe) public var prefilledInformation: Stripe.STPUserInformation? {
@@ -61,25 +63,25 @@ extension StripeCore.STPAPIClient {
     @objc set(footerView)
   }
   @_Concurrency.MainActor(unsafe) public var apiClient: StripeCore.STPAPIClient
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, estimatedHeightForRowAt indexPath: Foundation.IndexPath) -> CoreGraphics.CGFloat
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLayoutSubviews()
-  @objc @_Concurrency.MainActor(unsafe) public func updateAppearance()
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidAppear(_ animated: Swift.Bool)
-  @objc @_Concurrency.MainActor(unsafe) public func handleCancelTapped(_ sender: Any?)
-  @objc @_Concurrency.MainActor(unsafe) public func paymentCardTextFieldDidChange(_ textField: StripePaymentsUI.STPPaymentCardTextField)
-  @objc @_Concurrency.MainActor(unsafe) public func paymentCardTextFieldWillEndEditing(forReturn textField: StripePaymentsUI.STPPaymentCardTextField)
-  @objc @_Concurrency.MainActor(unsafe) public func paymentCardTextFieldDidBeginEditingCVC(_ textField: StripePaymentsUI.STPPaymentCardTextField)
-  @objc @_Concurrency.MainActor(unsafe) public func paymentCardTextFieldDidEndEditingCVC(_ textField: StripePaymentsUI.STPPaymentCardTextField)
-  @objc @_Concurrency.MainActor(unsafe) public func paymentCardTextFieldDidBeginEditing(_ textField: StripePaymentsUI.STPPaymentCardTextField)
-  @objc @_Concurrency.MainActor(unsafe) public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, willDisplay cell: UIKit.UITableViewCell, forRowAt indexPath: Foundation.IndexPath)
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, heightForFooterInSection section: Swift.Int) -> CoreGraphics.CGFloat
-  @objc @_Concurrency.MainActor(unsafe) override public func tableView(_ tableView: UIKit.UITableView, heightForHeaderInSection section: Swift.Int) -> CoreGraphics.CGFloat
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, viewForHeaderInSection section: Swift.Int) -> UIKit.UIView?
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, viewForFooterInSection section: Swift.Int) -> UIKit.UIView?
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewWillTransition(to size: CoreGraphics.CGSize, with coordinator: UIKit.UIViewControllerTransitionCoordinator)
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, estimatedHeightForRowAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc public func updateAppearance()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc public func handleCancelTapped(_ sender: Any?)
+  @_Concurrency.MainActor(unsafe) @objc public func paymentCardTextFieldDidChange(_ textField: StripePaymentsUI.STPPaymentCardTextField)
+  @_Concurrency.MainActor(unsafe) @objc public func paymentCardTextFieldWillEndEditing(forReturn textField: StripePaymentsUI.STPPaymentCardTextField)
+  @_Concurrency.MainActor(unsafe) @objc public func paymentCardTextFieldDidBeginEditingCVC(_ textField: StripePaymentsUI.STPPaymentCardTextField)
+  @_Concurrency.MainActor(unsafe) @objc public func paymentCardTextFieldDidEndEditingCVC(_ textField: StripePaymentsUI.STPPaymentCardTextField)
+  @_Concurrency.MainActor(unsafe) @objc public func paymentCardTextFieldDidBeginEditing(_ textField: StripePaymentsUI.STPPaymentCardTextField)
+  @_Concurrency.MainActor(unsafe) @objc public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, willDisplay cell: UIKit.UITableViewCell, forRowAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, heightForFooterInSection section: Swift.Int) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc override public func tableView(_ tableView: UIKit.UITableView, heightForHeaderInSection section: Swift.Int) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, viewForHeaderInSection section: Swift.Int) -> UIKit.UIView?
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, viewForFooterInSection section: Swift.Int) -> UIKit.UIView?
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: UIKit.UIViewControllerTransitionCoordinator)
   @objc deinit
 }
 @objc public protocol STPAddCardViewControllerDelegate : ObjectiveC.NSObjectProtocol {
@@ -153,18 +155,18 @@ extension StripePayments.STPAddress {
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class STPBankSelectionViewController : Stripe.STPCoreTableViewController, UIKit.UITableViewDataSource, UIKit.UITableViewDelegate {
   @objc @_Concurrency.MainActor(unsafe) convenience public init(bankMethod: Stripe.STPBankSelectionMethod)
-  @objc @_Concurrency.MainActor(unsafe) convenience required public init(theme: Stripe.STPTheme?)
+  @_Concurrency.MainActor(unsafe) @objc convenience required public init(theme: Stripe.STPTheme?)
   @objc @_Concurrency.MainActor(unsafe) public init(bankMethod: Stripe.STPBankSelectionMethod, configuration: Stripe.STPPaymentConfiguration, theme: Stripe.STPTheme)
   @objc @_Concurrency.MainActor(unsafe) weak public var delegate: Stripe.STPBankSelectionViewControllerDelegate?
   @_Concurrency.MainActor(unsafe) public var apiClient: StripeCore.STPAPIClient
   @objc deinit
-  @objc @_Concurrency.MainActor(unsafe) public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, willDisplay cell: UIKit.UITableViewCell, forRowAt indexPath: Foundation.IndexPath)
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, heightForFooterInSection section: Swift.Int) -> CoreGraphics.CGFloat
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, shouldHighlightRowAt indexPath: Foundation.IndexPath) -> Swift.Bool
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, willDisplay cell: UIKit.UITableViewCell, forRowAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, heightForFooterInSection section: Swift.Int) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, shouldHighlightRowAt indexPath: Foundation.IndexPath) -> Swift.Bool
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
 }
 @objc public protocol STPBankSelectionViewControllerDelegate : ObjectiveC.NSObjectProtocol {
   @objc(bankSelectionViewController:didCreatePaymentMethodParams:) func bankSelectionViewController(_ bankViewController: Stripe.STPBankSelectionViewController, didCreatePaymentMethodParams paymentMethodParams: StripePayments.STPPaymentMethodParams)
@@ -207,8 +209,8 @@ extension StripePayments.STPCard : Stripe.STPPaymentOption {
     @objc get
     @objc set
   }
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLoad()
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
   @_Concurrency.MainActor(unsafe) @objc required public init(theme: Stripe.STPTheme?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
@@ -218,23 +220,23 @@ extension StripePayments.STPCard : Stripe.STPPaymentOption {
   @objc @_Concurrency.MainActor(unsafe) public var tableView: UIKit.UITableView? {
     @objc get
   }
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewWillAppear(_ animated: Swift.Bool)
-  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, heightForHeaderInSection section: Swift.Int) -> CoreGraphics.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @objc @_Concurrency.MainActor(unsafe) public func tableView(_ tableView: UIKit.UITableView, heightForHeaderInSection section: Swift.Int) -> CoreFoundation.CGFloat
   @_Concurrency.MainActor(unsafe) @objc required public init(theme: Stripe.STPTheme?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class STPCoreViewController : UIKit.UIViewController {
-  @objc convenience dynamic public init()
+  @_Concurrency.MainActor(unsafe) @objc convenience dynamic public init()
   @objc @_Concurrency.MainActor(unsafe) required public init(theme: Stripe.STPTheme?)
-  @objc @_Concurrency.MainActor(unsafe) required override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @objc @_Concurrency.MainActor(unsafe) required dynamic public init?(coder aDecoder: Foundation.NSCoder)
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLoad()
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewWillAppear(_ animated: Swift.Bool)
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public var preferredStatusBarStyle: UIKit.UIStatusBarStyle {
-    @_Concurrency.MainActor(unsafe) @objc get
+  @_Concurrency.MainActor(unsafe) @objc required override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var preferredStatusBarStyle: UIKit.UIStatusBarStyle {
+    @objc get
   }
   @objc deinit
 }
@@ -268,9 +270,9 @@ extension StripePayments.STPCard : Stripe.STPPaymentOption {
   @objc @_Concurrency.MainActor(unsafe) public class func canAddPaymentPass() -> Swift.Bool
   @objc(initWithRequestConfiguration:delegate:) @_Concurrency.MainActor(unsafe) required public init?(requestConfiguration configuration: PassKit.PKAddPaymentPassRequestConfiguration, delegate: PassKit.PKAddPaymentPassViewControllerDelegate?)
   @objc @_Concurrency.MainActor(unsafe) weak public var delegate: PassKit.PKAddPaymentPassViewControllerDelegate?
-  @objc @_Concurrency.MainActor(unsafe) convenience override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @objc @_Concurrency.MainActor(unsafe) required convenience dynamic public init?(coder aDecoder: Foundation.NSCoder)
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc convenience override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required convenience dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class STPPaymentActivityIndicatorView : UIKit.UIView {
@@ -283,11 +285,11 @@ extension StripePayments.STPCard : Stripe.STPPaymentOption {
     @objc get
     @objc set(hidesWhenStopped)
   }
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public var tintColor: UIKit.UIColor! {
-    @_Concurrency.MainActor(unsafe) @objc get
-    @_Concurrency.MainActor(unsafe) @objc set(tintColor)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var tintColor: UIKit.UIColor! {
+    @objc get
+    @objc set(tintColor)
   }
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func layoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers public class STPPaymentConfiguration : ObjectiveC.NSObject, Foundation.NSCopying {
@@ -463,15 +465,15 @@ extension StripePayments.STPPaymentMethodParams : Stripe.STPPaymentOption {
   @_Concurrency.MainActor(unsafe) public var apiClient: StripeCore.STPAPIClient
   @objc(dismissWithCompletion:) @_Concurrency.MainActor(unsafe) public func dismiss(withCompletion completion: StripePayments.STPVoidBlock?)
   @available(*, unavailable, message: "Use one of the initializers declared in this interface instead.")
-  @objc @_Concurrency.MainActor(unsafe) required public init(theme: Stripe.STPTheme?)
+  @_Concurrency.MainActor(unsafe) @objc required public init(theme: Stripe.STPTheme?)
   @available(*, unavailable, message: "Use one of the initializers declared in this interface instead.")
-  @objc @_Concurrency.MainActor(unsafe) required dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @available(*, unavailable, message: "Use one of the initializers declared in this interface instead.")
-  @objc @_Concurrency.MainActor(unsafe) required dynamic public init?(coder aDecoder: Foundation.NSCoder)
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLayoutSubviews()
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidAppear(_ animated: Swift.Bool)
-  @objc @_Concurrency.MainActor(unsafe) public func addCardViewControllerDidCancel(_ addCardViewController: Stripe.STPAddCardViewController)
-  @objc @_Concurrency.MainActor(unsafe) public func addCardViewController(_ addCardViewController: Stripe.STPAddCardViewController, didCreatePaymentMethod paymentMethod: StripePayments.STPPaymentMethod, completion: @escaping StripePayments.STPErrorBlock)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc public func addCardViewControllerDidCancel(_ addCardViewController: Stripe.STPAddCardViewController)
+  @_Concurrency.MainActor(unsafe) @objc public func addCardViewController(_ addCardViewController: Stripe.STPAddCardViewController, didCreatePaymentMethod paymentMethod: StripePayments.STPPaymentMethod, completion: @escaping StripePayments.STPErrorBlock)
   @objc deinit
 }
 @objc public protocol STPPaymentOptionsViewControllerDelegate : ObjectiveC.NSObjectProtocol {
@@ -535,17 +537,17 @@ extension StripePayments.STPPaymentMethodParams : Stripe.STPPaymentOption {
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class STPShippingAddressViewController : Stripe.STPCoreTableViewController {
-  @objc convenience dynamic public init()
+  @_Concurrency.MainActor(unsafe) @objc convenience dynamic public init()
   @objc(initWithPaymentContext:) @_Concurrency.MainActor(unsafe) convenience public init(paymentContext: Stripe.STPPaymentContext)
   @objc(initWithConfiguration:theme:currency:shippingAddress:selectedShippingMethod:prefilledInformation:) @_Concurrency.MainActor(unsafe) public init(configuration: Stripe.STPPaymentConfiguration, theme: Stripe.STPTheme, currency: Swift.String?, shippingAddress: StripePayments.STPAddress?, selectedShippingMethod: PassKit.PKShippingMethod?, prefilledInformation: Stripe.STPUserInformation?)
   @objc @_Concurrency.MainActor(unsafe) weak public var delegate: Stripe.STPShippingAddressViewControllerDelegate?
   @objc(dismissWithCompletion:) @_Concurrency.MainActor(unsafe) public func dismiss(withCompletion completion: StripePayments.STPVoidBlock?)
   @available(*, unavailable, message: "Use one of the initializers declared in this interface instead.")
-  @objc @_Concurrency.MainActor(unsafe) required public init(theme: Stripe.STPTheme?)
+  @_Concurrency.MainActor(unsafe) @objc required public init(theme: Stripe.STPTheme?)
   @available(*, unavailable, message: "Use one of the initializers declared in this interface instead.")
-  @objc @_Concurrency.MainActor(unsafe) required dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidAppear(_ animated: Swift.Bool)
-  @objc @_Concurrency.MainActor(unsafe) override public func tableView(_ tableView: UIKit.UITableView, heightForHeaderInSection section: Swift.Int) -> CoreGraphics.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override public func tableView(_ tableView: UIKit.UITableView, heightForHeaderInSection section: Swift.Int) -> CoreFoundation.CGFloat
   @objc deinit
 }
 @objc public protocol STPShippingAddressViewControllerDelegate : ObjectiveC.NSObjectProtocol {
@@ -554,13 +556,13 @@ extension StripePayments.STPPaymentMethodParams : Stripe.STPPaymentOption {
   @objc(shippingAddressViewController:didFinishWithAddress:shippingMethod:) func shippingAddressViewController(_ addressViewController: Stripe.STPShippingAddressViewController, didFinishWith address: StripePayments.STPAddress, shippingMethod method: PassKit.PKShippingMethod?)
 }
 extension Stripe.STPShippingAddressViewController : UIKit.UITableViewDelegate, UIKit.UITableViewDataSource {
-  @objc @_Concurrency.MainActor(unsafe) dynamic public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
-  @objc @_Concurrency.MainActor(unsafe) dynamic public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
-  @objc @_Concurrency.MainActor(unsafe) dynamic public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
-  @objc @_Concurrency.MainActor(unsafe) dynamic public func tableView(_ tableView: UIKit.UITableView, willDisplay cell: UIKit.UITableViewCell, forRowAt indexPath: Foundation.IndexPath)
-  @objc @_Concurrency.MainActor(unsafe) dynamic public func tableView(_ tableView: UIKit.UITableView, heightForFooterInSection section: Swift.Int) -> CoreGraphics.CGFloat
-  @objc @_Concurrency.MainActor(unsafe) dynamic public func tableView(_ tableView: UIKit.UITableView, viewForFooterInSection section: Swift.Int) -> UIKit.UIView?
-  @objc @_Concurrency.MainActor(unsafe) dynamic public func tableView(_ tableView: UIKit.UITableView, viewForHeaderInSection section: Swift.Int) -> UIKit.UIView?
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, willDisplay cell: UIKit.UITableViewCell, forRowAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, heightForFooterInSection section: Swift.Int) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, viewForFooterInSection section: Swift.Int) -> UIKit.UIView?
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, viewForHeaderInSection section: Swift.Int) -> UIKit.UIView?
 }
 extension StripePayments.STPSource : Stripe.STPPaymentOption {
   @objc dynamic public var image: UIKit.UIImage {

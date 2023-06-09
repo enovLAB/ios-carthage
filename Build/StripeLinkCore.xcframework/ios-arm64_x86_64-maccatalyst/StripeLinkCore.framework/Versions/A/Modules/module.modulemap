@@ -6,6 +6,6 @@ framework module StripeLinkCore {
 }
 
 module StripeLinkCore.Swift {
-    header "StripeLinkCore-Swift.h"
-    requires objc
+  header "StripeLinkCore-Swift.h"
+  requires objc
 }

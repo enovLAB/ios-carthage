@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/StripePaymentsUI-Swift.h</key>
 		<data>
-		OhgU0kXp3VFosufum2vkjhfR4jM=
+		Rc9gPT9sK2DeSDbMzD9/mGzmcKg=
 		</data>
 		<key>Headers/StripePaymentsUI.h</key>
 		<data>
@@ -14,59 +14,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8Z8iT/UZh0cRTqRp2sqLn8lMuRg=
+		lsQ1m3FvRbkYx12KiRsnBcj/fRU=
+		</data>
+		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		oG4Xh9JiZAjWFf15gsHjqXiqMi8=
+		</data>
+		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		D40nu0EHssEWTPCnQBo1AoioczU=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CtkMd8oRLd9usYhhwImq9wgI1iM=
+		6LmJEBL05rcHImMjzAsv6CXHRIM=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		74JSKNpegcpC5YW4sBUQDKnkqSk=
+		DEVSKEO4SPODA4sPluXsUKFioeQ=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tsTs/12h7Q+G1MlHcoI5vD0G1yI=
+		fg6ibYCPRbxn+OnuI+rOBrPVSPo=
 		</data>
-		<key>Modules/StripePaymentsUI.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CtkMd8oRLd9usYhhwImq9wgI1iM=
+		oG4Xh9JiZAjWFf15gsHjqXiqMi8=
 		</data>
-		<key>Modules/StripePaymentsUI.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		74JSKNpegcpC5YW4sBUQDKnkqSk=
-		</data>
-		<key>Modules/StripePaymentsUI.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		tsTs/12h7Q+G1MlHcoI5vD0G1yI=
+		7nsJX2RHBy0MiK6X3JV9rV1pwFY=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZYaXk8xcShZdCqsy6DEz+b5P2/8=
+		HVztZtRZC0eH7hzSCU1E1NKceNs=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		90I+eJwhyzauocCGgMDkE4CAm5A=
+		a8wDjibmeIhSzw29cMbH/QrUxcs=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VkkRKlapQuSIyQRwrefxEQ7HSTs=
-		</data>
-		<key>Modules/StripePaymentsUI.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		ZYaXk8xcShZdCqsy6DEz+b5P2/8=
-		</data>
-		<key>Modules/StripePaymentsUI.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		90I+eJwhyzauocCGgMDkE4CAm5A=
-		</data>
-		<key>Modules/StripePaymentsUI.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		VkkRKlapQuSIyQRwrefxEQ7HSTs=
+		rti88Apcy7feNulnKx1TA+DzHVE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Ow42cXnkyVMJW1uMMg3fR9hDLFU=
+		bmToKI9RnAgQUGBYPjCx0H78dxw=
 		</data>
 		<key>anz@3x.png</key>
 		<data>
@@ -105,7 +97,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			swxt5NdVpHbLAguEJ8Rje09l9o8=
+			LEspUcIPmfMFjZUwLJuYHn9CHZo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -113,6 +105,10 @@
 		<key>card_amex@3x.png</key>
 		<data>
 		4jrIxBfXwxMnLFCfmH/+k9/IERk=
+		</data>
+		<key>card_cartes_bancaires@3x.png</key>
+		<data>
+		w7FCnrOxGm1Bm9TqMuiqhVEWIMs=
 		</data>
 		<key>card_cvc_amex_icon@3x.png</key>
 		<data>
@@ -234,7 +230,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Muzb18R6FiiEik7s0IMrDec+bjQ=
+			9EdtRNNJ2ji8p09/Td9Dx5fdAkA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -261,7 +257,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WjBRVmxq1Ca5O5vhFyz9wKUszvk=
+			lOlNvB7IpSybWkikAv3cPjFfoBQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -341,7 +337,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p1JqVB6XbSXU21qLq1actXwz+EU=
+			NX9OfZI111V9Qj6gyINcU4GJSf4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -368,7 +364,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			McPRO7Ik7xfXTw7tLJW7tOLiXHw=
+			mtq/o9wIKy+iOga7pqncjM7uGM4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -519,6 +515,14 @@
 		<data>
 		D07ogDijKjcFlq9B7bF9x8bP7QQ=
 		</data>
+		<key>stp_card_cartes_bancaires@3x.png</key>
+		<data>
+		fV+8F65oU1HHcwB2ZmQDjHYkQ8g=
+		</data>
+		<key>stp_card_cartes_bancaires_template@3x.png</key>
+		<data>
+		8LUiuZWlHyqmBrxjmCa9MqtHlkw=
+		</data>
 		<key>stp_card_cvc@3x.png</key>
 		<data>
 		A2gZdqztFiQnEkgwo/gk/lXKduo=
@@ -626,7 +630,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			horN+UY/6v16rR4fe5EikTKkQm0=
+			h7sjsBiTpaRh7o8reYjba+46+2Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -669,7 +673,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CUWU328L1yg57hk1DS8NeJo/0iHeRg7HTAe0vz/yQVY=
+			woo2x0my2MuKOOFcHspL1t9HMXnR2FWoNvHrzv5kkKk=
 			</data>
 		</dict>
 		<key>Headers/StripePaymentsUI.h</key>
@@ -679,95 +683,81 @@
 			TqlOsAFsOUV6YxpaRl7vVFza0NVeFHf6BgpiZ5VXMXA=
 			</data>
 		</dict>
+		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d0qsZyVlLadk0At/9GBis0GdeQfcWCgF9WJr06S5dKg=
+			</data>
+		</dict>
+		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tXtzANMnEYhXBV+x20iUpjOmlQ1Btl0HxyggHqzESQo=
+			</data>
+		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5u42awyFWWVE3Qpn+2of+wP/BfLJBRW4jVybN5hQ91c=
+			2Xt/wcpfqbY0nFJtZaS1Mfs8kUehtYJINurHZ53qxe8=
 			</data>
 		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4vGqZqMIvfzjoRYMrQ0Lr8eqLwWSNuHFlgsdCYCbFmM=
+			R1VV6iIoB3Rgx8cGQMiFkYxr5AmSKpDsz1mlKTkNAfk=
 			</data>
 		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/QBkTnhTwvJxCdjEtKuFymoIhTKHViKc8i4FBxVwmVc=
+			odLOrMawHeKiz18FwIOVRTh/eOjOvuRTfh+w9PBaweY=
 			</data>
 		</dict>
-		<key>Modules/StripePaymentsUI.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5u42awyFWWVE3Qpn+2of+wP/BfLJBRW4jVybN5hQ91c=
+			d0qsZyVlLadk0At/9GBis0GdeQfcWCgF9WJr06S5dKg=
 			</data>
 		</dict>
-		<key>Modules/StripePaymentsUI.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4vGqZqMIvfzjoRYMrQ0Lr8eqLwWSNuHFlgsdCYCbFmM=
-			</data>
-		</dict>
-		<key>Modules/StripePaymentsUI.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/QBkTnhTwvJxCdjEtKuFymoIhTKHViKc8i4FBxVwmVc=
+			MJq4y9x/2XoSusV6h4lKCtkXOUh8fgMtGmd1/B+nt4U=
 			</data>
 		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OrP1q663JNZ6qXojmd9zeCdOfjSJAAkmjQLXk76y4qs=
+			+XHJH25yrC5jcOzM0yVJ9+VGqUt/3rwO4hYZoyEmlrw=
 			</data>
 		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			abCmr3pes/TnHylxoXlK7h6GT044s4iQSow/MudBA5w=
+			2aOGAhap6U1xIy30jnUVzgHIW08XiP7BzNHEW5mhJ98=
 			</data>
 		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			//oj+Bo0g+4c9ZDD5TQQR1rz5DmS6jLwnIBALz3Tch0=
-			</data>
-		</dict>
-		<key>Modules/StripePaymentsUI.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OrP1q663JNZ6qXojmd9zeCdOfjSJAAkmjQLXk76y4qs=
-			</data>
-		</dict>
-		<key>Modules/StripePaymentsUI.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			abCmr3pes/TnHylxoXlK7h6GT044s4iQSow/MudBA5w=
-			</data>
-		</dict>
-		<key>Modules/StripePaymentsUI.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			//oj+Bo0g+4c9ZDD5TQQR1rz5DmS6jLwnIBALz3Tch0=
+			UTwOsqCh16e3Hx4vuN8Rtrcuen1eo9lJ9GDLYAYqSIo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gbfNqLf8blwQH9b4sSfe0oKR4wsCrVZtodthRYnNeW8=
+			WfOo9z+QTemMDn6uujMWF5J6VYHg/3JEVw3WEdh67RM=
 			</data>
 		</dict>
 		<key>anz@3x.png</key>
@@ -825,7 +815,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xiNizMz4/hZGiRpp8I8iSqyTUqkUEcVjtGN+S7Sqzn4=
+			/szZfnOgMi++3lsUOxnE+2y2nJSNlSmuP8g46Zmyma8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -835,6 +825,13 @@
 			<key>hash2</key>
 			<data>
 			acFVUakA/T3E5ZX1B6hYzS8qP2NRDX8UYyOrSSDI/jg=
+			</data>
+		</dict>
+		<key>card_cartes_bancaires@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XpizxzPFACVFV4JfzfjTXGSmzieXsXXwEDi6sclY2I4=
 			</data>
 		</dict>
 		<key>card_cvc_amex_icon@3x.png</key>
@@ -1017,7 +1014,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UOpclagzWEXow4TdRiIMEMc7u2mmUe3QmNJXjZ2RuY8=
+			TcO9MQhJt/ftgts6fJT2qUnKxEkfj4kJeGuxzmq3oGM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1044,7 +1041,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/F4KCyBBxbpjD5GcY37M6fGbnxsBNoZ866a25/PZFqI=
+			Z+sTYvXpGCKh+CJVCN6CXqeLab1Mvx8wcQxYxGM0S44=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1130,7 +1127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rmeGFzE0Gee6hz7sTYAQvwZvXLdPxpsKrc9NYDu9R08=
+			bPEoxN0dqjRol/U4bOy03mfTqKhEGLFLQr0gu3k420M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1157,7 +1154,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OYz8XW0KfpBCsDcrnwmQoEduaxBxHrZSQarMdhkh7Fc=
+			GnH7qkx1UR/29YULRI+sKMXEAq4nBNQ9srO61NE6R+4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1321,6 +1318,20 @@
 			<key>hash2</key>
 			<data>
 			Ch7vT+nMI+Grs1nBr/YHSHbKoMUn/sirpnYEBWVitwQ=
+			</data>
+		</dict>
+		<key>stp_card_cartes_bancaires@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cL8qMRBLfVMkIRriaUlRG9hok5FpbQLpxOvoR8gFoiE=
+			</data>
+		</dict>
+		<key>stp_card_cartes_bancaires_template@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PT7ECqhlRiDGszOgE2+M+Q87uoHokJ5F4dzIw7sCBV0=
 			</data>
 		</dict>
 		<key>stp_card_cvc@3x.png</key>
@@ -1487,7 +1498,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			keXKicOX0o04CFAWjFwnP+Uy6zdOVWe1Qwxe8LpZunM=
+			+KVu/vNu14HDNbZKm558BaYiPiaIcHhYtbJr5Vy10vM=
 			</data>
 			<key>optional</key>
 			<true/>

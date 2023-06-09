@@ -6,6 +6,6 @@ framework module StripeFinancialConnections {
 }
 
 module StripeFinancialConnections.Swift {
-    header "StripeFinancialConnections-Swift.h"
-    requires objc
+  header "StripeFinancialConnections-Swift.h"
+  requires objc
 }
