@@ -1,12 +1,16 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name StripeIdentity
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVKit
 import Accelerate
 import CoreGraphics
 import CoreML
 import CoreVideo
 import Foundation
+import Metal
+import MetalKit
+import MetalPerformanceShaders
 import SafariServices
 import StripeCameraCore
 @_exported import StripeCore
@@ -17,6 +21,7 @@ import UIKit
 import Vision
 import WebKit
 import _Concurrency
+import _StringProcessing
 @_hasMissingDesignatedInitializers final public class IdentityVerificationSheet {
   @frozen public enum VerificationFlowResult {
     case flowCompleted
@@ -30,16 +35,14 @@ import _Concurrency
   final public let verificationSessionClientSecret: Swift.String
   @available(iOS 14.3, *)
   convenience public init(verificationSessionClientSecret: Swift.String)
-  @available(iOSApplicationExtension, unavailable)
-  @available(macCatalystApplicationExtension, unavailable)
   convenience public init(verificationSessionId: Swift.String, ephemeralKeySecret: Swift.String, configuration: StripeIdentity.IdentityVerificationSheet.Configuration)
-  @available(iOSApplicationExtension, unavailable)
   final public func present(from presentingViewController: UIKit.UIViewController, completion: @escaping (StripeIdentity.IdentityVerificationSheet.VerificationFlowResult) -> Swift.Void)
   @objc deinit
 }
 public enum IdentityVerificationSheetError : Swift.Error {
   case invalidClientSecret
   case unknown(debugDescription: Swift.String)
+  case testModeSampleError
 }
 extension StripeIdentity.IdentityVerificationSheetError : Foundation.LocalizedError {
   public var localizedDescription: Swift.String {

@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
 // swift-module-flags: -target x86_64-apple-ios13.1-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name StripePaymentSheet
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import AuthenticationServices
 import CloudKit
@@ -13,7 +14,7 @@ import Security
 import StripeApplePay
 @_exported import StripeCore
 @_exported import StripePaymentSheet
-import StripePayments
+@_exported import StripePayments
 import StripePaymentsUI
 import StripeUICore
 import Swift
@@ -21,15 +22,7 @@ import SwiftUI
 import UIKit
 import Vision
 import _Concurrency
-extension Foundation.Date {
-  public func compatibleDistance(to other: Foundation.Date) -> Foundation.TimeInterval
-}
-extension StripePayments.STPPaymentMethod {
-  @objc override dynamic public var accessibilityLabel: Swift.String? {
-    @objc get
-    @objc set
-  }
-}
+import _StringProcessing
 extension StripePaymentSheet.AddressViewController {
   public struct AddressDetails {
     public let address: StripePaymentSheet.AddressViewController.AddressDetails.Address
@@ -96,26 +89,119 @@ public protocol AddressViewControllerDelegate : AnyObject {
 extension StripePaymentSheet.AddressViewController : UIKit.UIGestureRecognizerDelegate {
   @_Concurrency.MainActor(unsafe) @objc dynamic public func gestureRecognizer(_ gestureRecognizer: UIKit.UIGestureRecognizer, shouldReceive touch: UIKit.UITouch) -> Swift.Bool
 }
-extension StripePaymentSheet.PaymentSheet {
-  public enum PaymentMethodType : Swift.Equatable, Swift.Hashable {
-    case card
-    case USBankAccount
-    case linkInstantDebit
-    case link
-    case dynamic(Swift.String)
-    case UPI
-    case cashApp
-    public init(from str: Swift.String)
-    public static func == (a: StripePaymentSheet.PaymentSheet.PaymentMethodType, b: StripePaymentSheet.PaymentSheet.PaymentMethodType) -> Swift.Bool
-    public func hash(into hasher: inout Swift.Hasher)
-    public var hashValue: Swift.Int {
+public protocol CustomerAdapter {
+  #if compiler(>=5.3) && $AsyncAwait
+  func fetchPaymentMethods() async throws -> [StripePayments.STPPaymentMethod]
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func attachPaymentMethod(_ paymentMethodId: Swift.String) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func detachPaymentMethod(paymentMethodId: Swift.String) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func setSelectedPaymentOption(paymentOption: StripePaymentSheet.CustomerPaymentOption?) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func fetchSelectedPaymentOption() async throws -> StripePaymentSheet.CustomerPaymentOption?
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func setupIntentClientSecretForCustomerAttach() async throws -> Swift.String
+  #endif
+  var canCreateSetupIntents: Swift.Bool { get }
+}
+public struct CustomerEphemeralKey {
+  public let id: Swift.String
+  public let ephemeralKeySecret: Swift.String
+  public init(customerId: Swift.String, ephemeralKeySecret: Swift.String)
+}
+open class StripeCustomerAdapter : StripePaymentSheet.CustomerAdapter {
+  #if compiler(>=5.3) && $AsyncAwait
+  public init(customerEphemeralKeyProvider: @escaping () async throws -> StripePaymentSheet.CustomerEphemeralKey, setupIntentClientSecretProvider: (() async throws -> Swift.String)? = nil, apiClient: StripeCore.STPAPIClient = .shared)
+  #endif
+  public var canCreateSetupIntents: Swift.Bool {
+    get
+  }
+  #if compiler(>=5.3) && $AsyncAwait
+  open func fetchPaymentMethods() async throws -> [StripePayments.STPPaymentMethod]
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  open func attachPaymentMethod(_ paymentMethodId: Swift.String) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  open func detachPaymentMethod(paymentMethodId: Swift.String) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  open func setSelectedPaymentOption(paymentOption: StripePaymentSheet.CustomerPaymentOption?) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  open func fetchSelectedPaymentOption() async throws -> StripePaymentSheet.CustomerPaymentOption?
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  open func setupIntentClientSecretForCustomerAttach() async throws -> Swift.String
+  #endif
+  @objc deinit
+}
+public enum CustomerPaymentOption : Swift.Equatable {
+  case applePay
+  case link
+  case stripeId(Swift.String)
+  public static func == (a: StripePaymentSheet.CustomerPaymentOption, b: StripePaymentSheet.CustomerPaymentOption) -> Swift.Bool
+}
+extension SwiftUI.View {
+  public func customerSheet(isPresented: SwiftUI.Binding<Swift.Bool>, customerSheet: StripePaymentSheet.CustomerSheet, onCompletion: @escaping (StripePaymentSheet.CustomerSheet.CustomerSheetResult) -> Swift.Void) -> some SwiftUI.View
+  
+}
+public class CustomerSheet {
+  public init(configuration: StripePaymentSheet.CustomerSheet.Configuration, customer: StripePaymentSheet.CustomerAdapter)
+  @frozen public enum CustomerSheetResult {
+    case canceled(StripePaymentSheet.CustomerSheet.PaymentOptionSelection?)
+    case selected(StripePaymentSheet.CustomerSheet.PaymentOptionSelection?)
+    case error(Swift.Error)
+  }
+  public func present(from presentingViewController: UIKit.UIViewController, completion csCompletion: @escaping (StripePaymentSheet.CustomerSheet.CustomerSheetResult) -> Swift.Void)
+  @objc deinit
+}
+extension StripePaymentSheet.StripeCustomerAdapter {
+  #if compiler(>=5.3) && $AsyncAwait
+  public func retrievePaymentOptionSelection() async throws -> StripePaymentSheet.CustomerSheet.PaymentOptionSelection?
+  #endif
+}
+extension StripePaymentSheet.CustomerSheet {
+  public struct Configuration {
+    public var style: StripePaymentSheet.PaymentSheet.UserInterfaceStyle {
       get
+      set
     }
+    public var appearance: StripePaymentSheet.PaymentSheet.Appearance
+    public var merchantDisplayName: Swift.String
+    public var returnURL: Swift.String?
+    public var apiClient: StripeCore.STPAPIClient
+    public var applePayEnabled: Swift.Bool
+    public var headerTextForSelectionScreen: Swift.String?
+    public var defaultBillingDetails: StripePaymentSheet.PaymentSheet.BillingDetails
+    public var billingDetailsCollectionConfiguration: StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration
+    public var removeSavedPaymentMethodMessage: Swift.String?
+    public init()
   }
 }
-@available(iOS 13.0, *)
-@available(iOSApplicationExtension, unavailable)
-@available(macCatalystApplicationExtension, unavailable)
+extension StripePaymentSheet.CustomerSheet {
+  public enum PaymentOptionSelection {
+    public struct PaymentOptionDisplayData {
+      public let image: UIKit.UIImage
+      public let label: Swift.String
+    }
+    case applePay(paymentOptionDisplayData: StripePaymentSheet.CustomerSheet.PaymentOptionSelection.PaymentOptionDisplayData)
+    case paymentMethod(paymentMethod: StripePayments.STPPaymentMethod, paymentOptionDisplayData: StripePaymentSheet.CustomerSheet.PaymentOptionSelection.PaymentOptionDisplayData)
+    public static func paymentMethod(_ paymentMethod: StripePayments.STPPaymentMethod) -> StripePaymentSheet.CustomerSheet.PaymentOptionSelection
+    public static func applePay() -> StripePaymentSheet.CustomerSheet.PaymentOptionSelection
+    public func displayData() -> StripePaymentSheet.CustomerSheet.PaymentOptionSelection.PaymentOptionDisplayData
+  }
+}
+public enum CustomerSheetError : Swift.Error {
+  case errorFetchingSavedPaymentMethods(Swift.Error)
+  case unknown(debugDescription: Swift.String)
+}
 extension SwiftUI.View {
   public func paymentSheet(isPresented: SwiftUI.Binding<Swift.Bool>, paymentSheet: StripePaymentSheet.PaymentSheet, onCompletion: @escaping (StripePaymentSheet.PaymentSheetResult) -> Swift.Void) -> some SwiftUI.View
   
@@ -127,9 +213,6 @@ extension SwiftUI.View {
   public func paymentConfirmationSheet(isConfirmingPayment: SwiftUI.Binding<Swift.Bool>, paymentSheetFlowController: StripePaymentSheet.PaymentSheet.FlowController, onCompletion: @escaping (StripePaymentSheet.PaymentSheetResult) -> Swift.Void) -> some SwiftUI.View
   
 }
-@available(iOS 13.0, *)
-@available(iOSApplicationExtension, unavailable)
-@available(macCatalystApplicationExtension, unavailable)
 extension StripePaymentSheet.PaymentSheet {
   public struct PaymentButton<Content> : SwiftUI.View where Content : SwiftUI.View {
     public init(paymentSheet: StripePaymentSheet.PaymentSheet, onCompletion: @escaping (StripePaymentSheet.PaymentSheetResult) -> Swift.Void, @SwiftUI.ViewBuilder content: () -> Content)
@@ -139,9 +222,6 @@ extension StripePaymentSheet.PaymentSheet {
     public typealias Body = @_opaqueReturnTypeOf("$s18StripePaymentSheet0bC0C0B6ButtonV4bodyQrvp", 0) __<Content>
   }
 }
-@available(iOS 13.0, *)
-@available(iOSApplicationExtension, unavailable)
-@available(macCatalystApplicationExtension, unavailable)
 extension StripePaymentSheet.PaymentSheet.FlowController {
   public struct PaymentOptionsButton<Content> : SwiftUI.View where Content : SwiftUI.View {
     public init(paymentSheetFlowController: StripePaymentSheet.PaymentSheet.FlowController, onSheetDismissed: @escaping () -> Swift.Void, @SwiftUI.ViewBuilder content: () -> Content)
@@ -165,15 +245,14 @@ extension StripePaymentSheet.PaymentSheet.FlowController {
   case canceled
   case failed(error: Swift.Error)
 }
-public class PaymentSheet {
+@_hasMissingDesignatedInitializers public class PaymentSheet {
   final public let configuration: StripePaymentSheet.PaymentSheet.Configuration
   public var mostRecentError: Swift.Error? {
     get
   }
   convenience public init(paymentIntentClientSecret: Swift.String, configuration: StripePaymentSheet.PaymentSheet.Configuration)
   convenience public init(setupIntentClientSecret: Swift.String, configuration: StripePaymentSheet.PaymentSheet.Configuration)
-  @available(iOSApplicationExtension, unavailable)
-  @available(macCatalystApplicationExtension, unavailable)
+  convenience public init(intentConfiguration: StripePaymentSheet.PaymentSheet.IntentConfiguration, configuration: StripePaymentSheet.PaymentSheet.Configuration)
   public func present(from presentingViewController: UIKit.UIViewController, completion: @escaping (StripePaymentSheet.PaymentSheetResult) -> Swift.Void)
   @available(*, deprecated, renamed: "resetCustomer()")
   public static func reset()
@@ -187,12 +266,12 @@ extension StripePaymentSheet.PaymentSheet {
     public var font: StripePaymentSheet.PaymentSheet.Appearance.Font
     public var colors: StripePaymentSheet.PaymentSheet.Appearance.Colors
     public var primaryButton: StripePaymentSheet.PaymentSheet.Appearance.PrimaryButton
-    public var cornerRadius: CoreGraphics.CGFloat
-    public var borderWidth: CoreGraphics.CGFloat
+    public var cornerRadius: CoreFoundation.CGFloat
+    public var borderWidth: CoreFoundation.CGFloat
     public var shadow: StripePaymentSheet.PaymentSheet.Appearance.Shadow
     public struct Font : Swift.Equatable {
       public init()
-      public var sizeScaleFactor: CoreGraphics.CGFloat {
+      public var sizeScaleFactor: CoreFoundation.CGFloat {
         get
         set
       }
@@ -219,20 +298,20 @@ extension StripePaymentSheet.PaymentSheet {
         get
       }
       public var color: UIKit.UIColor
-      public var opacity: CoreGraphics.CGFloat
-      public var offset: CoreGraphics.CGSize
-      public var radius: CoreGraphics.CGFloat
+      public var opacity: CoreFoundation.CGFloat
+      public var offset: CoreFoundation.CGSize
+      public var radius: CoreFoundation.CGFloat
       public init()
-      public init(color: UIKit.UIColor, opacity: CoreGraphics.CGFloat, offset: CoreGraphics.CGSize, radius: CoreGraphics.CGFloat)
+      public init(color: UIKit.UIColor, opacity: CoreFoundation.CGFloat, offset: CoreFoundation.CGSize, radius: CoreFoundation.CGFloat)
       public static func == (a: StripePaymentSheet.PaymentSheet.Appearance.Shadow, b: StripePaymentSheet.PaymentSheet.Appearance.Shadow) -> Swift.Bool
     }
     public struct PrimaryButton : Swift.Equatable {
       public init()
       public var backgroundColor: UIKit.UIColor?
       public var textColor: UIKit.UIColor?
-      public var cornerRadius: CoreGraphics.CGFloat?
+      public var cornerRadius: CoreFoundation.CGFloat?
       public var borderColor: UIKit.UIColor
-      public var borderWidth: CoreGraphics.CGFloat
+      public var borderWidth: CoreFoundation.CGFloat
       public var font: UIKit.UIFont?
       public var shadow: StripePaymentSheet.PaymentSheet.Appearance.Shadow?
       public static func == (a: StripePaymentSheet.PaymentSheet.Appearance.PrimaryButton, b: StripePaymentSheet.PaymentSheet.Appearance.PrimaryButton) -> Swift.Bool
@@ -241,7 +320,6 @@ extension StripePaymentSheet.PaymentSheet {
   }
 }
 extension StripePaymentSheet.PaymentSheet {
-  @available(iOS 13.0, *)
   public enum UserInterfaceStyle : Swift.Int {
     case automatic
     case alwaysLight
@@ -272,7 +350,6 @@ extension StripePaymentSheet.PaymentSheet {
       set
     }
     public var primaryButtonLabel: Swift.String?
-    @available(iOS 13.0, *)
     public var style: StripePaymentSheet.PaymentSheet.UserInterfaceStyle {
       get
       set
@@ -285,6 +362,8 @@ extension StripePaymentSheet.PaymentSheet {
     public var appearance: StripePaymentSheet.PaymentSheet.Appearance
     public var shippingDetails: () -> StripePaymentSheet.AddressViewController.AddressDetails?
     public init()
+    public var billingDetailsCollectionConfiguration: StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration
+    public var removeSavedPaymentMethodMessage: Swift.String?
   }
   public struct CustomerConfiguration {
     public let id: Swift.String
@@ -321,23 +400,84 @@ extension StripePaymentSheet.PaymentSheet {
     public var phone: Swift.String?
     public static func == (a: StripePaymentSheet.PaymentSheet.BillingDetails, b: StripePaymentSheet.PaymentSheet.BillingDetails) -> Swift.Bool
   }
+  public struct BillingDetailsCollectionConfiguration : Swift.Equatable {
+    public enum CollectionMode : Swift.String, Swift.CaseIterable {
+      case automatic
+      case never
+      case always
+      public init?(rawValue: Swift.String)
+      public typealias AllCases = [StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.CollectionMode]
+      public typealias RawValue = Swift.String
+      public static var allCases: [StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.CollectionMode] {
+        get
+      }
+      public var rawValue: Swift.String {
+        get
+      }
+    }
+    public enum AddressCollectionMode : Swift.String, Swift.CaseIterable {
+      case automatic
+      case never
+      case full
+      public init?(rawValue: Swift.String)
+      public typealias AllCases = [StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.AddressCollectionMode]
+      public typealias RawValue = Swift.String
+      public static var allCases: [StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.AddressCollectionMode] {
+        get
+      }
+      public var rawValue: Swift.String {
+        get
+      }
+    }
+    public var name: StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.CollectionMode
+    public var phone: StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.CollectionMode
+    public var email: StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.CollectionMode
+    public var address: StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.AddressCollectionMode
+    public var attachDefaultsToPaymentMethod: Swift.Bool
+    public static func == (a: StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration, b: StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration) -> Swift.Bool
+  }
 }
 public enum PaymentSheetError : Swift.Error {
   case unknown(debugDescription: Swift.String)
+  case missingClientSecret
+  case invalidClientSecret
+  case unexpectedResponseFromStripeAPI
+  case applePayNotSupportedOrMisconfigured
+  case alreadyPresented
+  case flowControllerConfirmFailed(message: Swift.String)
+  case errorHandlingNextAction
+  case unrecognizedHandlerStatus
+  case accountLinkFailure
+  case setupIntentClientSecretProviderNil
   case noPaymentMethodTypesAvailable(intentPaymentMethods: [StripePayments.STPPaymentMethodType])
+  case paymentIntentInTerminalState(status: StripePayments.STPPaymentIntentStatus)
+  case setupIntentInTerminalState(status: StripePayments.STPSetupIntentStatus)
+  case fetchPaymentMethodsFailure
+  case deferredIntentValidationFailed(message: Swift.String)
+  case linkSignUpNotRequired
+  case linkCallVerifyNotRequired
+  case linkingWithoutValidSession
+  case savingWithoutValidLinkSession
+  case payingWithoutValidLinkSession
+  case deletingWithoutValidLinkSession
+  case updatingWithoutValidLinkSession
+  case linkLookupNotFound(serverErrorMessage: Swift.String)
+  case failedToCreateLinkSession
+  case linkNotAuthorized
   public var localizedDescription: Swift.String {
     get
   }
 }
 extension StripePaymentSheet.PaymentSheetError : Swift.CustomDebugStringConvertible {
+  public var safeLoggingString: Swift.String {
+    get
+  }
   public var debugDescription: Swift.String {
     get
   }
 }
 extension StripePaymentSheet.PaymentSheet {
-  @_hasMissingDesignatedInitializers @available(iOSApplicationExtension, unavailable)
-  @available(macCatalystApplicationExtension, unavailable)
-  public class FlowController {
+  @_hasMissingDesignatedInitializers public class FlowController {
     public struct PaymentOptionDisplayData {
       public let image: UIKit.UIImage
       public let label: Swift.String
@@ -348,9 +488,44 @@ extension StripePaymentSheet.PaymentSheet {
     }
     public static func create(paymentIntentClientSecret: Swift.String, configuration: StripePaymentSheet.PaymentSheet.Configuration, completion: @escaping (Swift.Result<StripePaymentSheet.PaymentSheet.FlowController, Swift.Error>) -> Swift.Void)
     public static func create(setupIntentClientSecret: Swift.String, configuration: StripePaymentSheet.PaymentSheet.Configuration, completion: @escaping (Swift.Result<StripePaymentSheet.PaymentSheet.FlowController, Swift.Error>) -> Swift.Void)
+    public static func create(intentConfiguration: StripePaymentSheet.PaymentSheet.IntentConfiguration, configuration: StripePaymentSheet.PaymentSheet.Configuration, completion: @escaping (Swift.Result<StripePaymentSheet.PaymentSheet.FlowController, Swift.Error>) -> Swift.Void)
     public func presentPaymentOptions(from presentingViewController: UIKit.UIViewController, completion: (() -> Swift.Void)? = nil)
     public func confirm(from presentingViewController: UIKit.UIViewController, completion: @escaping (StripePaymentSheet.PaymentSheetResult) -> Swift.Void)
+    public func update(intentConfiguration: StripePaymentSheet.PaymentSheet.IntentConfiguration, completion: @escaping (Swift.Error?) -> Swift.Void)
     @objc deinit
+  }
+}
+extension StripePaymentSheet.PaymentSheet {
+  public struct IntentConfiguration {
+    public typealias ConfirmHandler = (_ paymentMethod: StripePayments.STPPaymentMethod, _ shouldSavePaymentMethod: Swift.Bool, _ intentCreationCallback: @escaping ((Swift.Result<Swift.String, Swift.Error>) -> Swift.Void)) -> Swift.Void
+    public init(mode: StripePaymentSheet.PaymentSheet.IntentConfiguration.Mode, paymentMethodTypes: [Swift.String]? = nil, onBehalfOf: Swift.String? = nil, confirmHandler: @escaping StripePaymentSheet.PaymentSheet.IntentConfiguration.ConfirmHandler)
+    public var mode: StripePaymentSheet.PaymentSheet.IntentConfiguration.Mode
+    public var paymentMethodTypes: [Swift.String]?
+    public var confirmHandler: StripePaymentSheet.PaymentSheet.IntentConfiguration.ConfirmHandler
+    public var onBehalfOf: Swift.String?
+    public enum CaptureMethod : Swift.String {
+      case automatic
+      case manual
+      case automaticAsync
+      public init?(rawValue: Swift.String)
+      public typealias RawValue = Swift.String
+      public var rawValue: Swift.String {
+        get
+      }
+    }
+    public enum SetupFutureUsage : Swift.String {
+      case offSession
+      case onSession
+      public init?(rawValue: Swift.String)
+      public typealias RawValue = Swift.String
+      public var rawValue: Swift.String {
+        get
+      }
+    }
+    public enum Mode {
+      case payment(amount: Swift.Int, currency: Swift.String, setupFutureUsage: StripePaymentSheet.PaymentSheet.IntentConfiguration.SetupFutureUsage? = nil, captureMethod: StripePaymentSheet.PaymentSheet.IntentConfiguration.CaptureMethod = .automatic)
+      case setup(currency: Swift.String? = nil, setupFutureUsage: StripePaymentSheet.PaymentSheet.IntentConfiguration.SetupFutureUsage = .offSession)
+    }
   }
 }
 extension Swift.String {
@@ -359,11 +534,20 @@ extension Swift.String {
 extension StripePaymentSheet.AddressViewController.Configuration.AdditionalFields.FieldConfiguration : Swift.Equatable {}
 extension StripePaymentSheet.AddressViewController.Configuration.AdditionalFields.FieldConfiguration : Swift.Hashable {}
 extension StripePaymentSheet.PaymentSheetResult : Swift.Sendable {}
-@available(iOS 13.0, *)
 extension StripePaymentSheet.PaymentSheet.UserInterfaceStyle : Swift.Equatable {}
-@available(iOS 13.0, *)
 extension StripePaymentSheet.PaymentSheet.UserInterfaceStyle : Swift.Hashable {}
-@available(iOS 13.0, *)
 extension StripePaymentSheet.PaymentSheet.UserInterfaceStyle : Swift.RawRepresentable {}
 extension StripePaymentSheet.PaymentSheet.SavePaymentMethodOptInBehavior : Swift.Equatable {}
 extension StripePaymentSheet.PaymentSheet.SavePaymentMethodOptInBehavior : Swift.Hashable {}
+extension StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.CollectionMode : Swift.Equatable {}
+extension StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.CollectionMode : Swift.Hashable {}
+extension StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.CollectionMode : Swift.RawRepresentable {}
+extension StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.AddressCollectionMode : Swift.Equatable {}
+extension StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.AddressCollectionMode : Swift.Hashable {}
+extension StripePaymentSheet.PaymentSheet.BillingDetailsCollectionConfiguration.AddressCollectionMode : Swift.RawRepresentable {}
+extension StripePaymentSheet.PaymentSheet.IntentConfiguration.CaptureMethod : Swift.Equatable {}
+extension StripePaymentSheet.PaymentSheet.IntentConfiguration.CaptureMethod : Swift.Hashable {}
+extension StripePaymentSheet.PaymentSheet.IntentConfiguration.CaptureMethod : Swift.RawRepresentable {}
+extension StripePaymentSheet.PaymentSheet.IntentConfiguration.SetupFutureUsage : Swift.Equatable {}
+extension StripePaymentSheet.PaymentSheet.IntentConfiguration.SetupFutureUsage : Swift.Hashable {}
+extension StripePaymentSheet.PaymentSheet.IntentConfiguration.SetupFutureUsage : Swift.RawRepresentable {}

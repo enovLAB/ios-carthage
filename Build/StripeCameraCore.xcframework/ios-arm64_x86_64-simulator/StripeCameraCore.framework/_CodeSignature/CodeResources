@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/StripeCameraCore-Swift.h</key>
 		<data>
-		ACBYvDAUG4Yr+gOpOTNI8/KFw38=
+		f/bVta7ByZ+zCysdXkxKuI1cZcQ=
 		</data>
 		<key>Headers/StripeCameraCore.h</key>
 		<data>
@@ -14,59 +14,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0hxHqa0UWPUBGgMhNx8g/spDUh8=
+		+wTJvjk8aQdeYwkKllbQhfowHkk=
+		</data>
+		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		T+DfLOK6hw+WAZalNwdBlr+mGdQ=
+		</data>
+		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		qrcC11HnljJogxTtfS1Ea1w1cys=
 		</data>
 		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		SpfDu0Jw9qY3mDgOu6fK2rAC+d8=
+		oiVGT2ZmWZ42CzcgGk0efORfeok=
 		</data>
 		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hwBq22up4HWyOQu4iSWP8GZIbQI=
+		pkA2j136T6LOG+8IGfJhB+gKtUE=
 		</data>
 		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		j/FaBgblhWcPwUSXfKZSzkfGHPw=
+		03FvDNKYjDrbFx+j8BjgyJL1SxM=
 		</data>
-		<key>Modules/StripeCameraCore.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		SpfDu0Jw9qY3mDgOu6fK2rAC+d8=
+		T+DfLOK6hw+WAZalNwdBlr+mGdQ=
 		</data>
-		<key>Modules/StripeCameraCore.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hwBq22up4HWyOQu4iSWP8GZIbQI=
-		</data>
-		<key>Modules/StripeCameraCore.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		j/FaBgblhWcPwUSXfKZSzkfGHPw=
+		B9v/qPByQeE+yu9Mz2lDowmz0wQ=
 		</data>
 		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+f7ibPjCpY9z+4PHTUqPu9eQq5U=
+		cZLpjM2fkiQDPzWwKJkQ+Z9yy4Y=
 		</data>
 		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		8tV23O1AVADOkHn5/MKz10tYsLo=
+		tJ6Ty/A5FHN2rDG7owISl2zfnas=
 		</data>
 		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nlzgTbae1nN6FLLfiTQxQRBLiTw=
-		</data>
-		<key>Modules/StripeCameraCore.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		+f7ibPjCpY9z+4PHTUqPu9eQq5U=
-		</data>
-		<key>Modules/StripeCameraCore.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		8tV23O1AVADOkHn5/MKz10tYsLo=
-		</data>
-		<key>Modules/StripeCameraCore.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		nlzgTbae1nN6FLLfiTQxQRBLiTw=
+		39ioh7ENwJFXWZnGG2mXVpcYJxQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		B7rFUBc6aCNVQOMPPdmuSTVayrA=
+		DGjSpcksSFzl6bK/vXOljKtPfrI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -75,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kl2ZcRV06+GokWNVBCDcMPgAUat8h2H3N1BfHjwMWEI=
+			4iQCY4M8Z+ppg25KTgwdKMIKnt1YJgM94zzlUAtCD74=
 			</data>
 		</dict>
 		<key>Headers/StripeCameraCore.h</key>
@@ -85,95 +77,81 @@
 			lwC6L0JhdBCxfSZaZDtGhm4HwucEkG3r40o0gKDDMDI=
 			</data>
 		</dict>
+		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cdOxobpyL5GyKQopXEg1k6ws8sGxJHxeKnAQXJ+Yj3c=
+			</data>
+		</dict>
+		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PVTAalD5Csx0hcvyg5Bcz385iGPG3d7mTJiW1fJRnMY=
+			</data>
+		</dict>
 		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aoG7V2u3hCpSu9zptGaSObVikhkJMNzy+U5MQqYqzio=
+			Q3cVTzLQaHLLSu25/3pYJ+qafuYiCRqNL/jH6rBWRVI=
 			</data>
 		</dict>
 		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v1g5snjwABvk+Hrj7tNOO+7lSBXHywMrwcJLlOQWKCY=
+			6DIo6aKywx11jX5xS9vkXdpsp7hUda3mVUdYj8pJ/xY=
 			</data>
 		</dict>
 		<key>Modules/StripeCameraCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YQrq9y8irXHcLoP+yOUBgbsaUMzFdJVXZeDUlliC94w=
+			oElVCj86+s8vN//K5osspILDHkvLwtNhaST3i8fxFIs=
 			</data>
 		</dict>
-		<key>Modules/StripeCameraCore.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aoG7V2u3hCpSu9zptGaSObVikhkJMNzy+U5MQqYqzio=
+			cdOxobpyL5GyKQopXEg1k6ws8sGxJHxeKnAQXJ+Yj3c=
 			</data>
 		</dict>
-		<key>Modules/StripeCameraCore.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v1g5snjwABvk+Hrj7tNOO+7lSBXHywMrwcJLlOQWKCY=
-			</data>
-		</dict>
-		<key>Modules/StripeCameraCore.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YQrq9y8irXHcLoP+yOUBgbsaUMzFdJVXZeDUlliC94w=
+			SJxn3m1mBje1kryq8bC/8pTVFiTj+C0IpiGbEZUBm5I=
 			</data>
 		</dict>
 		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I7v4DsqSCc8ShMBLJ+aznvTvhROaKbguHSuYBEvL0Uo=
+			+CTKuZpeTdIzNTjsrsRbZFFIdTsuHK3845RXInXehww=
 			</data>
 		</dict>
 		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HxQbTOm9A1WZAl/xWJ4+3O9xG+kp0UO70z//E/1pqwI=
+			9VHSgS8AxGtI4s1AzT+BY5zbceFvBKczLjzG4MMcz8U=
 			</data>
 		</dict>
 		<key>Modules/StripeCameraCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ULXQ3aqcCFt4dPeZ9lEtGSR0BywVJiA7I6+DKv8lgBk=
-			</data>
-		</dict>
-		<key>Modules/StripeCameraCore.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I7v4DsqSCc8ShMBLJ+aznvTvhROaKbguHSuYBEvL0Uo=
-			</data>
-		</dict>
-		<key>Modules/StripeCameraCore.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HxQbTOm9A1WZAl/xWJ4+3O9xG+kp0UO70z//E/1pqwI=
-			</data>
-		</dict>
-		<key>Modules/StripeCameraCore.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ULXQ3aqcCFt4dPeZ9lEtGSR0BywVJiA7I6+DKv8lgBk=
+			oclVW9K7EGdXr3Bt2gjYFxiCRPKKWgs8MFNEf7MDSzA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K4MEWMp0QQTTy5aoEiqnqOq1qu7gR0U5hMaJJc13Jfw=
+			KFS4ejnAFe4CXPsZ5NIJH3gccX17oI90VGv/+AQkUyc=
 			</data>
 		</dict>
 	</dict>

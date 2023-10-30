@@ -4,9 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Chevron@3x.png</key>
+		<key>Assets.car</key>
 		<data>
-		fjLLQv1fyhdEXVDdSoWiwXXE748=
+		KgV/d2wVkHI6jr4vDQ55nMJ1ZNQ=
 		</data>
 		<key>Headers/STDSAlreadyInitializedException.h</key>
 		<data>
@@ -138,15 +138,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nF+dA9svD5Bijw3Syzvs/V5cOpE=
+		pp0FO3+PPH2NxLLvs3IYTh+fUqI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		nj6HQsvH8/WK5v/3KyQshReMNhg=
-		</data>
-		<key>amex-logo@3x.png</key>
-		<data>
-		fdPVTQSJCyO+xoVu8XKZw1u5lcY=
 		</data>
 		<key>amex.der</key>
 		<data>
@@ -170,10 +166,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>cartes-bancaires-logo.png</key>
-		<data>
-		KonsjtuxBUsShwb3+99tH2h1k/w=
-		</data>
 		<key>cartes-bancaires.der</key>
 		<data>
 		32tLMpTd3md+3H3fHKj5jenRIkQ=
@@ -205,10 +197,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>discover-logo.png</key>
-		<data>
-		cW4DC2hypCLQQaou+Ac5CC7GIRs=
-		</data>
 		<key>discover.der</key>
 		<data>
 		mtG1XxZunvggdgCwFOBv7DD7f/I=
@@ -244,10 +232,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>error@3x.png</key>
-		<data>
-		ipzuDMUe0joaQdeD5I4Nr79z/6g=
-		</data>
 		<key>es-419.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -383,10 +367,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>mastercard-logo@3x.png</key>
-		<data>
-		I+LKfSVEvrIhC9LWgt7aQ/tiSVQ=
-		</data>
 		<key>mastercard.der</key>
 		<data>
 		6QqEKleaktL0+NBwJRdmBAxK8gY=
@@ -530,14 +510,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>visa-logo@3x.png</key>
-		<data>
-		vr1PPXw7gMNIbtNMkkcg1X0n8cw=
-		</data>
-		<key>visa-white-logo@3x.png</key>
-		<data>
-		zLIWyUpwWTbtWfFyiymPjfu5c1Y=
-		</data>
 		<key>visa.der</key>
 		<data>
 		cIAUXvXkElHLQ1L0+fmxo+SGZps=
@@ -572,11 +544,11 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Chevron@3x.png</key>
+		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gsZWAB0qi8mxmWEp0NcjgZXP2o+96DM7KBRK7JANCjQ=
+			0Oxo2/XwsOLu58/NQbjr37BERJjQsn8zsqW81T46Oi8=
 			</data>
 		</dict>
 		<key>Headers/STDSAlreadyInitializedException.h</key>
@@ -810,13 +782,6 @@
 			k2OxvME22TD4va/hicMSI+P3jwtV31nQXTI83ktpCSc=
 			</data>
 		</dict>
-		<key>amex-logo@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			s0nG5LtFV8hqntVGcEF491LOgPA3XmY9itC25riIAj0=
-			</data>
-		</dict>
 		<key>amex.der</key>
 		<dict>
 			<key>hash2</key>
@@ -841,13 +806,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>cartes-bancaires-logo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0VVV/Q+ldTMqXUFuEJXhSKVFi6paPY4WyMaB1W6WoQM=
-			</data>
 		</dict>
 		<key>cartes-bancaires.der</key>
 		<dict>
@@ -882,13 +840,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>discover-logo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			U/uiCFKp0HOAJ4+ya6xjU9RLckdJnZ1aqgG1OEVBtwE=
-			</data>
 		</dict>
 		<key>discover.der</key>
 		<dict>
@@ -930,13 +881,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>error@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			H+Rxv7iGAxl1Eg3hwRlNyxTix7tnTw4imXloPHjN8pk=
-			</data>
 		</dict>
 		<key>es-419.lproj/Localizable.strings</key>
 		<dict>
@@ -1072,13 +1016,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>mastercard-logo@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SI+Mwj43jg7XujnJ63ZOn7rqPJvCHRKBeo9+E7O4ihM=
-			</data>
 		</dict>
 		<key>mastercard.der</key>
 		<dict>
@@ -1228,20 +1165,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>visa-logo@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YXNAXu0BQpUWomCOHrHkVeWb0xs0ePkxP6zfKK8cozg=
-			</data>
-		</dict>
-		<key>visa-white-logo@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			o0IWFhQ3fxBYbFiZjf9H23Z0nCwlZcKPturzAol4MDg=
-			</data>
 		</dict>
 		<key>visa.der</key>
 		<dict>

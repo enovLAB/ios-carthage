@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/SwiftyBeaver-Swift.h</key>
 		<data>
-		TVabDBAk5d7jXJjz1Ju4XXRY/Jc=
+		hBZ5Jgz29sTiez8MN340W8cu45Q=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UFR1iO4qj63o9525yCRMuyBfIGc=
+		GMg0MeNmNNxXNAuGmjuIItuh/7A=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ozRBfTXeGjOV1NEqFBtR77+4SsQ=
+		dyYy+I/B53iBCAMgaPWc7rDN/AM=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		M2Ei1gHnfKSmQ2GnXceZFLMWRQI=
+		ksu9fXy38Zdjis1FhlJ676+lBL0=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		nKiVCvzeCu1kazmpIJJZk5FIEl0=
+		Ah5crvjteuCg+FFrx1hIMu4ujJ0=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8Sy/4y7FbjgS/WxzGzEP8vTiUkE=
+		fz53Gel8o0jWaxOJ4PxmykC+1gc=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		lZ023cIfiR7DJjNPp2u2KOLu9X8=
+		oHCPL803A7OfzF0Q01nCv4Nap6k=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZlsLMtHM6wPCqoHnDNPg4pdW+L0=
+		CfM10J/Df2VzkBYiYkxDGyVac+Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,33 +55,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TVabDBAk5d7jXJjz1Ju4XXRY/Jc=
+			hBZ5Jgz29sTiez8MN340W8cu45Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			/a5fjlEEPunRsR6z/CxbZL+3/vcLnGNhpgHoGNgUzkc=
+			n1GDtJ+tn9HZRL6X4HCdsNCNUTPZq/10f4buCfnm//0=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ozRBfTXeGjOV1NEqFBtR77+4SsQ=
+			dyYy+I/B53iBCAMgaPWc7rDN/AM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bv+LMZC60vppN1afylUFQ/4dZSbrWrrQSRZ4NlLDk40=
+			1G7GvTHOhtyPrtlGOIiruGXZMvqJ8iuv/6NB/KgfW8Y=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M2Ei1gHnfKSmQ2GnXceZFLMWRQI=
+			ksu9fXy38Zdjis1FhlJ676+lBL0=
 			</data>
 			<key>hash2</key>
 			<data>
-			mQn76TI1gqRBtZfsphbfKNDbDAxg7v4z8Ztz16+bayE=
+			WAEGl6Bb0fPlOXKgkGQcsueH/uBYXs5irgpapiraJmg=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -99,22 +99,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nKiVCvzeCu1kazmpIJJZk5FIEl0=
+			Ah5crvjteuCg+FFrx1hIMu4ujJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			rf6N5VJf2Mo7zSrjgc1fo/Hl2olsEv1JpCs7WB0v4JE=
+			l22t86qS5PFF+lWvOHGvfO6HOQOgT2xPdtlF5sF2k7E=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8Sy/4y7FbjgS/WxzGzEP8vTiUkE=
+			fz53Gel8o0jWaxOJ4PxmykC+1gc=
 			</data>
 			<key>hash2</key>
 			<data>
-			vRrM86jgtrzQpfNRxxUJwRFjROjZ1fctOxGSHyApemY=
+			HMXoBoBUa5QBnpAvmqPZxAWd6aUTKwYY/RSLZjgtNCE=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -132,22 +132,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lZ023cIfiR7DJjNPp2u2KOLu9X8=
+			oHCPL803A7OfzF0Q01nCv4Nap6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			ugNaYitLED8BSvFhRoaQI/rkoH0IzCgSob0olOW4bVg=
+			nIRmnJG+8qnz/P3pfEkmrvSlnVD0eW6Erp7qTP4ii7M=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZlsLMtHM6wPCqoHnDNPg4pdW+L0=
+			CfM10J/Df2VzkBYiYkxDGyVac+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			br/DHWKbEuPIy0q3HpdOpCJFjjsjPXNvvXkmGtl/QpA=
+			3Ycy3M8uLoWnoSFFa4ie9mijr1nsSvWMnm14To6m0XY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/StripeCardScan-Swift.h</key>
 		<data>
-		Hup0Zt+HGYdXVHapLun7Tq1Au5s=
+		Y3Y7eF7LKKyYmF0lS8slzV7c6TI=
 		</data>
 		<key>Headers/StripeCardScan.h</key>
 		<data>
@@ -14,59 +14,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		c3foTwf7rYkGFtYJzvL52U22B9E=
+		jt5C21CZ9m50+ZB9ptc/spWL0RY=
+		</data>
+		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		slYNQRkCK1Ab5oUFizhNvNM7Wfw=
+		</data>
+		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		fXnadeTS9gkDKk4LR4nZ8VjfAC0=
 		</data>
 		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		kd5zuxwXkbvAtj9Cs/KvQsqT2M8=
+		1vW9uTk8L6tKPONkdbotfrH4XTQ=
 		</data>
 		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TEpD6MGyO6caBHh5tMwmv8WN8UE=
+		iF25adZM0UdKHv9V4gzy42Yp+I0=
 		</data>
 		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cSlFCuiT9LzL4ZpMceyHQ3wv4Ps=
+		FZQVw4V/Hewcj+9MzrccAXXAWCo=
 		</data>
-		<key>Modules/StripeCardScan.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kd5zuxwXkbvAtj9Cs/KvQsqT2M8=
+		slYNQRkCK1Ab5oUFizhNvNM7Wfw=
 		</data>
-		<key>Modules/StripeCardScan.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		TEpD6MGyO6caBHh5tMwmv8WN8UE=
-		</data>
-		<key>Modules/StripeCardScan.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		cSlFCuiT9LzL4ZpMceyHQ3wv4Ps=
+		CeM7oHPXLYDitWgW17+a4dSwQIg=
 		</data>
 		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RtHSZ6FfajsUGF2lLa7x3C8Xjn4=
+		jcpLS7ABSLu1xkvlrPjFWxE8eQ0=
 		</data>
 		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		R+45x8fNY9cDoBcpEV77hbG3QEw=
+		lZy5UPym2yxihovHGzI+eXIZpew=
 		</data>
 		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eryZGIVgvr1LebhAa4GSL8xVbIA=
-		</data>
-		<key>Modules/StripeCardScan.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		RtHSZ6FfajsUGF2lLa7x3C8Xjn4=
-		</data>
-		<key>Modules/StripeCardScan.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		R+45x8fNY9cDoBcpEV77hbG3QEw=
-		</data>
-		<key>Modules/StripeCardScan.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		eryZGIVgvr1LebhAa4GSL8xVbIA=
+		azXLXqJ8wF0ZsOo5YrYwWwInNMU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Pjz5Fiuh7BbzYootfXKOFshbJkE=
+		ZCDRliBQEPJ0oQyMHEn/hZOFyY0=
 		</data>
 		<key>SSDOcr.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -508,7 +500,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7GuwCDAWbIyLB744FkRkvLQy+/NZ5mtUKcWUjsfMu2U=
+			dCKjiCpTJAkEnQUa+9aEwpB+pbMwqH+lb/iyzkQ6sM4=
 			</data>
 		</dict>
 		<key>Headers/StripeCardScan.h</key>
@@ -518,95 +510,81 @@
 			1z7gbUZ7J7LTXFBxstgidCX01isIhNQc7eiMcvpWMXg=
 			</data>
 		</dict>
+		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pYVeHj9Vz7CSDxH+7EJbRjaLBbjjHZLH7epTAtfcIZI=
+			</data>
+		</dict>
+		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uMmZmuyQgX821QTl2x6bbmiUOKqrE4jeGqQTN2iVQqk=
+			</data>
+		</dict>
 		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5HJBrMi7WTjjbsYtpMDHnhzs+/aKy/PNy+gQS2Av7P8=
+			DRXHSu7RyNrntDjihzmEn4un9wpbTtWDeeRqcbhP9TE=
 			</data>
 		</dict>
 		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			80p2IJVYon/311r1YhvTkpZG5d1ZvyBqO3Ej8Z2tnfw=
+			bUP/72Z0pbHFxoFEHXBnCFZDBHX5xgh0VIWIQ7DOjjo=
 			</data>
 		</dict>
 		<key>Modules/StripeCardScan.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jOMbIJBvyM/8nMJbvO+n5LtIvDsmYg+Eb1FdJEEVry8=
+			Ps8t52CrxqGxy2R2z8wOurAY0Xitjap2CNRW9T9BaEs=
 			</data>
 		</dict>
-		<key>Modules/StripeCardScan.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5HJBrMi7WTjjbsYtpMDHnhzs+/aKy/PNy+gQS2Av7P8=
+			pYVeHj9Vz7CSDxH+7EJbRjaLBbjjHZLH7epTAtfcIZI=
 			</data>
 		</dict>
-		<key>Modules/StripeCardScan.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			80p2IJVYon/311r1YhvTkpZG5d1ZvyBqO3Ej8Z2tnfw=
-			</data>
-		</dict>
-		<key>Modules/StripeCardScan.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jOMbIJBvyM/8nMJbvO+n5LtIvDsmYg+Eb1FdJEEVry8=
+			m9uepF6h3knryPGm1YKzewuHMdbux0POBWWNcXpdTtE=
 			</data>
 		</dict>
 		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RmmCudZgRhekbQvVXXhPQzHhTqL6/9w43YCHHl3AvWc=
+			/S5OO+Ily6TulOMrxKiz1dj9OLeOIrvW8S2CSbuFmw0=
 			</data>
 		</dict>
 		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pui+X42sDnC5bKSjS1n9Z4m3ieb7S9Cdh0FudINOj7M=
+			wR2XbGZmxLxXrPuvKgWXJ8TOUTMBs1JlzkstRLHP63g=
 			</data>
 		</dict>
 		<key>Modules/StripeCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z1BHEQnlwHwlr6/2Bt/Y7iryey+/a2YTQXb90yM4vE8=
-			</data>
-		</dict>
-		<key>Modules/StripeCardScan.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RmmCudZgRhekbQvVXXhPQzHhTqL6/9w43YCHHl3AvWc=
-			</data>
-		</dict>
-		<key>Modules/StripeCardScan.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Pui+X42sDnC5bKSjS1n9Z4m3ieb7S9Cdh0FudINOj7M=
-			</data>
-		</dict>
-		<key>Modules/StripeCardScan.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z1BHEQnlwHwlr6/2Bt/Y7iryey+/a2YTQXb90yM4vE8=
+			JHL1ezIN5CQQyH5RQo/lxyU8TVknaPmdh6tvqOz9YPE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GFRcMGvEnVKmTXFRFqDsFw+YNHk7jOYlKjmMheTuLeY=
+			CuDXCGF+y/4srbFxv/sr0CHPX/VeCN5xUA8EUSNd1Dc=
 			</data>
 		</dict>
 		<key>SSDOcr.mlmodelc/analytics/coremldata.bin</key>

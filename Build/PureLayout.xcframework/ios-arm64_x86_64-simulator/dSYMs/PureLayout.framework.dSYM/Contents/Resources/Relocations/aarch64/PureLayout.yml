@@ -1,0 +1,198 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.0.1_15A507/PureLayout/v3.1.9/Build/Products/Release-iphonesimulator/PureLayout.framework/PureLayout'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x535E8, size: 0x8, addend: 0x0, symName: _PureLayoutVersionString, symObjAddr: 0x10, symBinAddr: 0xD1B0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x5361D, size: 0x8, addend: 0x0, symName: _PureLayoutVersionNumber, symObjAddr: 0x40, symBinAddr: 0xD1E0, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x5365A, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController loadView]', symObjAddr: 0x0, symBinAddr: 0x274C, symSize: 0x190 }
+  - { offsetInCU: 0x134, offset: 0x53767, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController loadView]', symObjAddr: 0x0, symBinAddr: 0x274C, symSize: 0x190 }
+  - { offsetInCU: 0x167, offset: 0x5379A, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController updateViewConstraints]', symObjAddr: 0x190, symBinAddr: 0x28DC, symSize: 0x22C }
+  - { offsetInCU: 0x19A, offset: 0x537CD, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController scrollView]', symObjAddr: 0x3BC, symBinAddr: 0x2B08, symSize: 0x6C }
+  - { offsetInCU: 0x1D1, offset: 0x53804, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController contentView]', symObjAddr: 0x428, symBinAddr: 0x2B74, symSize: 0x6C }
+  - { offsetInCU: 0x208, offset: 0x5383B, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController blueLabel]', symObjAddr: 0x494, symBinAddr: 0x2BE0, symSize: 0x138 }
+  - { offsetInCU: 0x23F, offset: 0x53872, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setBlueLabel:]', symObjAddr: 0x5CC, symBinAddr: 0x2D18, symSize: 0x14 }
+  - { offsetInCU: 0x280, offset: 0x538B3, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setScrollView:]', symObjAddr: 0x5E0, symBinAddr: 0x2D2C, symSize: 0x14 }
+  - { offsetInCU: 0x2C1, offset: 0x538F4, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setContentView:]', symObjAddr: 0x5F4, symBinAddr: 0x2D40, symSize: 0x14 }
+  - { offsetInCU: 0x302, offset: 0x53935, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController didSetupConstraints]', symObjAddr: 0x608, symBinAddr: 0x2D54, symSize: 0x10 }
+  - { offsetInCU: 0x339, offset: 0x5396C, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setDidSetupConstraints:]', symObjAddr: 0x618, symBinAddr: 0x2D64, symSize: 0x10 }
+  - { offsetInCU: 0x374, offset: 0x539A7, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController .cxx_destruct]', symObjAddr: 0x628, symBinAddr: 0x2D74, symSize: 0x54 }
+  - { offsetInCU: 0x27, offset: 0x53A1E, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoInstallConstraints]', symObjAddr: 0x0, symBinAddr: 0x2DC8, symSize: 0x294 }
+  - { offsetInCU: 0x18C, offset: 0x53B83, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoInstallConstraints]', symObjAddr: 0x0, symBinAddr: 0x2DC8, symSize: 0x294 }
+  - { offsetInCU: 0x1FD, offset: 0x53BF4, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoRemoveConstraints]', symObjAddr: 0x294, symBinAddr: 0x305C, symSize: 0x1B4 }
+  - { offsetInCU: 0x24F, offset: 0x53C46, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoIdentifyConstraints:]', symObjAddr: 0x448, symBinAddr: 0x3210, symSize: 0x174 }
+  - { offsetInCU: 0x2B5, offset: 0x53CAC, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoAlignViewsToEdge:]', symObjAddr: 0x5BC, symBinAddr: 0x3384, symSize: 0x1DC }
+  - { offsetInCU: 0x356, offset: 0x53D4D, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoAlignViewsToAxis:]', symObjAddr: 0x798, symBinAddr: 0x3560, symSize: 0x1D8 }
+  - { offsetInCU: 0x3F7, offset: 0x53DEE, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoMatchViewsDimension:]', symObjAddr: 0x970, symBinAddr: 0x3738, symSize: 0x1DC }
+  - { offsetInCU: 0x498, offset: 0x53E8F, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoSetViewsDimension:toSize:]', symObjAddr: 0xB4C, symBinAddr: 0x3914, symSize: 0x1B8 }
+  - { offsetInCU: 0x539, offset: 0x53F30, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoSetViewsDimensionsToSize:]', symObjAddr: 0xD04, symBinAddr: 0x3ACC, symSize: 0xB8 }
+  - { offsetInCU: 0x590, offset: 0x53F87, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:]', symObjAddr: 0xDBC, symBinAddr: 0x3B84, symSize: 0x18 }
+  - { offsetInCU: 0x5F0, offset: 0x53FE7, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:insetSpacing:]', symObjAddr: 0xDD4, symBinAddr: 0x3B9C, symSize: 0x18 }
+  - { offsetInCU: 0x668, offset: 0x5405F, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:insetSpacing:matchedSizes:]', symObjAddr: 0xDEC, symBinAddr: 0x3BB4, symSize: 0x370 }
+  - { offsetInCU: 0x7A4, offset: 0x5419B, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSize:]', symObjAddr: 0x115C, symBinAddr: 0x3F24, symSize: 0x18 }
+  - { offsetInCU: 0x808, offset: 0x541FF, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSize:insetSpacing:]', symObjAddr: 0x1174, symBinAddr: 0x3F3C, symSize: 0x440 }
+  - { offsetInCU: 0x98C, offset: 0x54383, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_commonSuperviewOfViews]', symObjAddr: 0x15B4, symBinAddr: 0x437C, symSize: 0x1C4 }
+  - { offsetInCU: 0xA22, offset: 0x54419, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_containsMinimumNumberOfViews:]', symObjAddr: 0x1778, symBinAddr: 0x4540, symSize: 0x184 }
+  - { offsetInCU: 0xA9C, offset: 0x54493, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_copyViewsOnly]', symObjAddr: 0x18FC, symBinAddr: 0x46C4, symSize: 0x17C }
+  - { offsetInCU: 0x27, offset: 0x545C0, size: 0x8, addend: 0x0, symName: '+[UIView(PureLayout) newAutoLayoutView]', symObjAddr: 0x0, symBinAddr: 0x4840, symSize: 0x3C }
+  - { offsetInCU: 0x1BB, offset: 0x54754, size: 0x8, addend: 0x0, symName: '+[UIView(PureLayout) newAutoLayoutView]', symObjAddr: 0x0, symBinAddr: 0x4840, symSize: 0x3C }
+  - { offsetInCU: 0x202, offset: 0x5479B, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) initForAutoLayout]', symObjAddr: 0x3C, symBinAddr: 0x487C, symSize: 0x54 }
+  - { offsetInCU: 0x239, offset: 0x547D2, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) configureForAutoLayout]', symObjAddr: 0x90, symBinAddr: 0x48D0, symSize: 0x38 }
+  - { offsetInCU: 0x270, offset: 0x54809, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoCenterInSuperview]', symObjAddr: 0xC8, symBinAddr: 0x4908, symSize: 0xA0 }
+  - { offsetInCU: 0x2B7, offset: 0x54850, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxisToSuperviewAxis:]', symObjAddr: 0x168, symBinAddr: 0x49A8, symSize: 0x80 }
+  - { offsetInCU: 0x30E, offset: 0x548A7, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoCenterInSuperviewMargins]', symObjAddr: 0x1E8, symBinAddr: 0x4A28, symSize: 0xA0 }
+  - { offsetInCU: 0x355, offset: 0x548EE, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxisToSuperviewMarginAxis:]', symObjAddr: 0x288, symBinAddr: 0x4AC8, symSize: 0x90 }
+  - { offsetInCU: 0x3BC, offset: 0x54955, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:]', symObjAddr: 0x318, symBinAddr: 0x4B58, symSize: 0x18 }
+  - { offsetInCU: 0x3FF, offset: 0x54998, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:withInset:]', symObjAddr: 0x330, symBinAddr: 0x4B70, symSize: 0x18 }
+  - { offsetInCU: 0x451, offset: 0x549EA, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:withInset:relation:]', symObjAddr: 0x348, symBinAddr: 0x4B88, symSize: 0x7D8 }
+  - { offsetInCU: 0x538, offset: 0x54AD1, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeArea]', symObjAddr: 0xB20, symBinAddr: 0x5360, symSize: 0x24 }
+  - { offsetInCU: 0x56E, offset: 0x54B07, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeAreaWithInsets:]', symObjAddr: 0xB44, symBinAddr: 0x5384, symSize: 0x128 }
+  - { offsetInCU: 0x5C8, offset: 0x54B61, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeAreaWithInsets:excludingEdge:]', symObjAddr: 0xC6C, symBinAddr: 0x54AC, symSize: 0x204 }
+  - { offsetInCU: 0x633, offset: 0x54BCC, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:]', symObjAddr: 0xE70, symBinAddr: 0x56B0, symSize: 0x18 }
+  - { offsetInCU: 0x678, offset: 0x54C11, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:withInset:]', symObjAddr: 0xE88, symBinAddr: 0x56C8, symSize: 0x18 }
+  - { offsetInCU: 0x6CD, offset: 0x54C66, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:withInset:relation:]', symObjAddr: 0xEA0, symBinAddr: 0x56E0, symSize: 0x130 }
+  - { offsetInCU: 0x749, offset: 0x54CE2, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdges]', symObjAddr: 0xFD0, symBinAddr: 0x5810, symSize: 0x24 }
+  - { offsetInCU: 0x77F, offset: 0x54D18, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdgesWithInsets:]', symObjAddr: 0xFF4, symBinAddr: 0x5834, symSize: 0x128 }
+  - { offsetInCU: 0x7D9, offset: 0x54D72, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdgesWithInsets:excludingEdge:]', symObjAddr: 0x111C, symBinAddr: 0x595C, symSize: 0x2F8 }
+  - { offsetInCU: 0x844, offset: 0x54DDD, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:]', symObjAddr: 0x1414, symBinAddr: 0x5C54, symSize: 0x18 }
+  - { offsetInCU: 0x889, offset: 0x54E22, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:withInset:]', symObjAddr: 0x142C, symBinAddr: 0x5C6C, symSize: 0x110 }
+  - { offsetInCU: 0x905, offset: 0x54E9E, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:relation:]', symObjAddr: 0x153C, symBinAddr: 0x5D7C, symSize: 0x130 }
+  - { offsetInCU: 0x981, offset: 0x54F1A, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMargins]', symObjAddr: 0x166C, symBinAddr: 0x5EAC, symSize: 0x24 }
+  - { offsetInCU: 0x9B7, offset: 0x54F50, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMarginsWithInsets:]', symObjAddr: 0x1690, symBinAddr: 0x5ED0, symSize: 0x128 }
+  - { offsetInCU: 0xA11, offset: 0x54FAA, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMarginsExcludingEdge:]', symObjAddr: 0x17B8, symBinAddr: 0x5FF8, symSize: 0x12C }
+  - { offsetInCU: 0xA6B, offset: 0x55004, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:]', symObjAddr: 0x18E4, symBinAddr: 0x6124, symSize: 0x18 }
+  - { offsetInCU: 0xACE, offset: 0x55067, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:withOffset:]', symObjAddr: 0x18FC, symBinAddr: 0x613C, symSize: 0x18 }
+  - { offsetInCU: 0xB41, offset: 0x550DA, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:withOffset:relation:]', symObjAddr: 0x1914, symBinAddr: 0x6154, symSize: 0x14 }
+  - { offsetInCU: 0xBC3, offset: 0x5515C, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:]', symObjAddr: 0x1928, symBinAddr: 0x6168, symSize: 0x18 }
+  - { offsetInCU: 0xC17, offset: 0x551B0, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:withOffset:]', symObjAddr: 0x1940, symBinAddr: 0x6180, symSize: 0x1C }
+  - { offsetInCU: 0xC7D, offset: 0x55216, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:withMultiplier:]', symObjAddr: 0x195C, symBinAddr: 0x619C, symSize: 0x1C }
+  - { offsetInCU: 0xCE3, offset: 0x5527C, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:]', symObjAddr: 0x1978, symBinAddr: 0x61B8, symSize: 0x18 }
+  - { offsetInCU: 0xD46, offset: 0x552DF, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withOffset:]', symObjAddr: 0x1990, symBinAddr: 0x61D0, symSize: 0x18 }
+  - { offsetInCU: 0xDB9, offset: 0x55352, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withOffset:relation:]', symObjAddr: 0x19A8, symBinAddr: 0x61E8, symSize: 0x14 }
+  - { offsetInCU: 0xE3B, offset: 0x553D4, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withMultiplier:]', symObjAddr: 0x19BC, symBinAddr: 0x61FC, symSize: 0x18 }
+  - { offsetInCU: 0xEAE, offset: 0x55447, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withMultiplier:relation:]', symObjAddr: 0x19D4, symBinAddr: 0x6214, symSize: 0x14 }
+  - { offsetInCU: 0xF30, offset: 0x554C9, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimensionsToSize:]', symObjAddr: 0x19E8, symBinAddr: 0x6228, symSize: 0xB8 }
+  - { offsetInCU: 0xF8A, offset: 0x55523, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimension:toSize:]', symObjAddr: 0x1AA0, symBinAddr: 0x62E0, symSize: 0x18 }
+  - { offsetInCU: 0xFDF, offset: 0x55578, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimension:toSize:relation:]', symObjAddr: 0x1AB8, symBinAddr: 0x62F8, symSize: 0x98 }
+  - { offsetInCU: 0x106C, offset: 0x55605, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetContentCompressionResistancePriorityForAxis:]', symObjAddr: 0x1B50, symBinAddr: 0x6390, symSize: 0x94 }
+  - { offsetInCU: 0x10D1, offset: 0x5566A, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetContentHuggingPriorityForAxis:]', symObjAddr: 0x1BE4, symBinAddr: 0x6424, symSize: 0x94 }
+  - { offsetInCU: 0x1136, offset: 0x556CF, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:]', symObjAddr: 0x1C78, symBinAddr: 0x64B8, symSize: 0x18 }
+  - { offsetInCU: 0x1199, offset: 0x55732, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withOffset:]', symObjAddr: 0x1C90, symBinAddr: 0x64D0, symSize: 0x18 }
+  - { offsetInCU: 0x120C, offset: 0x557A5, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withOffset:relation:]', symObjAddr: 0x1CA8, symBinAddr: 0x64E8, symSize: 0xD0 }
+  - { offsetInCU: 0x12CC, offset: 0x55865, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withMultiplier:]', symObjAddr: 0x1D78, symBinAddr: 0x65B8, symSize: 0x18 }
+  - { offsetInCU: 0x133F, offset: 0x558D8, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withMultiplier:relation:]', symObjAddr: 0x1D90, symBinAddr: 0x65D0, symSize: 0xD0 }
+  - { offsetInCU: 0x13FF, offset: 0x55998, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToTopLayoutGuideOfViewController:withInset:]', symObjAddr: 0x1E60, symBinAddr: 0x66A0, symSize: 0x18 }
+  - { offsetInCU: 0x1454, offset: 0x559ED, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToTopLayoutGuideOfViewController:withInset:relation:]', symObjAddr: 0x1E78, symBinAddr: 0x66B8, symSize: 0x18C }
+  - { offsetInCU: 0x14DF, offset: 0x55A78, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToBottomLayoutGuideOfViewController:withInset:]', symObjAddr: 0x2004, symBinAddr: 0x6844, symSize: 0x18 }
+  - { offsetInCU: 0x1534, offset: 0x55ACD, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToBottomLayoutGuideOfViewController:withInset:relation:]', symObjAddr: 0x201C, symBinAddr: 0x685C, symSize: 0x1B0 }
+  - { offsetInCU: 0x15BF, offset: 0x55B58, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_addConstraint:]', symObjAddr: 0x21CC, symBinAddr: 0x6A0C, symSize: 0xA4 }
+  - { offsetInCU: 0x1604, offset: 0x55B9D, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_commonSuperviewWithView:]', symObjAddr: 0x2270, symBinAddr: 0x6AB0, symSize: 0x100 }
+  - { offsetInCU: 0x166F, offset: 0x55C08, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_alignAttribute:toView:forAxis:]', symObjAddr: 0x2370, symBinAddr: 0x6BB0, symSize: 0x2DC }
+  - { offsetInCU: 0x27, offset: 0x55D60, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_arraysOfCreatedConstraints]', symObjAddr: 0x0, symBinAddr: 0x6E8C, symSize: 0x64 }
+  - { offsetInCU: 0x41, offset: 0x55D7A, size: 0x8, addend: 0x0, symName: __al_arraysOfCreatedConstraints, symObjAddr: 0x60D0, symBinAddr: 0x1D618, symSize: 0x0 }
+  - { offsetInCU: 0x5C, offset: 0x55D95, size: 0x8, addend: 0x0, symName: __al_globalConstraintPriorities, symObjAddr: 0x60E0, symBinAddr: 0x1D628, symSize: 0x0 }
+  - { offsetInCU: 0xA7, offset: 0x55DE0, size: 0x8, addend: 0x0, symName: __al_globalConstraintIdentifiers, symObjAddr: 0x60E8, symBinAddr: 0x1D630, symSize: 0x0 }
+  - { offsetInCU: 0xBD, offset: 0x55DF6, size: 0x8, addend: 0x0, symName: __al_isInstallingCreatedConstraints, symObjAddr: 0x60D8, symBinAddr: 0x1D620, symSize: 0x0 }
+  - { offsetInCU: 0x237, offset: 0x55F70, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_arraysOfCreatedConstraints]', symObjAddr: 0x0, symBinAddr: 0x6E8C, symSize: 0x64 }
+  - { offsetInCU: 0x26A, offset: 0x55FA3, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentArrayOfCreatedConstraints]', symObjAddr: 0x64, symBinAddr: 0x6EF0, symSize: 0x54 }
+  - { offsetInCU: 0x2A1, offset: 0x55FDA, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_preventAutomaticConstraintInstallation]', symObjAddr: 0xB8, symBinAddr: 0x6F44, symSize: 0x88 }
+  - { offsetInCU: 0x2D8, offset: 0x56011, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoCreateAndInstallConstraints:]', symObjAddr: 0x140, symBinAddr: 0x6FCC, symSize: 0x50 }
+  - { offsetInCU: 0x32F, offset: 0x56068, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoCreateConstraintsWithoutInstalling:]', symObjAddr: 0x190, symBinAddr: 0x701C, symSize: 0xE8 }
+  - { offsetInCU: 0x39A, offset: 0x560D3, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_globalConstraintPriorities]', symObjAddr: 0x278, symBinAddr: 0x7104, symSize: 0x64 }
+  - { offsetInCU: 0x3CD, offset: 0x56106, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentGlobalConstraintPriority]', symObjAddr: 0x2DC, symBinAddr: 0x7168, symSize: 0x94 }
+  - { offsetInCU: 0x414, offset: 0x5614D, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_isExecutingPriorityConstraintsBlock]', symObjAddr: 0x370, symBinAddr: 0x71FC, symSize: 0x50 }
+  - { offsetInCU: 0x44B, offset: 0x56184, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoSetPriority:forConstraints:]', symObjAddr: 0x3C0, symBinAddr: 0x724C, symSize: 0xF0 }
+  - { offsetInCU: 0x4B2, offset: 0x561EB, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_globalConstraintIdentifiers]', symObjAddr: 0x4B0, symBinAddr: 0x733C, symSize: 0x64 }
+  - { offsetInCU: 0x4E5, offset: 0x5621E, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentGlobalConstraintIdentifier]', symObjAddr: 0x514, symBinAddr: 0x73A0, symSize: 0x78 }
+  - { offsetInCU: 0x52C, offset: 0x56265, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoSetIdentifier:forConstraints:]', symObjAddr: 0x58C, symBinAddr: 0x7418, symSize: 0xFC }
+  - { offsetInCU: 0x5A7, offset: 0x562E0, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoIdentify:]', symObjAddr: 0x688, symBinAddr: 0x7514, symSize: 0x74 }
+  - { offsetInCU: 0x5F0, offset: 0x56329, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoInstall]', symObjAddr: 0x6FC, symBinAddr: 0x7588, symSize: 0x1A8 }
+  - { offsetInCU: 0x644, offset: 0x5637D, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoRemove]', symObjAddr: 0x8A4, symBinAddr: 0x7730, symSize: 0x1A4 }
+  - { offsetInCU: 0x690, offset: 0x563C9, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_applyGlobalStateToConstraint:]', symObjAddr: 0xA48, symBinAddr: 0x78D4, symSize: 0xAC }
+  - { offsetInCU: 0x6E2, offset: 0x5641B, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_layoutAttributeForAttribute:]', symObjAddr: 0xAF4, symBinAddr: 0x7980, symSize: 0x58 }
+  - { offsetInCU: 0x738, offset: 0x56471, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_constraintAxisForAxis:]', symObjAddr: 0xB4C, symBinAddr: 0x79D8, symSize: 0x60 }
+  - { offsetInCU: 0x78C, offset: 0x564C5, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_marginForEdge:]', symObjAddr: 0xBAC, symBinAddr: 0x7A38, symSize: 0x58 }
+  - { offsetInCU: 0x7E0, offset: 0x56519, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_marginAxisForAxis:]', symObjAddr: 0xC04, symBinAddr: 0x7A90, symSize: 0x60 }
+  - { offsetInCU: 0x2A, offset: 0x566B5, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_magic, symObjAddr: 0x0, symBinAddr: 0x7AF0, symSize: 0x14 }
+  - { offsetInCU: 0x38, offset: 0x566C3, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_magic, symObjAddr: 0x0, symBinAddr: 0x7AF0, symSize: 0x14 }
+  - { offsetInCU: 0x4A, offset: 0x566D5, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_num_padding_bytes, symObjAddr: 0x1C, symBinAddr: 0x7B04, symSize: 0xC }
+  - { offsetInCU: 0x5C, offset: 0x566E7, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_version, symObjAddr: 0x28, symBinAddr: 0x7B10, symSize: 0x10 }
+  - { offsetInCU: 0x2A, offset: 0x5672A, size: 0x8, addend: 0x0, symName: _lprofProfileDumped, symObjAddr: 0x0, symBinAddr: 0x7B20, symSize: 0xC }
+  - { offsetInCU: 0x38, offset: 0x56738, size: 0x8, addend: 0x0, symName: _lprofProfileDumped, symObjAddr: 0x0, symBinAddr: 0x7B20, symSize: 0xC }
+  - { offsetInCU: 0x2A, offset: 0x56774, size: 0x8, addend: 0x0, symName: _getValueProfRecordHeaderSize, symObjAddr: 0x0, symBinAddr: 0x7B2C, symSize: 0xC }
+  - { offsetInCU: 0x38, offset: 0x56782, size: 0x8, addend: 0x0, symName: _getValueProfRecordHeaderSize, symObjAddr: 0x0, symBinAddr: 0x7B2C, symSize: 0xC }
+  - { offsetInCU: 0x51, offset: 0x5679B, size: 0x8, addend: 0x0, symName: _getValueProfRecordValueData, symObjAddr: 0x1C, symBinAddr: 0x7B38, symSize: 0x14 }
+  - { offsetInCU: 0x88, offset: 0x567D2, size: 0x8, addend: 0x0, symName: _getValueProfRecordNext, symObjAddr: 0x1B4, symBinAddr: 0x7B4C, symSize: 0x1A4 }
+  - { offsetInCU: 0xC6, offset: 0x56810, size: 0x8, addend: 0x0, symName: _getFirstValueProfRecord, symObjAddr: 0x358, symBinAddr: 0x7CF0, symSize: 0x8 }
+  - { offsetInCU: 0xF4, offset: 0x5683E, size: 0x8, addend: 0x0, symName: _lprofSetupValueProfiler, symObjAddr: 0x8C0, symBinAddr: 0x7CF8, symSize: 0x68 }
+  - { offsetInCU: 0x148, offset: 0x56892, size: 0x8, addend: 0x0, symName: ___llvm_profile_instrument_target_value, symObjAddr: 0xBB0, symBinAddr: 0x7D60, symSize: 0x284 }
+  - { offsetInCU: 0x18C, offset: 0x568D6, size: 0x8, addend: 0x0, symName: _lprofGetVPDataReader, symObjAddr: 0xE7C, symBinAddr: 0x7FE4, symSize: 0xC }
+  - { offsetInCU: 0x19E, offset: 0x568E8, size: 0x8, addend: 0x0, symName: _initializeValueProfRuntimeRecord, symObjAddr: 0xE88, symBinAddr: 0x7FF0, symSize: 0x178 }
+  - { offsetInCU: 0x1B7, offset: 0x56901, size: 0x8, addend: 0x0, symName: _getNumValueDataForSiteWrapper, symObjAddr: 0x1000, symBinAddr: 0x8168, symSize: 0x14 }
+  - { offsetInCU: 0x1CD, offset: 0x56917, size: 0x8, addend: 0x0, symName: _getNumValueDataForSiteWrapper, symObjAddr: 0x1000, symBinAddr: 0x8168, symSize: 0x14 }
+  - { offsetInCU: 0x1E0, offset: 0x5692A, size: 0x8, addend: 0x0, symName: _getValueProfDataSizeWrapper, symObjAddr: 0x1014, symBinAddr: 0x817C, symSize: 0xA8 }
+  - { offsetInCU: 0x265, offset: 0x569AF, size: 0x8, addend: 0x0, symName: _getNumValueSitesRT, symObjAddr: 0x1100, symBinAddr: 0x8268, symSize: 0x10 }
+  - { offsetInCU: 0x277, offset: 0x569C1, size: 0x8, addend: 0x0, symName: _getNumValueDataRT, symObjAddr: 0x1110, symBinAddr: 0x8278, symSize: 0x190 }
+  - { offsetInCU: 0x289, offset: 0x569D3, size: 0x8, addend: 0x0, symName: _getNextNValueData, symObjAddr: 0x10BC, symBinAddr: 0x8224, symSize: 0x44 }
+  - { offsetInCU: 0x2A, offset: 0x56A0F, size: 0x8, addend: 0x0, symName: ___llvm_profile_is_continuous_mode_enabled, symObjAddr: 0x0, symBinAddr: 0x8408, symSize: 0x20 }
+  - { offsetInCU: 0x38, offset: 0x56A1D, size: 0x8, addend: 0x0, symName: ___llvm_profile_is_continuous_mode_enabled, symObjAddr: 0x0, symBinAddr: 0x8408, symSize: 0x20 }
+  - { offsetInCU: 0x4A, offset: 0x56A2F, size: 0x8, addend: 0x0, symName: ___llvm_profile_enable_continuous_mode, symObjAddr: 0x20, symBinAddr: 0x8428, symSize: 0x10 }
+  - { offsetInCU: 0x5C, offset: 0x56A41, size: 0x8, addend: 0x0, symName: ___llvm_profile_set_page_size, symObjAddr: 0x30, symBinAddr: 0x8438, symSize: 0xC }
+  - { offsetInCU: 0x6E, offset: 0x56A53, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_size_for_buffer, symObjAddr: 0x3C, symBinAddr: 0x8444, symSize: 0x6C }
+  - { offsetInCU: 0x8F, offset: 0x56A74, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_size_for_buffer_internal, symObjAddr: 0xA8, symBinAddr: 0x84B0, symSize: 0x134 }
+  - { offsetInCU: 0x1F7, offset: 0x56BDC, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_num_data, symObjAddr: 0x1DC, symBinAddr: 0x85E4, symSize: 0x1C }
+  - { offsetInCU: 0x209, offset: 0x56BEE, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_data_size, symObjAddr: 0x1F8, symBinAddr: 0x8600, symSize: 0x24 }
+  - { offsetInCU: 0x21F, offset: 0x56C04, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_data_size, symObjAddr: 0x1F8, symBinAddr: 0x8600, symSize: 0x24 }
+  - { offsetInCU: 0x231, offset: 0x56C16, size: 0x8, addend: 0x0, symName: ___llvm_profile_counter_entry_size, symObjAddr: 0x21C, symBinAddr: 0x8624, symSize: 0x20 }
+  - { offsetInCU: 0x243, offset: 0x56C28, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_num_counters, symObjAddr: 0x23C, symBinAddr: 0x8644, symSize: 0x4C }
+  - { offsetInCU: 0x280, offset: 0x56C65, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_counters_size, symObjAddr: 0x288, symBinAddr: 0x8690, symSize: 0x60 }
+  - { offsetInCU: 0x2E8, offset: 0x56CCD, size: 0x8, addend: 0x0, symName: ___llvm_profile_get_padding_sizes_for_counters, symObjAddr: 0x2E8, symBinAddr: 0x86F0, symSize: 0xA8 }
+  - { offsetInCU: 0x365, offset: 0x56D4A, size: 0x8, addend: 0x0, symName: _initBufferWriter, symObjAddr: 0x390, symBinAddr: 0x8798, symSize: 0x10 }
+  - { offsetInCU: 0x3F, offset: 0x56DA2, size: 0x8, addend: 0x0, symName: _getCurFilenameLength, symObjAddr: 0x1C0, symBinAddr: 0x87A8, symSize: 0x324 }
+  - { offsetInCU: 0x51, offset: 0x56DB4, size: 0x8, addend: 0x0, symName: _getCurFilename, symObjAddr: 0x4E4, symBinAddr: 0x8ACC, symSize: 0x338 }
+  - { offsetInCU: 0xF7, offset: 0x56E5A, size: 0x8, addend: 0x0, symName: _parseAndSetFilename, symObjAddr: 0x924, symBinAddr: 0x8E04, symSize: 0x578 }
+  - { offsetInCU: 0x283, offset: 0x56FE6, size: 0x8, addend: 0x0, symName: _truncateCurrentFile, symObjAddr: 0x1D04, symBinAddr: 0x9CE4, symSize: 0xCC }
+  - { offsetInCU: 0x2EA, offset: 0x5704D, size: 0x8, addend: 0x0, symName: _initializeProfileForContinuousMode, symObjAddr: 0x1DD0, symBinAddr: 0x9DB0, symSize: 0x250 }
+  - { offsetInCU: 0x45B, offset: 0x571BE, size: 0x8, addend: 0x0, symName: ___llvm_profile_initialize, symObjAddr: 0xE9C, symBinAddr: 0x937C, symSize: 0xBC }
+  - { offsetInCU: 0x4EF, offset: 0x57252, size: 0x8, addend: 0x0, symName: ___llvm_profile_write_file, symObjAddr: 0xFDC, symBinAddr: 0x9438, symSize: 0x184 }
+  - { offsetInCU: 0x542, offset: 0x572A5, size: 0x8, addend: 0x0, symName: _writeFile, symObjAddr: 0x1160, symBinAddr: 0x95BC, symSize: 0x288 }
+  - { offsetInCU: 0x750, offset: 0x574B3, size: 0x8, addend: 0x0, symName: _createProfileDir, symObjAddr: 0x2020, symBinAddr: 0xA000, symSize: 0x88 }
+  - { offsetInCU: 0x779, offset: 0x574DC, size: 0x8, addend: 0x0, symName: _getProfileFileSizeForMerging, symObjAddr: 0x1868, symBinAddr: 0x9848, symSize: 0x114 }
+  - { offsetInCU: 0x7B6, offset: 0x57519, size: 0x8, addend: 0x0, symName: _mmapProfileForMerging, symObjAddr: 0x197C, symBinAddr: 0x995C, symSize: 0xC0 }
+  - { offsetInCU: 0x824, offset: 0x57587, size: 0x8, addend: 0x0, symName: _writeFileWithoutReturn, symObjAddr: 0x167C, symBinAddr: 0x9844, symSize: 0x4 }
+  - { offsetInCU: 0x83A, offset: 0x5759D, size: 0x8, addend: 0x0, symName: _writeFileWithoutReturn, symObjAddr: 0x167C, symBinAddr: 0x9844, symSize: 0x4 }
+  - { offsetInCU: 0x84C, offset: 0x575AF, size: 0x8, addend: 0x0, symName: _mmapForContinuousMode, symObjAddr: 0x1A3C, symBinAddr: 0x9A1C, symSize: 0x184 }
+  - { offsetInCU: 0x899, offset: 0x575FC, size: 0x8, addend: 0x0, symName: _fileWriter, symObjAddr: 0x1BC0, symBinAddr: 0x9BA0, symSize: 0x144 }
+  - { offsetInCU: 0x8D1, offset: 0x57634, size: 0x8, addend: 0x0, symName: _exitSignalHandler, symObjAddr: 0x20A8, symBinAddr: 0xA088, symSize: 0x10 }
+  - { offsetInCU: 0x2A, offset: 0x57670, size: 0x8, addend: 0x0, symName: _lprofGetLoadModuleSignature, symObjAddr: 0x0, symBinAddr: 0xA098, symSize: 0xD4 }
+  - { offsetInCU: 0x38, offset: 0x5767E, size: 0x8, addend: 0x0, symName: _lprofGetLoadModuleSignature, symObjAddr: 0x0, symBinAddr: 0xA098, symSize: 0xD4 }
+  - { offsetInCU: 0x4A, offset: 0x57690, size: 0x8, addend: 0x0, symName: ___llvm_profile_check_compatibility, symObjAddr: 0xD4, symBinAddr: 0xA16C, symSize: 0x194 }
+  - { offsetInCU: 0x5C, offset: 0x576A2, size: 0x8, addend: 0x0, symName: ___llvm_profile_merge_from_buffer, symObjAddr: 0x268, symBinAddr: 0xA300, symSize: 0x1FC }
+  - { offsetInCU: 0x2A, offset: 0x576EB, size: 0x8, addend: 0x0, symName: _lprofMergeValueProfData, symObjAddr: 0x0, symBinAddr: 0xA4FC, symSize: 0xF4 }
+  - { offsetInCU: 0x38, offset: 0x576F9, size: 0x8, addend: 0x0, symName: _lprofMergeValueProfData, symObjAddr: 0x0, symBinAddr: 0xA4FC, symSize: 0xF4 }
+  - { offsetInCU: 0x2A, offset: 0x5777B, size: 0x8, addend: 0x0, symName: _lprofBufferWriter, symObjAddr: 0x0, symBinAddr: 0xA5F0, symSize: 0x70 }
+  - { offsetInCU: 0x38, offset: 0x57789, size: 0x8, addend: 0x0, symName: _lprofBufferWriter, symObjAddr: 0x0, symBinAddr: 0xA5F0, symSize: 0x70 }
+  - { offsetInCU: 0x5F, offset: 0x577B0, size: 0x8, addend: 0x0, symName: _lprofBufferIOWrite, symObjAddr: 0x108, symBinAddr: 0xA660, symSize: 0x138 }
+  - { offsetInCU: 0xC2, offset: 0x57813, size: 0x8, addend: 0x0, symName: _lprofWriteData, symObjAddr: 0x304, symBinAddr: 0xA798, symSize: 0x98 }
+  - { offsetInCU: 0xE3, offset: 0x57834, size: 0x8, addend: 0x0, symName: _lprofWriteDataImpl, symObjAddr: 0x39C, symBinAddr: 0xA830, symSize: 0x334 }
+  - { offsetInCU: 0x1B9, offset: 0x5790A, size: 0x8, addend: 0x0, symName: _writeOneValueProfData, symObjAddr: 0x6D0, symBinAddr: 0xAB64, symSize: 0x368 }
+  - { offsetInCU: 0x2A, offset: 0x57A39, size: 0x8, addend: 0x0, symName: ___llvm_profile_begin_data, symObjAddr: 0x0, symBinAddr: 0xAECC, symSize: 0xC }
+  - { offsetInCU: 0x38, offset: 0x57A47, size: 0x8, addend: 0x0, symName: ___llvm_profile_begin_data, symObjAddr: 0x0, symBinAddr: 0xAECC, symSize: 0xC }
+  - { offsetInCU: 0x4A, offset: 0x57A59, size: 0x8, addend: 0x0, symName: ___llvm_profile_end_data, symObjAddr: 0xC, symBinAddr: 0xAED8, symSize: 0xC }
+  - { offsetInCU: 0x5C, offset: 0x57A6B, size: 0x8, addend: 0x0, symName: ___llvm_profile_begin_names, symObjAddr: 0x18, symBinAddr: 0xAEE4, symSize: 0xC }
+  - { offsetInCU: 0x6E, offset: 0x57A7D, size: 0x8, addend: 0x0, symName: ___llvm_profile_end_names, symObjAddr: 0x24, symBinAddr: 0xAEF0, symSize: 0xC }
+  - { offsetInCU: 0x80, offset: 0x57A8F, size: 0x8, addend: 0x0, symName: ___llvm_profile_begin_counters, symObjAddr: 0x30, symBinAddr: 0xAEFC, symSize: 0xC }
+  - { offsetInCU: 0x92, offset: 0x57AA1, size: 0x8, addend: 0x0, symName: ___llvm_profile_end_counters, symObjAddr: 0x3C, symBinAddr: 0xAF08, symSize: 0xC }
+  - { offsetInCU: 0xA4, offset: 0x57AB3, size: 0x8, addend: 0x0, symName: ___llvm_profile_begin_vnodes, symObjAddr: 0x54, symBinAddr: 0xAF14, symSize: 0xC }
+  - { offsetInCU: 0xB6, offset: 0x57AC5, size: 0x8, addend: 0x0, symName: ___llvm_profile_end_vnodes, symObjAddr: 0x60, symBinAddr: 0xAF20, symSize: 0xC }
+  - { offsetInCU: 0xC8, offset: 0x57AD7, size: 0x8, addend: 0x0, symName: ___llvm_write_binary_ids, symObjAddr: 0x6C, symBinAddr: 0xAF2C, symSize: 0x8 }
+  - { offsetInCU: 0x2A, offset: 0x57B13, size: 0x8, addend: 0x0, symName: ___llvm_profile_recursive_mkdir, symObjAddr: 0x0, symBinAddr: 0xAF38, symSize: 0x5C }
+  - { offsetInCU: 0x3F, offset: 0x57B28, size: 0x8, addend: 0x0, symName: ___llvm_profile_recursive_mkdir, symObjAddr: 0x0, symBinAddr: 0xAF38, symSize: 0x5C }
+  - { offsetInCU: 0x7E, offset: 0x57B67, size: 0x8, addend: 0x0, symName: _lprofGetHostName, symObjAddr: 0x74, symBinAddr: 0xAF94, symSize: 0x80 }
+  - { offsetInCU: 0xC0, offset: 0x57BA9, size: 0x8, addend: 0x0, symName: _lprofLockFileHandle, symObjAddr: 0x214, symBinAddr: 0xB014, symSize: 0x94 }
+  - { offsetInCU: 0x121, offset: 0x57C0A, size: 0x8, addend: 0x0, symName: _lprofUnlockFileHandle, symObjAddr: 0x2A8, symBinAddr: 0xB0A8, symSize: 0x94 }
+  - { offsetInCU: 0x173, offset: 0x57C5C, size: 0x8, addend: 0x0, symName: _lprofOpenFileEx, symObjAddr: 0x33C, symBinAddr: 0xB13C, symSize: 0xD4 }
+  - { offsetInCU: 0x1E4, offset: 0x57CCD, size: 0x8, addend: 0x0, symName: _lprofFindFirstDirSeparator, symObjAddr: 0x558, symBinAddr: 0xB210, symSize: 0x8 }
+  - { offsetInCU: 0x1F6, offset: 0x57CDF, size: 0x8, addend: 0x0, symName: _lprofInstallSignalHandler, symObjAddr: 0x568, symBinAddr: 0xB218, symSize: 0x58 }
+  - { offsetInCU: 0x21F, offset: 0x57D08, size: 0x8, addend: 0x0, symName: _lprofSuspendSigKill, symObjAddr: 0x5C0, symBinAddr: 0xB270, symSize: 0x8 }
+  - { offsetInCU: 0x231, offset: 0x57D1A, size: 0x8, addend: 0x0, symName: _lprofRestoreSigKill, symObjAddr: 0x5C8, symBinAddr: 0xB278, symSize: 0x4 }
+...

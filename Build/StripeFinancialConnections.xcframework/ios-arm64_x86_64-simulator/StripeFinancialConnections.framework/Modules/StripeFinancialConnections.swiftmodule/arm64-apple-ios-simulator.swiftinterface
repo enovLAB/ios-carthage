@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
 // swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name StripeFinancialConnections
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AuthenticationServices
 import CoreMedia
 import Foundation
@@ -13,6 +14,7 @@ import SwiftUI
 import UIKit
 import WebKit
 import _Concurrency
+import _StringProcessing
 extension StripeCore.StripeAPI {
   public struct BankAccountToken {
     public struct BankAccount {
@@ -183,8 +185,7 @@ extension StripeCore.StripeAPI {
 }
 public struct FinancialConnectionsCustomManualEntryRequiredError : Swift.Error {
 }
-@_hasMissingDesignatedInitializers @available(iOSApplicationExtension, unavailable)
-final public class FinancialConnectionsSheet {
+@_hasMissingDesignatedInitializers final public class FinancialConnectionsSheet {
   @frozen public enum Result {
     case completed(session: StripeCore.StripeAPI.FinancialConnectionsSession)
     case failed(error: Swift.Error)
@@ -197,14 +198,13 @@ final public class FinancialConnectionsSheet {
   }
   final public let financialConnectionsSessionClientSecret: Swift.String
   final public let returnURL: Swift.String?
+  final public var onEvent: ((StripeCore.FinancialConnectionsEvent) -> Swift.Void)?
   final public var apiClient: StripeCore.STPAPIClient {
     get
     set
   }
   convenience public init(financialConnectionsSessionClientSecret: Swift.String, returnURL: Swift.String? = nil)
-  @available(iOSApplicationExtension, unavailable)
   final public func presentForToken(from presentingViewController: UIKit.UIViewController, completion: @escaping (StripeFinancialConnections.FinancialConnectionsSheet.TokenResult) -> Swift.Void)
-  @available(iOSApplicationExtension, unavailable)
   final public func present(from presentingViewController: UIKit.UIViewController, completion: @escaping (StripeFinancialConnections.FinancialConnectionsSheet.Result) -> Swift.Void)
   @objc deinit
 }

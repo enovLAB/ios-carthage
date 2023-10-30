@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
 // swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name StripeApplePay
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
 import ObjectiveC
 import PassKit
@@ -8,6 +9,7 @@ import PassKit
 @_exported import StripeCore
 import Swift
 import _Concurrency
+import _StringProcessing
 extension StripeCore.STPAPIClient {
   @objc(pkPaymentErrorForStripeError:) dynamic public class func pkPaymentError(forStripeError stripeError: Swift.Error?) -> Swift.Error?
 }
@@ -22,8 +24,8 @@ public protocol ApplePayContextDelegate : StripeApplePay._stpinternal_STPApplePa
 }
 @objc(STPApplePayContext) public class STPApplePayContext : ObjectiveC.NSObject, PassKit.PKPaymentAuthorizationControllerDelegate {
   @objc(initWithPaymentRequest:delegate:) required public init?(paymentRequest: PassKit.PKPaymentRequest, delegate: StripeApplePay._stpinternal_STPApplePayContextDelegateBase?)
-  @available(iOSApplicationExtension, unavailable, message: "Use `presentApplePay(from:completion:)` in App Extensions.")
-  @available(macCatalystApplicationExtension, unavailable, message: "Use `presentApplePay(from:completion:)` in App Extensions.")
+  @available(iOSApplicationExtension, unavailable)
+  @available(macCatalystApplicationExtension, unavailable)
   @objc(presentApplePayWithCompletion:) public func presentApplePay(completion: StripeApplePay.STPVoidBlock? = nil)
   @objc(presentApplePayFromWindow:completion:) public func presentApplePay(from window: UIKit.UIWindow?, completion: StripeApplePay.STPVoidBlock? = nil)
   @available(*, deprecated, renamed: "presentApplePay(completion:)", message: "Use `presentApplePay(completion:)` instead.")

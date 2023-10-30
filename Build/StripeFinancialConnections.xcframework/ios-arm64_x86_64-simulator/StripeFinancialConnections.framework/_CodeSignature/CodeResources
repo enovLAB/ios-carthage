@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/StripeFinancialConnections-Swift.h</key>
 		<data>
-		9AZN7LqTeb18T2SR7jBbQXLqdFM=
+		noYyrM1qMx/PzT5GM/69SYjieF4=
 		</data>
 		<key>Headers/StripeFinancialConnections.h</key>
 		<data>
@@ -14,59 +14,59 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UJKfs9K+XWkdY0AJH0YitvSgdvs=
+		NObj0v+UPFj2LwY1gf8jFgzzs0o=
+		</data>
+		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		/L0VTjdV/9ARksJ9m9EOBxjrtOs=
+		</data>
+		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		KXem8X40pcrIK0821KZx30GdW6g=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		bGLFKzi0t7JXye+TCdUnA9zQy8g=
+		PR8Yo832MWZeoVJr+9OjFHp1poY=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		P6YmByASITevcESVjo67dq/GWMk=
+		V48rlV7G/Eub3mFp0EMqq17bMcA=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hAxoAtGMCnmStFmSgnX0ryCTwA0=
+		NlvzBHwWViQLni5J+CH28ORV18Q=
 		</data>
-		<key>Modules/StripeFinancialConnections.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		bGLFKzi0t7JXye+TCdUnA9zQy8g=
+		/L0VTjdV/9ARksJ9m9EOBxjrtOs=
 		</data>
-		<key>Modules/StripeFinancialConnections.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		P6YmByASITevcESVjo67dq/GWMk=
-		</data>
-		<key>Modules/StripeFinancialConnections.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		hAxoAtGMCnmStFmSgnX0ryCTwA0=
+		i4b86Agm2+i1loHxjXp6GV84dgg=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		IRn27FloGdSc9uC+sDBU3AjgRX0=
+		VESZaIsRW50dQzJ40TuSaVJR60c=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Oybswu9qSnb9oO9b4gxV4dPbMMs=
+		vuFc8WT3j7kQ0iXBmn4zPAS8DOs=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W1fsJIq5qiTzLM74DJtw8nIB3UA=
-		</data>
-		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		IRn27FloGdSc9uC+sDBU3AjgRX0=
-		</data>
-		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		Oybswu9qSnb9oO9b4gxV4dPbMMs=
-		</data>
-		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		W1fsJIq5qiTzLM74DJtw8nIB3UA=
+		IgQMgfaZ516mQC0zXFOiFURFc7k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		JswB6FepwZtjsAhTyXKErhGF8Xk=
+		b8CIMiycZCQsruKNKvhLVNEvI3A=
+		</data>
+		<key>add@3x.png</key>
+		<data>
+		zNSq9FbxWBASQmclcBWpwfqxABk=
+		</data>
+		<key>arrow_right@3x.png</key>
+		<data>
+		4/5vHdL66kVjZog5KVXz5EwdsE8=
 		</data>
 		<key>back_arrow@3x.png</key>
 		<data>
@@ -149,10 +149,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>edit@3x.png</key>
-		<data>
-		eLadm1/gGn2iWdqKjMZ4Lm7agDs=
-		</data>
 		<key>el-GR.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -229,10 +225,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>finicity@3x.png</key>
-		<data>
-		E4Z7FWrNBcYrmwy/zdTkEIlwpZs=
-		</data>
 		<key>fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -345,10 +337,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>mx@3x.png</key>
-		<data>
-		JQD8vldvWUm9RUxMDsj55Pz9HWU=
-		</data>
 		<key>nb.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -524,7 +512,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8s+zOLmeJaTWK2UMUzYcN/AuSvj3KZYLnlfgw50tHvE=
+			7I0qIV8lb2GteiqCIsek3CmMvwpSNBSPhWHjPYPhbjc=
 			</data>
 		</dict>
 		<key>Headers/StripeFinancialConnections.h</key>
@@ -534,95 +522,95 @@
 			Oy5rwV2a1fyPEliYEj6wQgAnFM84vqdH2JpegRk1Jh0=
 			</data>
 		</dict>
+		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4/DRVZULOUrhDbqcvde6mjFfHa9j02L4C5ViKxpFEPI=
+			</data>
+		</dict>
+		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PT45WlP39/f63zhsMWr/RQ+G7WWjSe15bfrJ+ha6+yE=
+			</data>
+		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FtgvJZqSu70RC4tzYIDeGEQsO+sNsqoAo66u8jDTADI=
+			J0ZVlN3zzC7f2xaoQN34csBz4eOQDhkVt4JWV/CoXcA=
 			</data>
 		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g0eOJeqGfkIApsS6qsOg2UYhnWgcQXIyHb5ll/DeD8Y=
+			t6JpzUYroBbdYUf2H9Wpf2kEj4Lj5VrW13nJQkC2k/U=
 			</data>
 		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xbPiiA6rG9OfDsG/O88+XpzpGAoehN6huTv+qcV4nwk=
+			WAy7QvkR+3piUI2wOhIK3L5AzwxX0PuTQ0klqJhZpKM=
 			</data>
 		</dict>
-		<key>Modules/StripeFinancialConnections.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FtgvJZqSu70RC4tzYIDeGEQsO+sNsqoAo66u8jDTADI=
+			4/DRVZULOUrhDbqcvde6mjFfHa9j02L4C5ViKxpFEPI=
 			</data>
 		</dict>
-		<key>Modules/StripeFinancialConnections.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g0eOJeqGfkIApsS6qsOg2UYhnWgcQXIyHb5ll/DeD8Y=
-			</data>
-		</dict>
-		<key>Modules/StripeFinancialConnections.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xbPiiA6rG9OfDsG/O88+XpzpGAoehN6huTv+qcV4nwk=
+			94z48YzVOma7PllHW0Ut6/dWH+bNXXBvETZ4BHoNTWc=
 			</data>
 		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			18ebcPk7WX+CIklQzKSkpfC3GXCf6Dsx9qL32U+1ymQ=
+			GdPm1khem9ARnMaCHprz98vUaxrqoJAIESUdrDuFAjk=
 			</data>
 		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P7fJ6CDSMFSXtqhn/MM7uKj3dOmitEX+MWsxVGiYhNA=
+			vYO6/mDY8YDgiHkuFfXIXSodNPPny1uvBe5snXTrAaA=
 			</data>
 		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JbxBUbHKxWl1p/oGzQ1qGKIrIVeqkAYMznG2/ahhukc=
-			</data>
-		</dict>
-		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			18ebcPk7WX+CIklQzKSkpfC3GXCf6Dsx9qL32U+1ymQ=
-			</data>
-		</dict>
-		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P7fJ6CDSMFSXtqhn/MM7uKj3dOmitEX+MWsxVGiYhNA=
-			</data>
-		</dict>
-		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JbxBUbHKxWl1p/oGzQ1qGKIrIVeqkAYMznG2/ahhukc=
+			FBgbWKgp8cvi6YE1VFpSu7cOSLtNBICdp1Px6eBb1Ps=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J8IKiB5+duIJy//n8G9GCLeWA0HtmOIiF7EZoSyXnHs=
+			xdHHYUePxK5j543j31ZYEu2IxobBBgNbGpDIndMkqF4=
+			</data>
+		</dict>
+		<key>add@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			63rd7Lcd1Jly5p/Afe2DmO4T4tmxsyVSXvO6U16uzak=
+			</data>
+		</dict>
+		<key>arrow_right@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pxq8fnfeaHuJuvfYjqJZfXMqvhLwN62cY2BUk+jOFP0=
 			</data>
 		</dict>
 		<key>back_arrow@3x.png</key>
@@ -733,13 +721,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>edit@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BqgmM+9Uufx9v1KKrZNQdw7+1/3vG/0LvenOoDPgeCw=
-			</data>
-		</dict>
 		<key>el-GR.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -818,13 +799,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>finicity@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7wzTkp4FgRxtqS/5RlSnyoOsS+s69IwCkv6HOpUi9OQ=
-			</data>
 		</dict>
 		<key>fr-CA.lproj/Localizable.strings</key>
 		<dict>
@@ -940,13 +914,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>mx@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Rn63KtCb8UObyoEcOBNwfXGBHdGsozVVQunngEhFVnY=
-			</data>
 		</dict>
 		<key>nb.lproj/Localizable.strings</key>
 		<dict>
