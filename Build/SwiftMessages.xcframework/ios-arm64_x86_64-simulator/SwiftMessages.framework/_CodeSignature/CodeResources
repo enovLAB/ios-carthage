@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jpjnmbu6augheRz3QcPMJYCwOGk=
+		wZbn2jsskr0CZCYXNU/M6mWxrNM=
 		</data>
 		<key>MessageView.nib</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		r748dVG4zCDfQsQ1+vFXR9NvAns=
+		E/p78g0PTwtjBsRu0GqWAy08QmY=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Ww/TMfxcTocVkwxwFxFftTWE8lQ=
+		O1+KxNCuvvDss5UOpZxZ5FenEoQ=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZgZJBw7vSa+OupdJRoP95kyg/n0=
+		QM4H/xKet8DNrIs5mGw2kC7QjHE=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FRpDcvOZbNYCKO7Ap/3SnLi2rCo=
+		0lvBQnpmctPsqaNulCjZ6pqtdH4=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		eud2JYcTC7LetJsKchUiUnyNFmY=
+		DqTRsUu0+sq8gTiWovhxjhHx8hc=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jUHiTxZoj9Tnh2aAVmjb63nI8uM=
+		NGRhO06AGOMnhoeN6HtFWxwUavc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -247,14 +247,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pZIZOWX0AdDzoZYueoC4vshGzqs4ay4OD6XwaqhkDTg=
+			25E/5DdsoeEjcTv5GD1AZk0gU50hK9aJkvWYKZvuT1c=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K8HxoXZYOQ+ejaOhxLNXBSV7AkNYVW+XMslE9x8Xei0=
+			4OLb488XFLAmHeQf1Upl6rFrC/zyYWJY2aXWoZVr2M8=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -268,14 +268,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PcqMJJBI1PjigEjdze6XSKSFhwMKpdNAFtfUfTvv4Io=
+			buXybT1f1WcohSVU+5/faXRW+jgb/5EE7kg6MmZMt/U=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTMTRIwlrHg8PR9I64atX5xWrlTe8TvFHMeBRS2ps48=
+			ni3vVUtUBBw/tWADCNo68BKe6Tkz9fQThDU2cy6YfEg=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -289,14 +289,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEPn2naXk3/O8aPyvS9MEleG6S05gC2i/aeM00B/I4M=
+			StHWHlSqhve+dtR6A++nOACEm6XgWuDldQllGcHwg0M=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IkAVGwjOQJwvVO8eOvu6h2mGQIjOe6l9Fqsu/QYGmNA=
+			7nyvWLDbr/Snhjya4Ni589BDs8uvPWbgjEVBiJOBE3Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
