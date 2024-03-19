@@ -6,11 +6,11 @@
 	<dict>
 		<key>CardView.nib</key>
 		<data>
-		7i+MqV44AkXUqnKh/OezaKpMWVs=
+		J91zy/le4ZScOxvtuHqcG0iF7ac=
 		</data>
 		<key>CenteredView.nib</key>
 		<data>
-		Z/PsJCOKBaCotjS+6DnR3dw9N+s=
+		xPdP+w9tIhxRgSTRgSsBi862BCk=
 		</data>
 		<key>Headers/SwiftMessages.h</key>
 		<data>
@@ -18,19 +18,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wZbn2jsskr0CZCYXNU/M6mWxrNM=
+		FeOvWRIxG8A14gDKABwqRBXKNlI=
 		</data>
 		<key>MessageView.nib</key>
 		<data>
-		rzBnd9o7BpRjkz8mFiI66QyrGUU=
+		V6tWtvZOXIpEIjob+cCgu1AUsBY=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		E/p78g0PTwtjBsRu0GqWAy08QmY=
+		VqZnTYXEWnOZ3EvOsvPfyQBHHGo=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		O1+KxNCuvvDss5UOpZxZ5FenEoQ=
+		54KUnj1JspJVRRxpSQbJoYhWWVQ=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QM4H/xKet8DNrIs5mGw2kC7QjHE=
+		ns4ADzSwOSUdaG1fDuPKM9A5f7c=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0lvBQnpmctPsqaNulCjZ6pqtdH4=
+		3FTOiVEwU0DoPvKPtoO5ssmC4m4=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		DqTRsUu0+sq8gTiWovhxjhHx8hc=
+		X8H7JneLBzt6ggY9lvX3jUxj9Yg=
 		</data>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NGRhO06AGOMnhoeN6HtFWxwUavc=
+		fviXkQwDGqo1z8AJB5ruCSdCqWA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>TabView.nib</key>
 		<data>
-		booz9ojT18hGeaadHqT8EZ9+g1M=
+		6j0OSgh3JqTCiemwpLEH0kF883Y=
 		</data>
 		<key>errorIcon.png</key>
 		<data>
@@ -219,14 +219,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CDR5CcSWDkwyeWsZTxXljsjwzghmRNGT6W8xtSSar0c=
+			KMYFRYjWe8EAbsd7/1mlNZRA/nqBt/ouWmcMSAoPkqY=
 			</data>
 		</dict>
 		<key>CenteredView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DZ1+glteIf1+ZsMD0c5tPfF/b+nIwXz0cgWSo4cEw+s=
+			4dg+eBiFsTCFjDhgJb4oHu4IbAJDIhomod15Rdx/A2s=
 			</data>
 		</dict>
 		<key>Headers/SwiftMessages.h</key>
@@ -240,21 +240,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			14wU0mv5caW9ui+8PmvDHc6Mv4Rh3s7SJ5bIXDaw9W4=
+			sLXj0tuzm8mRzCWBMlhSsux7ltt3uGyo4lynSpsh/OY=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			25E/5DdsoeEjcTv5GD1AZk0gU50hK9aJkvWYKZvuT1c=
+			YKj3wuJr6OvA0Xw+SCEkAyDLJNpK0Sfrczuyp3QvfTs=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4OLb488XFLAmHeQf1Upl6rFrC/zyYWJY2aXWoZVr2M8=
+			shr/waWIJyX4434D1elopthdGDd9JzkaXwz0622tBiY=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -268,14 +268,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			buXybT1f1WcohSVU+5/faXRW+jgb/5EE7kg6MmZMt/U=
+			is4jEWIsjda/8UPQPg6lzr3YmTX4+RSC2UTplEPsAUA=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ni3vVUtUBBw/tWADCNo68BKe6Tkz9fQThDU2cy6YfEg=
+			rsGXgpNvZC4HJiC8KHsF6k4y7sS9kRp6ZlITb9RcHjc=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -289,14 +289,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			StHWHlSqhve+dtR6A++nOACEm6XgWuDldQllGcHwg0M=
+			TdaIK0SF8eXz1Btbi6bcYw0VlNyk6lw4NgzTrUgZVN4=
 			</data>
 		</dict>
 		<key>Modules/SwiftMessages.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7nyvWLDbr/Snhjya4Ni589BDs8uvPWbgjEVBiJOBE3Y=
+			MGA5qmi63hqS3SNzAkx+F7reakyxupvGxLyvh2Dq2T4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -317,7 +317,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9eL8xBzVpEipI/IsZ/OvxKQozbTjTRuPYGm+BMr4KLI=
+			OLkbNoW3LYnGRIfZclC2rhlKytMOFRss4fhy4a/8DY8=
 			</data>
 		</dict>
 		<key>errorIcon.png</key>

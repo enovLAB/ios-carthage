@@ -2,18 +2,18 @@
   "commitish" : "1.3.1",
   "iOS" : [
     {
-      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
-      "name" : "MoreCodable",
-      "hash" : "83ad611ae915ccaf1bd2821952c2a7a4f107c7dd9b44443096bbcb462f84ff11",
+      "hash" : "e9e0972e95737f0592d88f2329f81af6b1b478c43a829d8039840851fce15953",
       "container" : "MoreCodable.xcframework",
-      "identifier" : "ios-arm64"
+      "name" : "MoreCodable",
+      "identifier" : "ios-arm64",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
     },
     {
-      "identifier" : "ios-arm64_x86_64-simulator",
-      "container" : "MoreCodable.xcframework",
       "name" : "MoreCodable",
-      "hash" : "756658f84593fe9791fcf6bf1a1cf86d4c447b290c891f4cd528819064c3202e",
-      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "hash" : "a81640b71cf467ae2286633ef76698db6ed3d91a7dfe0c8b3684a41d76ac0fa8",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
+      "container" : "MoreCodable.xcframework"
     }
   ]
 }
