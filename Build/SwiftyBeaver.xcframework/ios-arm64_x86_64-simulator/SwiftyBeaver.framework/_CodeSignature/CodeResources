@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FfvTJHFccfcm141klCFsjS34mZ0=
+		Evz1NrF6B2P2jd7HrZbhOJI3rfU=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		7m2r/Tg4+CDHeGe0txumSDUJdDA=
+		99VpWN+CQNEwfXAzLiPoixq+PEI=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		U57gEJWACCUhALE+NiJ8/J/vYWA=
+		8B6hDE8rAkoyD0HpvzFcHWwq+tY=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pCsOV+b16v3N1K8vUr65R+2VGNc=
+		dC217C1OA2SCaDgX+fJo3h6vd5E=
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fdyz84btq7NwG4V/6TUKzDba464=
+		PJr9BTNJnMh4UJ8AusrRj8qmW8E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,22 +66,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7m2r/Tg4+CDHeGe0txumSDUJdDA=
+			99VpWN+CQNEwfXAzLiPoixq+PEI=
 			</data>
 			<key>hash2</key>
 			<data>
-			gns/bNt/J2rww/djJfMvwsIJc0b3XCemO4nXOzXkR1A=
+			+yIBQEjiHsXimZTnkejOliOYhMCZrk6lGiev+OPFl2k=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			U57gEJWACCUhALE+NiJ8/J/vYWA=
+			8B6hDE8rAkoyD0HpvzFcHWwq+tY=
 			</data>
 			<key>hash2</key>
 			<data>
-			djqJe+CKlgvu8/TnfL5OX8dnZfB2kikSppH+1RmEPMQ=
+			Ndi1E/K+vipOUYd0ztoXWM6dCkYQOnTmvcGpHdO3uxA=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -110,11 +110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pCsOV+b16v3N1K8vUr65R+2VGNc=
+			dC217C1OA2SCaDgX+fJo3h6vd5E=
 			</data>
 			<key>hash2</key>
 			<data>
-			pxKJJOdGb2vNN//vuI7jWwFdYiu/wTNWccNeBr3Olm0=
+			zdY4i280STMoFXJ+bVdyXx4kidBhjkEXRp2xkXMtLhI=
 			</data>
 		</dict>
 		<key>Modules/SwiftyBeaver.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fdyz84btq7NwG4V/6TUKzDba464=
+			PJr9BTNJnMh4UJ8AusrRj8qmW8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			FUnng8AoHB7cWrTlthHNp/6yoEyRJwEfUAqAaPxiVU0=
+			ckEYMJct9JsSxveBGgCSHiFDoyqaR9Vm2gRTCchExzk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.3_15E204a/Hydra/2.0.6/Build/Products/Release-iphonesimulator/Hydra.framework/Hydra'
+binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.4_15F31d/Hydra/2.0.6/Build/Products/Release-iphonesimulator/Hydra.framework/Hydra'
 relocations:
   - { offsetInCU: 0x34, offset: 0x30AC2, size: 0x8, addend: 0x0, symName: _HydraVersionString, symObjAddr: 0x10, symBinAddr: 0x1C3D0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x30AF7, size: 0x8, addend: 0x0, symName: _HydraVersionNumber, symObjAddr: 0x38, symBinAddr: 0x1C3F8, symSize: 0x0 }
@@ -310,7 +310,7 @@ relocations:
   - { offsetInCU: 0x14DE, offset: 0x38E6A, size: 0x8, addend: 0x0, symName: '_$sSa37_appendElementAssumeUniqueAndCapacity_03newB0ySi_xntFTf4ngn_n', symObjAddr: 0x26E0, symBinAddr: 0xE9B0, symSize: 0xC0 }
   - { offsetInCU: 0x1534, offset: 0x38EC0, size: 0x8, addend: 0x0, symName: '_$sSa6appendyyxnFTf4gn_n', symObjAddr: 0x27A0, symBinAddr: 0xEA70, symSize: 0x60 }
   - { offsetInCU: 0x27, offset: 0x38F5E, size: 0x8, addend: 0x0, symName: '_$s5Hydra12awaitContext_WZ', symObjAddr: 0x0, symBinAddr: 0xEE80, symSize: 0xF0 }
-  - { offsetInCU: 0x4B, offset: 0x38F82, size: 0x8, addend: 0x0, symName: '_$s5Hydra12awaitContextAA0C0Ovp', symObjAddr: 0x42A8, symBinAddr: 0x2B6F8, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x38F82, size: 0x8, addend: 0x0, symName: '_$s5Hydra12awaitContextAA0C0Ovp', symObjAddr: 0x42B0, symBinAddr: 0x2B758, symSize: 0x0 }
   - { offsetInCU: 0x59, offset: 0x38F90, size: 0x8, addend: 0x0, symName: '_$s5Hydra12awaitContext_WZ', symObjAddr: 0x0, symBinAddr: 0xEE80, symSize: 0xF0 }
   - { offsetInCU: 0xAF, offset: 0x38FE6, size: 0x8, addend: 0x0, symName: '_$s5Hydra2zzopyxAA7PromiseCyxGKlF', symObjAddr: 0xF0, symBinAddr: 0xEF70, symSize: 0x60 }
   - { offsetInCU: 0x112, offset: 0x39049, size: 0x8, addend: 0x0, symName: '_$s5Hydra3zznopyxSgAA7PromiseCyxGlF', symObjAddr: 0x4A0, symBinAddr: 0xF320, symSize: 0xB0 }

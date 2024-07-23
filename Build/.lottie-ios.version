@@ -2,18 +2,18 @@
   "commitish" : "cdf8499996eec658e62d1a116c1d87853d563101",
   "iOS" : [
     {
-      "hash" : "ed4312e926783d1be82147fed6ca478461c1fdbb9cbc2bc73bc3d83fc79b6593",
       "identifier" : "ios-arm64",
-      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
+      "container" : "Lottie.xcframework",
       "name" : "Lottie",
-      "container" : "Lottie.xcframework"
+      "hash" : "4ee976939a7de4eece1048d63d018414042d4ebb02ecd55f9fed5f6ae55f74ab",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
     },
     {
-      "hash" : "7200b83d106c2bd524a426227e4bf863370c525a3c5637c0d1e2e617d0b3d42a",
-      "name" : "Lottie",
-      "container" : "Lottie.xcframework",
+      "hash" : "01f6232f88e4a990fc8a5ecff7714be455cd45b9dfdb22d8449daa85fb1eaa4d",
       "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
-      "identifier" : "ios-arm64_x86_64-simulator"
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "container" : "Lottie.xcframework",
+      "name" : "Lottie"
     }
   ]
 }

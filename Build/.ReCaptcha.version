@@ -1,32 +1,32 @@
 {
   "iOS" : [
     {
+      "hash" : "096e62a0c04d089b39916fd6032ba4f40207246e484160bdff42108a923c91ea",
       "container" : "ReCaptcha.xcframework",
       "name" : "ReCaptcha",
-      "identifier" : "ios-arm64",
-      "hash" : "ef1c35db69337c7a2379f791afc6cfb0b90d83f2e6c9376cce32c44e36ed90ac",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "container" : "ReCaptcha.xcframework",
+      "name" : "ReCaptcha",
+      "hash" : "36e1bf57bfba720f961d7fd07f09a797c5e6e29650135785eb7503ed88387f5b",
       "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
     },
     {
-      "container" : "ReCaptcha.xcframework",
-      "hash" : "d11e2c9efc484ef7bb390776971c96cb5e40d8fde19695a051740e13ca4c299c",
-      "name" : "ReCaptcha",
-      "identifier" : "ios-arm64_x86_64-simulator",
-      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
-    },
-    {
-      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
       "name" : "ReCaptcha_RxSwift",
-      "identifier" : "ios-arm64",
+      "hash" : "063f64ea8f97e43d46b6c6556b4144bcefb36c9a0532d052b0fa4c8773a565c5",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
       "container" : "ReCaptcha_RxSwift.xcframework",
-      "hash" : "b91bda29af8469dc32003c02846210e7106c0f464e1474efe0727fe8ef6bea6d"
+      "identifier" : "ios-arm64"
     },
     {
       "name" : "ReCaptcha_RxSwift",
-      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
-      "container" : "ReCaptcha_RxSwift.xcframework",
       "identifier" : "ios-arm64_x86_64-simulator",
-      "hash" : "cb0f264462601a0afc37972cc2576fdef8bf60b9d62db62cae37c41400d93b90"
+      "hash" : "068713ccb3c55776e2f9a069de366d51a4f7d2c3aa6e90507e0ffd655f320e04",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
+      "container" : "ReCaptcha_RxSwift.xcframework"
     }
   ],
   "commitish" : "1.6.0"

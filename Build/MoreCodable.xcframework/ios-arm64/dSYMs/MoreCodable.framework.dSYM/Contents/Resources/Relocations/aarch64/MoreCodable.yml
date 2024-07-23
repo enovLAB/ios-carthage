@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.3_15E204a/MoreCodable/1.3.1/Build/Intermediates.noindex/ArchiveIntermediates/MoreCodable/BuildProductsPath/Release-iphoneos/MoreCodable.framework/MoreCodable'
+binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.4_15F31d/MoreCodable/1.3.1/Build/Intermediates.noindex/ArchiveIntermediates/MoreCodable/BuildProductsPath/Release-iphoneos/MoreCodable.framework/MoreCodable'
 relocations:
   - { offsetInCU: 0x34, offset: 0x2ED66, size: 0x8, addend: 0x0, symName: _MoreCodableVersionString, symObjAddr: 0x0, symBinAddr: 0x4D580, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x2ED9B, size: 0x8, addend: 0x0, symName: _MoreCodableVersionNumber, symObjAddr: 0x30, symBinAddr: 0x4D5B0, symSize: 0x0 }
@@ -494,7 +494,7 @@ relocations:
   - { offsetInCU: 0xAE59, offset: 0x426C5, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNewAByxGyFyp_Tg5', symObjAddr: 0xBE94, symBinAddr: 0x19C98, symSize: 0x14 }
   - { offsetInCU: 0xAE82, offset: 0x426EE, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNewAByxGyFSo8NSObjectC_Tg5', symObjAddr: 0xBEA8, symBinAddr: 0x19CAC, symSize: 0x68 }
   - { offsetInCU: 0xAED3, offset: 0x4273F, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNewAByxGyFs9CodingKey_p_Tg5', symObjAddr: 0xBF10, symBinAddr: 0x19D14, symSize: 0x14 }
-  - { offsetInCU: 0x4B, offset: 0x42A77, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable25DictionaryCachableEncoderC12DefaultCacheC6sharedAEvpZ', symObjAddr: 0x6E58, symBinAddr: 0x69298, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x42A77, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable25DictionaryCachableEncoderC12DefaultCacheC6sharedAEvpZ', symObjAddr: 0x6E70, symBinAddr: 0x69298, symSize: 0x0 }
   - { offsetInCU: 0x126, offset: 0x42B52, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable25DictionaryCachableEncoderC12DefaultCacheCAA0cdG8ProtocolA2aFP7storageSDys11AnyHashableVypGvgTW', symObjAddr: 0x9CC, symBinAddr: 0x1AB14, symSize: 0xC }
   - { offsetInCU: 0x142, offset: 0x42B6E, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable25DictionaryCachableEncoderC12DefaultCacheCAA0cdG8ProtocolA2aFP7storageSDys11AnyHashableVypGvsTW', symObjAddr: 0x9D8, symBinAddr: 0x1AB20, symSize: 0xC }
   - { offsetInCU: 0x15E, offset: 0x42B8A, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable25DictionaryCachableEncoderC12DefaultCacheCAA0cdG8ProtocolA2aFP7storageSDys11AnyHashableVypGvMTW', symObjAddr: 0x9E4, symBinAddr: 0x1AB2C, symSize: 0x4C }
@@ -676,7 +676,7 @@ relocations:
   - { offsetInCU: 0x14D, offset: 0x47A6F, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable0A11JSONEncoderC16OutputFormattingV10sortedKeysAEvau', symObjAddr: 0x1C, symBinAddr: 0x1F954, symSize: 0xC }
   - { offsetInCU: 0x2F5, offset: 0x47C17, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable0A11JSONEncoderC19KeyEncodingStrategyO19_convertToSnakeCaseyS2SFZTf4nd_n', symObjAddr: 0xA2FC, symBinAddr: 0x29B84, symSize: 0x3F0 }
   - { offsetInCU: 0x870, offset: 0x48192, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable0A11JSONEncoderC16OutputFormattingV10sortedKeysAEvpZ', symObjAddr: 0xB0D8, symBinAddr: 0x4E9B8, symSize: 0x0 }
-  - { offsetInCU: 0x88B, offset: 0x481AD, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable17_iso8601FormatterSo06NSDateD0Cvp', symObjAddr: 0x3EBF0, symBinAddr: 0x692A0, symSize: 0x0 }
+  - { offsetInCU: 0x88B, offset: 0x481AD, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable17_iso8601FormatterSo06NSDateD0Cvp', symObjAddr: 0x3EBF8, symBinAddr: 0x692A0, symSize: 0x0 }
   - { offsetInCU: 0x8C5, offset: 0x481E7, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable0A11JSONEncoderC20DateEncodingStrategyOWOy', symObjAddr: 0x340, symBinAddr: 0x1FC78, symSize: 0x20 }
   - { offsetInCU: 0x8D9, offset: 0x481FB, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable0A11JSONEncoderC20DateEncodingStrategyOWOe', symObjAddr: 0x3BC, symBinAddr: 0x1FCF4, symSize: 0x20 }
   - { offsetInCU: 0x8ED, offset: 0x4820F, size: 0x8, addend: 0x0, symName: '_$s11MoreCodable0A11JSONEncoderC34NonConformingFloatEncodingStrategyOWOy', symObjAddr: 0x574, symBinAddr: 0x1FEAC, symSize: 0x3C }

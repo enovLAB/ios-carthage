@@ -2,16 +2,16 @@
   "commitish" : "v3.1.9",
   "iOS" : [
     {
-      "hash" : "4e20fc92f133b1f4adbbcbe80e5b4b5fa8cda622c4fe50d0ee271cb92b65ed73",
+      "identifier" : "ios-arm64",
       "name" : "PureLayout",
       "container" : "PureLayout.xcframework",
-      "identifier" : "ios-arm64"
+      "hash" : "b323a910d20b88ad713f47bb857ae67f3df1d700b144b73135b408c824b7ae16"
     },
     {
-      "hash" : "94247cc0838958ae53bcab21b2a91c4b901db1b4a5cbaff4c66ba43bbb3c2eb7",
-      "name" : "PureLayout",
       "container" : "PureLayout.xcframework",
-      "identifier" : "ios-arm64_x86_64-simulator"
+      "name" : "PureLayout",
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "hash" : "41a431b3b28e79d84a5d160cf385c146c0603ee0d04ba5e30a6b8d6fbe66f90e"
     }
   ]
 }

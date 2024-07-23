@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.3_15E204a/Hydra/2.0.6/Build/Intermediates.noindex/ArchiveIntermediates/Hydra-iOS/BuildProductsPath/Release-iphoneos/Hydra.framework/Hydra'
+binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.4_15F31d/Hydra/2.0.6/Build/Intermediates.noindex/ArchiveIntermediates/Hydra-iOS/BuildProductsPath/Release-iphoneos/Hydra.framework/Hydra'
 relocations:
   - { offsetInCU: 0x34, offset: 0x2ED1A, size: 0x8, addend: 0x0, symName: _HydraVersionString, symObjAddr: 0x0, symBinAddr: 0x19260, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x2ED4F, size: 0x8, addend: 0x0, symName: _HydraVersionNumber, symObjAddr: 0x28, symBinAddr: 0x19288, symSize: 0x0 }
@@ -312,7 +312,7 @@ relocations:
   - { offsetInCU: 0x13F9, offset: 0x36A63, size: 0x8, addend: 0x0, symName: '_$sSa37_appendElementAssumeUniqueAndCapacity_03newB0ySi_xntFTf4ngn_n', symObjAddr: 0x24BC, symBinAddr: 0xF7BC, symSize: 0xB4 }
   - { offsetInCU: 0x144D, offset: 0x36AB7, size: 0x8, addend: 0x0, symName: '_$sSa6appendyyxnFTf4gn_n', symObjAddr: 0x2570, symBinAddr: 0xF870, symSize: 0x5C }
   - { offsetInCU: 0x27, offset: 0x36B73, size: 0x8, addend: 0x0, symName: '_$s5Hydra12awaitContext_WZ', symObjAddr: 0x0, symBinAddr: 0xFB08, symSize: 0x10C }
-  - { offsetInCU: 0x4B, offset: 0x36B97, size: 0x8, addend: 0x0, symName: '_$s5Hydra12awaitContextAA0C0Ovp', symObjAddr: 0x3A90, symBinAddr: 0x24208, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x36B97, size: 0x8, addend: 0x0, symName: '_$s5Hydra12awaitContextAA0C0Ovp', symObjAddr: 0x3AA0, symBinAddr: 0x24208, symSize: 0x0 }
   - { offsetInCU: 0x59, offset: 0x36BA5, size: 0x8, addend: 0x0, symName: '_$s5Hydra12awaitContext_WZ', symObjAddr: 0x0, symBinAddr: 0xFB08, symSize: 0x10C }
   - { offsetInCU: 0xAF, offset: 0x36BFB, size: 0x8, addend: 0x0, symName: '_$s5Hydra2zzopyxAA7PromiseCyxGKlF', symObjAddr: 0x10C, symBinAddr: 0xFC14, symSize: 0x6C }
   - { offsetInCU: 0x112, offset: 0x36C5E, size: 0x8, addend: 0x0, symName: '_$s5Hydra3zznopyxSgAA7PromiseCyxGlF', symObjAddr: 0x4C0, symBinAddr: 0xFFC8, symSize: 0xB0 }

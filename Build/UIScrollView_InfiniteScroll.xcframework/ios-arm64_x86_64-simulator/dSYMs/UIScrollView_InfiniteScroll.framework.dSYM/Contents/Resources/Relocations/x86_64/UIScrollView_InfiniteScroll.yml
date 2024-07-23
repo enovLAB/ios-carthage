@@ -1,84 +1,84 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.0.1_15A507/UIScrollView-InfiniteScroll/1.3.0/Build/Products/Release-iphonesimulator/UIScrollView_InfiniteScroll.framework/UIScrollView_InfiniteScroll'
+binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.4_15F31d/UIScrollView-InfiniteScroll/1.3.0/Build/Products/Release-iphonesimulator/UIScrollView_InfiniteScroll.framework/UIScrollView_InfiniteScroll'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x54C49, size: 0x8, addend: 0x0, symName: _UIScrollView_InfiniteScrollVersionString, symObjAddr: 0x0, symBinAddr: 0x7020, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x54C7E, size: 0x8, addend: 0x0, symName: _UIScrollView_InfiniteScrollVersionNumber, symObjAddr: 0x50, symBinAddr: 0x7070, symSize: 0x0 }
-  - { offsetInCU: 0x27, offset: 0x54CBB, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState init]', symObjAddr: 0x0, symBinAddr: 0x48A0, symSize: 0x8B }
-  - { offsetInCU: 0x35, offset: 0x54CC9, size: 0x8, addend: 0x0, symName: '+[UIScrollView(InfiniteScroll) load]', symObjAddr: 0x8AE, symBinAddr: 0x514E, symSize: 0x58 }
-  - { offsetInCU: 0x5D, offset: 0x54CF1, size: 0x8, addend: 0x0, symName: _load.onceToken, symObjAddr: 0xFBC0, symBinAddr: 0x8F98, symSize: 0x0 }
-  - { offsetInCU: 0xE3, offset: 0x54D77, size: 0x8, addend: 0x0, symName: _kPBInfiniteScrollStateKey, symObjAddr: 0x3BC0, symBinAddr: 0x8F90, symSize: 0x0 }
-  - { offsetInCU: 0x379, offset: 0x5500D, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState init]', symObjAddr: 0x0, symBinAddr: 0x48A0, symSize: 0x8B }
-  - { offsetInCU: 0x3D8, offset: 0x5506C, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState initialized]', symObjAddr: 0x8B, symBinAddr: 0x492B, symSize: 0x9 }
-  - { offsetInCU: 0x40D, offset: 0x550A1, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setInitialized:]', symObjAddr: 0x94, symBinAddr: 0x4934, symSize: 0x9 }
-  - { offsetInCU: 0x44A, offset: 0x550DE, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState loading]', symObjAddr: 0x9D, symBinAddr: 0x493D, symSize: 0x9 }
-  - { offsetInCU: 0x47F, offset: 0x55113, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setLoading:]', symObjAddr: 0xA6, symBinAddr: 0x4946, symSize: 0x9 }
-  - { offsetInCU: 0x4BC, offset: 0x55150, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState direction]', symObjAddr: 0xAF, symBinAddr: 0x494F, symSize: 0xA }
-  - { offsetInCU: 0x4F1, offset: 0x55185, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setDirection:]', symObjAddr: 0xB9, symBinAddr: 0x4959, symSize: 0xA }
-  - { offsetInCU: 0x52E, offset: 0x551C2, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState indicatorView]', symObjAddr: 0xC3, symBinAddr: 0x4963, symSize: 0xA }
-  - { offsetInCU: 0x563, offset: 0x551F7, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setIndicatorView:]', symObjAddr: 0xCD, symBinAddr: 0x496D, symSize: 0x11 }
-  - { offsetInCU: 0x5A2, offset: 0x55236, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState indicatorStyle]', symObjAddr: 0xDE, symBinAddr: 0x497E, symSize: 0xA }
-  - { offsetInCU: 0x5D7, offset: 0x5526B, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setIndicatorStyle:]', symObjAddr: 0xE8, symBinAddr: 0x4988, symSize: 0xA }
-  - { offsetInCU: 0x614, offset: 0x552A8, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState scrollToStartWhenFinished]', symObjAddr: 0xF2, symBinAddr: 0x4992, symSize: 0x9 }
-  - { offsetInCU: 0x649, offset: 0x552DD, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setScrollToStartWhenFinished:]', symObjAddr: 0xFB, symBinAddr: 0x499B, symSize: 0x9 }
-  - { offsetInCU: 0x686, offset: 0x5531A, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState extraEndInset]', symObjAddr: 0x104, symBinAddr: 0x49A4, symSize: 0xB }
-  - { offsetInCU: 0x6BB, offset: 0x5534F, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setExtraEndInset:]', symObjAddr: 0x10F, symBinAddr: 0x49AF, symSize: 0xB }
-  - { offsetInCU: 0x6F8, offset: 0x5538C, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState indicatorInset]', symObjAddr: 0x11A, symBinAddr: 0x49BA, symSize: 0xB }
-  - { offsetInCU: 0x72D, offset: 0x553C1, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setIndicatorInset:]', symObjAddr: 0x125, symBinAddr: 0x49C5, symSize: 0xB }
-  - { offsetInCU: 0x76A, offset: 0x553FE, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState indicatorMargin]', symObjAddr: 0x130, symBinAddr: 0x49D0, symSize: 0xB }
-  - { offsetInCU: 0x79F, offset: 0x55433, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setIndicatorMargin:]', symObjAddr: 0x13B, symBinAddr: 0x49DB, symSize: 0xB }
-  - { offsetInCU: 0x7DC, offset: 0x55470, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState triggerOffset]', symObjAddr: 0x146, symBinAddr: 0x49E6, symSize: 0xB }
-  - { offsetInCU: 0x811, offset: 0x554A5, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setTriggerOffset:]', symObjAddr: 0x151, symBinAddr: 0x49F1, symSize: 0xB }
-  - { offsetInCU: 0x84E, offset: 0x554E2, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState infiniteScrollHandler]', symObjAddr: 0x15C, symBinAddr: 0x49FC, symSize: 0xA }
-  - { offsetInCU: 0x883, offset: 0x55517, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setInfiniteScrollHandler:]', symObjAddr: 0x166, symBinAddr: 0x4A06, symSize: 0xF }
-  - { offsetInCU: 0x8C2, offset: 0x55556, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState shouldShowInfiniteScrollHandler]', symObjAddr: 0x175, symBinAddr: 0x4A15, symSize: 0xA }
-  - { offsetInCU: 0x8F7, offset: 0x5558B, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setShouldShowInfiniteScrollHandler:]', symObjAddr: 0x17F, symBinAddr: 0x4A1F, symSize: 0xF }
-  - { offsetInCU: 0x936, offset: 0x555CA, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState .cxx_destruct]', symObjAddr: 0x18E, symBinAddr: 0x4A2E, symSize: 0x33 }
-  - { offsetInCU: 0x969, offset: 0x555FD, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) addInfiniteScrollWithHandler:]', symObjAddr: 0x1C1, symBinAddr: 0x4A61, symSize: 0xC1 }
-  - { offsetInCU: 0xA77, offset: 0x5570B, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) removeInfiniteScroll]', symObjAddr: 0x282, symBinAddr: 0x4B22, symSize: 0xED }
-  - { offsetInCU: 0xB90, offset: 0x55824, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) beginInfiniteScroll:]', symObjAddr: 0x36F, symBinAddr: 0x4C0F, symSize: 0x12 }
-  - { offsetInCU: 0xBF8, offset: 0x5588C, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) finishInfiniteScroll]', symObjAddr: 0x381, symBinAddr: 0x4C21, symSize: 0x14 }
-  - { offsetInCU: 0xC44, offset: 0x558D8, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) finishInfiniteScrollWithCompletion:]', symObjAddr: 0x395, symBinAddr: 0x4C35, symSize: 0x7B }
-  - { offsetInCU: 0xCF7, offset: 0x5598B, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollDirection]', symObjAddr: 0x410, symBinAddr: 0x4CB0, symSize: 0x44 }
-  - { offsetInCU: 0xD5A, offset: 0x559EE, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollDirection:]', symObjAddr: 0x454, symBinAddr: 0x4CF4, symSize: 0x4C }
-  - { offsetInCU: 0xDD1, offset: 0x55A65, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) isAnimatingInfiniteScroll]', symObjAddr: 0x4A0, symBinAddr: 0x4D40, symSize: 0x44 }
-  - { offsetInCU: 0xE34, offset: 0x55AC8, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollIndicatorStyle:]', symObjAddr: 0x4E4, symBinAddr: 0x4D84, symSize: 0xA7 }
-  - { offsetInCU: 0xF1E, offset: 0x55BB2, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollIndicatorStyle]', symObjAddr: 0x58B, symBinAddr: 0x4E2B, symSize: 0x44 }
-  - { offsetInCU: 0xF81, offset: 0x55C15, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollIndicatorView:]', symObjAddr: 0x5CF, symBinAddr: 0x4E6F, symSize: 0x7B }
-  - { offsetInCU: 0x103D, offset: 0x55CD1, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollIndicatorView]', symObjAddr: 0x64A, symBinAddr: 0x4EEA, symSize: 0x50 }
-  - { offsetInCU: 0x10A1, offset: 0x55D35, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollIndicatorMargin:]', symObjAddr: 0x69A, symBinAddr: 0x4F3A, symSize: 0x4F }
-  - { offsetInCU: 0x111C, offset: 0x55DB0, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollIndicatorMargin]', symObjAddr: 0x6E9, symBinAddr: 0x4F89, symSize: 0x50 }
-  - { offsetInCU: 0x1180, offset: 0x55E14, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setShouldShowInfiniteScrollHandler:]', symObjAddr: 0x739, symBinAddr: 0x4FD9, symSize: 0x69 }
-  - { offsetInCU: 0x122F, offset: 0x55EC3, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollTriggerOffset]', symObjAddr: 0x7A2, symBinAddr: 0x5042, symSize: 0x50 }
-  - { offsetInCU: 0x1293, offset: 0x55F27, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollTriggerOffset:]', symObjAddr: 0x7F2, symBinAddr: 0x5092, symSize: 0x54 }
-  - { offsetInCU: 0x130E, offset: 0x55FA2, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_infiniteScrollState]', symObjAddr: 0x846, symBinAddr: 0x50E6, symSize: 0x68 }
-  - { offsetInCU: 0x143E, offset: 0x560D2, size: 0x8, addend: 0x0, symName: '___36+[UIScrollView(InfiniteScroll) load]_block_invoke', symObjAddr: 0x906, symBinAddr: 0x51A6, symSize: 0x3D }
-  - { offsetInCU: 0x149C, offset: 0x56130, size: 0x8, addend: 0x0, symName: _PBSwizzleMethod, symObjAddr: 0x943, symBinAddr: 0x51E3, symSize: 0xA5 }
-  - { offsetInCU: 0x16B9, offset: 0x5634D, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_handlePanGesture:]', symObjAddr: 0x9E8, symBinAddr: 0x5288, symSize: 0x43 }
-  - { offsetInCU: 0x1733, offset: 0x563C7, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_setContentOffset:]', symObjAddr: 0xA2B, symBinAddr: 0x52CB, symSize: 0x90 }
-  - { offsetInCU: 0x17EF, offset: 0x56483, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_setContentSize:]', symObjAddr: 0xABB, symBinAddr: 0x535B, symSize: 0x90 }
-  - { offsetInCU: 0x18AB, offset: 0x5653F, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_clampContentSizeToFitVisibleBounds:]', symObjAddr: 0xB4B, symBinAddr: 0x53EB, symSize: 0x103 }
-  - { offsetInCU: 0x19FB, offset: 0x5668F, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_hasContent]', symObjAddr: 0xC4E, symBinAddr: 0x54EE, symSize: 0xAC }
-  - { offsetInCU: 0x1AA4, offset: 0x56738, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_originalEndInset]', symObjAddr: 0xCFA, symBinAddr: 0x559A, symSize: 0xAD }
-  - { offsetInCU: 0x1B4D, offset: 0x567E1, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_adjustedContentInset]', symObjAddr: 0xDA7, symBinAddr: 0x5647, symSize: 0x4A }
-  - { offsetInCU: 0x1B85, offset: 0x56819, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_callInfiniteScrollHandler]', symObjAddr: 0xDF1, symBinAddr: 0x5691, symSize: 0x8D }
-  - { offsetInCU: 0x1C32, offset: 0x568C6, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_getOrCreateActivityIndicatorView]', symObjAddr: 0xE7E, symBinAddr: 0x571E, symSize: 0xBE }
-  - { offsetInCU: 0x1CF6, offset: 0x5698A, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_infiniteIndicatorRowSize]', symObjAddr: 0xF3C, symBinAddr: 0x57DC, symSize: 0x11E }
-  - { offsetInCU: 0x1E2C, offset: 0x56AC0, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_positionInfiniteScrollIndicatorWithContentSize:]', symObjAddr: 0x105A, symBinAddr: 0x58FA, symSize: 0x136 }
-  - { offsetInCU: 0x1F8A, offset: 0x56C1E, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_beginInfinitScrollIfNeeded:]', symObjAddr: 0x1190, symBinAddr: 0x5A30, symSize: 0x108 }
-  - { offsetInCU: 0x2072, offset: 0x56D06, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_startAnimatingInfiniteScroll:]', symObjAddr: 0x1298, symBinAddr: 0x5B38, symSize: 0x229 }
-  - { offsetInCU: 0x22E9, offset: 0x56F7D, size: 0x8, addend: 0x0, symName: '___64-[UIScrollView(InfiniteScroll) pb_startAnimatingInfiniteScroll:]_block_invoke', symObjAddr: 0x14C1, symBinAddr: 0x5D61, symSize: 0x28 }
-  - { offsetInCU: 0x2360, offset: 0x56FF4, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x14E9, symBinAddr: 0x5D89, symSize: 0xF }
-  - { offsetInCU: 0x2393, offset: 0x57027, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x14F8, symBinAddr: 0x5D98, symSize: 0xF }
-  - { offsetInCU: 0x23BE, offset: 0x57052, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_stopAnimatingInfiniteScrollWithCompletion:]', symObjAddr: 0x1507, symBinAddr: 0x5DA7, symSize: 0x1DE }
-  - { offsetInCU: 0x25B4, offset: 0x57248, size: 0x8, addend: 0x0, symName: _PBForceUpdateTableViewContentSize, symObjAddr: 0x16E5, symBinAddr: 0x5F85, symSize: 0x8A }
-  - { offsetInCU: 0x263A, offset: 0x572CE, size: 0x8, addend: 0x0, symName: '___77-[UIScrollView(InfiniteScroll) pb_stopAnimatingInfiniteScrollWithCompletion:]_block_invoke', symObjAddr: 0x176F, symBinAddr: 0x600F, symSize: 0xC0 }
-  - { offsetInCU: 0x274B, offset: 0x573DF, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b, symObjAddr: 0x182F, symBinAddr: 0x60CF, symSize: 0x4B }
-  - { offsetInCU: 0x2798, offset: 0x5742C, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s, symObjAddr: 0x187A, symBinAddr: 0x611A, symSize: 0x33 }
-  - { offsetInCU: 0x27E7, offset: 0x5747B, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_shouldShowInfiniteScroll]', symObjAddr: 0x18AD, symBinAddr: 0x614D, symSize: 0x99 }
-  - { offsetInCU: 0x2898, offset: 0x5752C, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_scrollViewDidScroll:]', symObjAddr: 0x1946, symBinAddr: 0x61E6, symSize: 0x1E2 }
-  - { offsetInCU: 0x2A85, offset: 0x57719, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_scrollToStart]', symObjAddr: 0x1B28, symBinAddr: 0x63C8, symSize: 0xC2 }
-  - { offsetInCU: 0x2B49, offset: 0x577DD, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_scrollToInfiniteIndicatorIfNeeded:force:]', symObjAddr: 0x1BEA, symBinAddr: 0x648A, symSize: 0x345 }
-  - { offsetInCU: 0x2F15, offset: 0x57BA9, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_setScrollViewContentInset:animated:completion:]', symObjAddr: 0x1F2F, symBinAddr: 0x67CF, symSize: 0xD7 }
-  - { offsetInCU: 0x3018, offset: 0x57CAC, size: 0x8, addend: 0x0, symName: '___81-[UIScrollView(InfiniteScroll) pb_setScrollViewContentInset:animated:completion:]_block_invoke', symObjAddr: 0x2006, symBinAddr: 0x68A6, symSize: 0x3A }
+  - { offsetInCU: 0x34, offset: 0x55654, size: 0x8, addend: 0x0, symName: _UIScrollView_InfiniteScrollVersionString, symObjAddr: 0x0, symBinAddr: 0x4020, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x55689, size: 0x8, addend: 0x0, symName: _UIScrollView_InfiniteScrollVersionNumber, symObjAddr: 0x50, symBinAddr: 0x4070, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x556C6, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState init]', symObjAddr: 0x0, symBinAddr: 0x18A0, symSize: 0x8B }
+  - { offsetInCU: 0x35, offset: 0x556D4, size: 0x8, addend: 0x0, symName: '+[UIScrollView(InfiniteScroll) load]', symObjAddr: 0x8AE, symBinAddr: 0x214E, symSize: 0x58 }
+  - { offsetInCU: 0x5D, offset: 0x556FC, size: 0x8, addend: 0x0, symName: _load.onceToken, symObjAddr: 0xFBB0, symBinAddr: 0x5F98, symSize: 0x0 }
+  - { offsetInCU: 0xE3, offset: 0x55782, size: 0x8, addend: 0x0, symName: _kPBInfiniteScrollStateKey, symObjAddr: 0x3BC0, symBinAddr: 0x5F90, symSize: 0x0 }
+  - { offsetInCU: 0x379, offset: 0x55A18, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState init]', symObjAddr: 0x0, symBinAddr: 0x18A0, symSize: 0x8B }
+  - { offsetInCU: 0x3D8, offset: 0x55A77, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState initialized]', symObjAddr: 0x8B, symBinAddr: 0x192B, symSize: 0x9 }
+  - { offsetInCU: 0x40D, offset: 0x55AAC, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setInitialized:]', symObjAddr: 0x94, symBinAddr: 0x1934, symSize: 0x9 }
+  - { offsetInCU: 0x44A, offset: 0x55AE9, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState loading]', symObjAddr: 0x9D, symBinAddr: 0x193D, symSize: 0x9 }
+  - { offsetInCU: 0x47F, offset: 0x55B1E, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setLoading:]', symObjAddr: 0xA6, symBinAddr: 0x1946, symSize: 0x9 }
+  - { offsetInCU: 0x4BC, offset: 0x55B5B, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState direction]', symObjAddr: 0xAF, symBinAddr: 0x194F, symSize: 0xA }
+  - { offsetInCU: 0x4F1, offset: 0x55B90, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setDirection:]', symObjAddr: 0xB9, symBinAddr: 0x1959, symSize: 0xA }
+  - { offsetInCU: 0x52E, offset: 0x55BCD, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState indicatorView]', symObjAddr: 0xC3, symBinAddr: 0x1963, symSize: 0xA }
+  - { offsetInCU: 0x563, offset: 0x55C02, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setIndicatorView:]', symObjAddr: 0xCD, symBinAddr: 0x196D, symSize: 0x11 }
+  - { offsetInCU: 0x5A2, offset: 0x55C41, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState indicatorStyle]', symObjAddr: 0xDE, symBinAddr: 0x197E, symSize: 0xA }
+  - { offsetInCU: 0x5D7, offset: 0x55C76, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setIndicatorStyle:]', symObjAddr: 0xE8, symBinAddr: 0x1988, symSize: 0xA }
+  - { offsetInCU: 0x614, offset: 0x55CB3, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState scrollToStartWhenFinished]', symObjAddr: 0xF2, symBinAddr: 0x1992, symSize: 0x9 }
+  - { offsetInCU: 0x649, offset: 0x55CE8, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setScrollToStartWhenFinished:]', symObjAddr: 0xFB, symBinAddr: 0x199B, symSize: 0x9 }
+  - { offsetInCU: 0x686, offset: 0x55D25, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState extraEndInset]', symObjAddr: 0x104, symBinAddr: 0x19A4, symSize: 0xB }
+  - { offsetInCU: 0x6BB, offset: 0x55D5A, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setExtraEndInset:]', symObjAddr: 0x10F, symBinAddr: 0x19AF, symSize: 0xB }
+  - { offsetInCU: 0x6F8, offset: 0x55D97, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState indicatorInset]', symObjAddr: 0x11A, symBinAddr: 0x19BA, symSize: 0xB }
+  - { offsetInCU: 0x72D, offset: 0x55DCC, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setIndicatorInset:]', symObjAddr: 0x125, symBinAddr: 0x19C5, symSize: 0xB }
+  - { offsetInCU: 0x76A, offset: 0x55E09, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState indicatorMargin]', symObjAddr: 0x130, symBinAddr: 0x19D0, symSize: 0xB }
+  - { offsetInCU: 0x79F, offset: 0x55E3E, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setIndicatorMargin:]', symObjAddr: 0x13B, symBinAddr: 0x19DB, symSize: 0xB }
+  - { offsetInCU: 0x7DC, offset: 0x55E7B, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState triggerOffset]', symObjAddr: 0x146, symBinAddr: 0x19E6, symSize: 0xB }
+  - { offsetInCU: 0x811, offset: 0x55EB0, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setTriggerOffset:]', symObjAddr: 0x151, symBinAddr: 0x19F1, symSize: 0xB }
+  - { offsetInCU: 0x84E, offset: 0x55EED, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState infiniteScrollHandler]', symObjAddr: 0x15C, symBinAddr: 0x19FC, symSize: 0xA }
+  - { offsetInCU: 0x883, offset: 0x55F22, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setInfiniteScrollHandler:]', symObjAddr: 0x166, symBinAddr: 0x1A06, symSize: 0xF }
+  - { offsetInCU: 0x8C2, offset: 0x55F61, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState shouldShowInfiniteScrollHandler]', symObjAddr: 0x175, symBinAddr: 0x1A15, symSize: 0xA }
+  - { offsetInCU: 0x8F7, offset: 0x55F96, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState setShouldShowInfiniteScrollHandler:]', symObjAddr: 0x17F, symBinAddr: 0x1A1F, symSize: 0xF }
+  - { offsetInCU: 0x936, offset: 0x55FD5, size: 0x8, addend: 0x0, symName: '-[_PBInfiniteScrollState .cxx_destruct]', symObjAddr: 0x18E, symBinAddr: 0x1A2E, symSize: 0x33 }
+  - { offsetInCU: 0x969, offset: 0x56008, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) addInfiniteScrollWithHandler:]', symObjAddr: 0x1C1, symBinAddr: 0x1A61, symSize: 0xC1 }
+  - { offsetInCU: 0xA77, offset: 0x56116, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) removeInfiniteScroll]', symObjAddr: 0x282, symBinAddr: 0x1B22, symSize: 0xED }
+  - { offsetInCU: 0xB90, offset: 0x5622F, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) beginInfiniteScroll:]', symObjAddr: 0x36F, symBinAddr: 0x1C0F, symSize: 0x12 }
+  - { offsetInCU: 0xBF8, offset: 0x56297, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) finishInfiniteScroll]', symObjAddr: 0x381, symBinAddr: 0x1C21, symSize: 0x14 }
+  - { offsetInCU: 0xC44, offset: 0x562E3, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) finishInfiniteScrollWithCompletion:]', symObjAddr: 0x395, symBinAddr: 0x1C35, symSize: 0x7B }
+  - { offsetInCU: 0xCF7, offset: 0x56396, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollDirection]', symObjAddr: 0x410, symBinAddr: 0x1CB0, symSize: 0x44 }
+  - { offsetInCU: 0xD5A, offset: 0x563F9, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollDirection:]', symObjAddr: 0x454, symBinAddr: 0x1CF4, symSize: 0x4C }
+  - { offsetInCU: 0xDD1, offset: 0x56470, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) isAnimatingInfiniteScroll]', symObjAddr: 0x4A0, symBinAddr: 0x1D40, symSize: 0x44 }
+  - { offsetInCU: 0xE34, offset: 0x564D3, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollIndicatorStyle:]', symObjAddr: 0x4E4, symBinAddr: 0x1D84, symSize: 0xA7 }
+  - { offsetInCU: 0xF1E, offset: 0x565BD, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollIndicatorStyle]', symObjAddr: 0x58B, symBinAddr: 0x1E2B, symSize: 0x44 }
+  - { offsetInCU: 0xF81, offset: 0x56620, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollIndicatorView:]', symObjAddr: 0x5CF, symBinAddr: 0x1E6F, symSize: 0x7B }
+  - { offsetInCU: 0x103D, offset: 0x566DC, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollIndicatorView]', symObjAddr: 0x64A, symBinAddr: 0x1EEA, symSize: 0x50 }
+  - { offsetInCU: 0x10A1, offset: 0x56740, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollIndicatorMargin:]', symObjAddr: 0x69A, symBinAddr: 0x1F3A, symSize: 0x4F }
+  - { offsetInCU: 0x111C, offset: 0x567BB, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollIndicatorMargin]', symObjAddr: 0x6E9, symBinAddr: 0x1F89, symSize: 0x50 }
+  - { offsetInCU: 0x1180, offset: 0x5681F, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setShouldShowInfiniteScrollHandler:]', symObjAddr: 0x739, symBinAddr: 0x1FD9, symSize: 0x69 }
+  - { offsetInCU: 0x122F, offset: 0x568CE, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) infiniteScrollTriggerOffset]', symObjAddr: 0x7A2, symBinAddr: 0x2042, symSize: 0x50 }
+  - { offsetInCU: 0x1293, offset: 0x56932, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) setInfiniteScrollTriggerOffset:]', symObjAddr: 0x7F2, symBinAddr: 0x2092, symSize: 0x54 }
+  - { offsetInCU: 0x130E, offset: 0x569AD, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_infiniteScrollState]', symObjAddr: 0x846, symBinAddr: 0x20E6, symSize: 0x68 }
+  - { offsetInCU: 0x143E, offset: 0x56ADD, size: 0x8, addend: 0x0, symName: '___36+[UIScrollView(InfiniteScroll) load]_block_invoke', symObjAddr: 0x906, symBinAddr: 0x21A6, symSize: 0x3D }
+  - { offsetInCU: 0x149C, offset: 0x56B3B, size: 0x8, addend: 0x0, symName: _PBSwizzleMethod, symObjAddr: 0x943, symBinAddr: 0x21E3, symSize: 0xA5 }
+  - { offsetInCU: 0x16B9, offset: 0x56D58, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_handlePanGesture:]', symObjAddr: 0x9E8, symBinAddr: 0x2288, symSize: 0x43 }
+  - { offsetInCU: 0x1733, offset: 0x56DD2, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_setContentOffset:]', symObjAddr: 0xA2B, symBinAddr: 0x22CB, symSize: 0x90 }
+  - { offsetInCU: 0x17EF, offset: 0x56E8E, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_setContentSize:]', symObjAddr: 0xABB, symBinAddr: 0x235B, symSize: 0x90 }
+  - { offsetInCU: 0x18AB, offset: 0x56F4A, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_clampContentSizeToFitVisibleBounds:]', symObjAddr: 0xB4B, symBinAddr: 0x23EB, symSize: 0x103 }
+  - { offsetInCU: 0x19FB, offset: 0x5709A, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_hasContent]', symObjAddr: 0xC4E, symBinAddr: 0x24EE, symSize: 0xAC }
+  - { offsetInCU: 0x1AA4, offset: 0x57143, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_originalEndInset]', symObjAddr: 0xCFA, symBinAddr: 0x259A, symSize: 0xAD }
+  - { offsetInCU: 0x1B4D, offset: 0x571EC, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_adjustedContentInset]', symObjAddr: 0xDA7, symBinAddr: 0x2647, symSize: 0x4A }
+  - { offsetInCU: 0x1B85, offset: 0x57224, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_callInfiniteScrollHandler]', symObjAddr: 0xDF1, symBinAddr: 0x2691, symSize: 0x8D }
+  - { offsetInCU: 0x1C32, offset: 0x572D1, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_getOrCreateActivityIndicatorView]', symObjAddr: 0xE7E, symBinAddr: 0x271E, symSize: 0xBE }
+  - { offsetInCU: 0x1CF6, offset: 0x57395, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_infiniteIndicatorRowSize]', symObjAddr: 0xF3C, symBinAddr: 0x27DC, symSize: 0x11E }
+  - { offsetInCU: 0x1E2C, offset: 0x574CB, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_positionInfiniteScrollIndicatorWithContentSize:]', symObjAddr: 0x105A, symBinAddr: 0x28FA, symSize: 0x136 }
+  - { offsetInCU: 0x1F8A, offset: 0x57629, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_beginInfinitScrollIfNeeded:]', symObjAddr: 0x1190, symBinAddr: 0x2A30, symSize: 0x108 }
+  - { offsetInCU: 0x2072, offset: 0x57711, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_startAnimatingInfiniteScroll:]', symObjAddr: 0x1298, symBinAddr: 0x2B38, symSize: 0x229 }
+  - { offsetInCU: 0x22E9, offset: 0x57988, size: 0x8, addend: 0x0, symName: '___64-[UIScrollView(InfiniteScroll) pb_startAnimatingInfiniteScroll:]_block_invoke', symObjAddr: 0x14C1, symBinAddr: 0x2D61, symSize: 0x28 }
+  - { offsetInCU: 0x2360, offset: 0x579FF, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x14E9, symBinAddr: 0x2D89, symSize: 0xF }
+  - { offsetInCU: 0x2393, offset: 0x57A32, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x14F8, symBinAddr: 0x2D98, symSize: 0xF }
+  - { offsetInCU: 0x23BE, offset: 0x57A5D, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_stopAnimatingInfiniteScrollWithCompletion:]', symObjAddr: 0x1507, symBinAddr: 0x2DA7, symSize: 0x1DE }
+  - { offsetInCU: 0x25B4, offset: 0x57C53, size: 0x8, addend: 0x0, symName: _PBForceUpdateTableViewContentSize, symObjAddr: 0x16E5, symBinAddr: 0x2F85, symSize: 0x8A }
+  - { offsetInCU: 0x263A, offset: 0x57CD9, size: 0x8, addend: 0x0, symName: '___77-[UIScrollView(InfiniteScroll) pb_stopAnimatingInfiniteScrollWithCompletion:]_block_invoke', symObjAddr: 0x176F, symBinAddr: 0x300F, symSize: 0xC0 }
+  - { offsetInCU: 0x274B, offset: 0x57DEA, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b, symObjAddr: 0x182F, symBinAddr: 0x30CF, symSize: 0x4B }
+  - { offsetInCU: 0x2798, offset: 0x57E37, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s, symObjAddr: 0x187A, symBinAddr: 0x311A, symSize: 0x33 }
+  - { offsetInCU: 0x27E7, offset: 0x57E86, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_shouldShowInfiniteScroll]', symObjAddr: 0x18AD, symBinAddr: 0x314D, symSize: 0x99 }
+  - { offsetInCU: 0x2898, offset: 0x57F37, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_scrollViewDidScroll:]', symObjAddr: 0x1946, symBinAddr: 0x31E6, symSize: 0x1E2 }
+  - { offsetInCU: 0x2A85, offset: 0x58124, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_scrollToStart]', symObjAddr: 0x1B28, symBinAddr: 0x33C8, symSize: 0xC2 }
+  - { offsetInCU: 0x2B49, offset: 0x581E8, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_scrollToInfiniteIndicatorIfNeeded:force:]', symObjAddr: 0x1BEA, symBinAddr: 0x348A, symSize: 0x345 }
+  - { offsetInCU: 0x2F15, offset: 0x585B4, size: 0x8, addend: 0x0, symName: '-[UIScrollView(InfiniteScroll) pb_setScrollViewContentInset:animated:completion:]', symObjAddr: 0x1F2F, symBinAddr: 0x37CF, symSize: 0xD7 }
+  - { offsetInCU: 0x3018, offset: 0x586B7, size: 0x8, addend: 0x0, symName: '___81-[UIScrollView(InfiniteScroll) pb_setScrollViewContentInset:animated:completion:]_block_invoke', symObjAddr: 0x2006, symBinAddr: 0x38A6, symSize: 0x3A }
 ...
