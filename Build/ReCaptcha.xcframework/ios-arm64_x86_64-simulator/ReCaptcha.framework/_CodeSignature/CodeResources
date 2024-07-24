@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		p+IJcJhdBMa2mjEcq6xiCOaz0o0=
+		Ig/a4dzThymPJuFuYZ7KYHhePW4=
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ReCaptcha.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zLO2N55k4iVbmuKP4nRFbeJciDw=
+		V72hGNr4Rbiald8UbGgBCYumtWs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -129,11 +129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p+IJcJhdBMa2mjEcq6xiCOaz0o0=
+			Ig/a4dzThymPJuFuYZ7KYHhePW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			sOvkQqf9eGkplrTCZ7piaZFkUZLx6zQBHFGqphPdZKM=
+			mOcrJSu2W/LnkKMeB0oDF4Hplvzt542f3EsJL3KKaSE=
 			</data>
 		</dict>
 		<key>Modules/ReCaptcha.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -162,11 +162,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zLO2N55k4iVbmuKP4nRFbeJciDw=
+			V72hGNr4Rbiald8UbGgBCYumtWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			hzPY09UpiVETS9qGYj5ZBIQYRipuk2Eqo/tY7YE6iwM=
+			QzNicBaHef/5D/+xM6H4fTouL4ByUP8yir3oXtTTatQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
