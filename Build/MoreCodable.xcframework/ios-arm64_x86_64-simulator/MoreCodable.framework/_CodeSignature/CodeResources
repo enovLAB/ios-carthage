@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LrYOVocoZZW1AU+Q6+TtFfsf+JM=
+		Evw9T9ihDZaR650bkWg7Yb4+j+c=
 		</data>
 		<key>Modules/MoreCodable.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		7zqtOO8L1MGhikPVDq4hDJH/p50=
+		MZ8ATqM4CqNt8w5P1cJvyUzsHTA=
 		</data>
 		<key>Modules/MoreCodable.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		GK22Dt04BSDoss1ac+b9kBjaMxI=
+		/fBW0liF8Sj5X8c9uv2dMCDYvXs=
 		</data>
 		<key>Modules/MoreCodable.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MoreCodable.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tIFEcrbCkl79r8e0fgahv3j8Gyg=
+		mgPWeSmXJMV7XdqhJNjmimn947Y=
 		</data>
 		<key>Modules/MoreCodable.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/MoreCodable.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k9eayfkRHyMrAh6ird6cfMeTpPw=
+		zp0+Hab6D4+9/ki2S0MBTb9hGGg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zqtOO8L1MGhikPVDq4hDJH/p50=
+			MZ8ATqM4CqNt8w5P1cJvyUzsHTA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qh0lTH0+si/mBilS+nh9M/Br+/c71o+OfBggmS9mhrg=
+			PI4Sxgj3fTaW07uhT7Pk9KJ/wnG7xP3jy8yvs0LymBQ=
 			</data>
 		</dict>
 		<key>Modules/MoreCodable.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GK22Dt04BSDoss1ac+b9kBjaMxI=
+			/fBW0liF8Sj5X8c9uv2dMCDYvXs=
 			</data>
 			<key>hash2</key>
 			<data>
-			WAxO6Zu8TCMZ1yHfelvnTdIqcOb5dJfAXslRhPQd3+Y=
+			PR1QxnwROn9wbphnr7J/9jMYcUmI68Etd8i2u9SrlZw=
 			</data>
 		</dict>
 		<key>Modules/MoreCodable.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tIFEcrbCkl79r8e0fgahv3j8Gyg=
+			mgPWeSmXJMV7XdqhJNjmimn947Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			GfmK7+aEpNmu+3DiVhkCkQKsPGzyo7Gfi/jsDY0c0iw=
+			Tz7cUkA2vpLrR+sKUiROEs5u+HdThr9nGqfuVyu5YX8=
 			</data>
 		</dict>
 		<key>Modules/MoreCodable.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k9eayfkRHyMrAh6ird6cfMeTpPw=
+			zp0+Hab6D4+9/ki2S0MBTb9hGGg=
 			</data>
 			<key>hash2</key>
 			<data>
-			/jgVRaviKYR23frW/rznvToetb2baTao3J7Uf5AiXho=
+			2LBmz7k3qUHORs43bxbnyGjs8tFRdv1qh608zXs1rtU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

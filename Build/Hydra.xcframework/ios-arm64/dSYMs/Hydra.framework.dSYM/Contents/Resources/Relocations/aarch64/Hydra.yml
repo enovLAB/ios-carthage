@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.3_15E204a/Hydra/2.0.6/Build/Intermediates.noindex/ArchiveIntermediates/Hydra-iOS/BuildProductsPath/Release-iphoneos/Hydra.framework/Hydra'
+binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.4_15F31d/Hydra/2.0.6/Build/Intermediates.noindex/ArchiveIntermediates/Hydra-iOS/BuildProductsPath/Release-iphoneos/Hydra.framework/Hydra'
 relocations:
   - { offsetInCU: 0x34, offset: 0x2ED1A, size: 0x8, addend: 0x0, symName: _HydraVersionString, symObjAddr: 0x0, symBinAddr: 0x19260, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x2ED4F, size: 0x8, addend: 0x0, symName: _HydraVersionNumber, symObjAddr: 0x28, symBinAddr: 0x19288, symSize: 0x0 }
