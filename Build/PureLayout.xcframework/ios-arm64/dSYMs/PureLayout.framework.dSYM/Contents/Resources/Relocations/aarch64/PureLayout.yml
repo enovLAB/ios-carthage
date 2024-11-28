@@ -1,115 +1,115 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/15.4_15F31d/PureLayout/v3.1.9/Build/Intermediates.noindex/ArchiveIntermediates/PureLayout_iOS/BuildProductsPath/Release-iphoneos/PureLayout.framework/PureLayout'
+binary-path:     '/Users/matteo/Library/Caches/org.carthage.CarthageKit/DerivedData/16.1_16B40/PureLayout/v3.1.9/Build/Intermediates.noindex/ArchiveIntermediates/PureLayout_iOS/BuildProductsPath/Release-iphoneos/PureLayout.framework/PureLayout'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x53B1F, size: 0x8, addend: 0x0, symName: _PureLayoutVersionString, symObjAddr: 0x0, symBinAddr: 0xD6B8, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x53B54, size: 0x8, addend: 0x0, symName: _PureLayoutVersionNumber, symObjAddr: 0x30, symBinAddr: 0xD6E8, symSize: 0x0 }
-  - { offsetInCU: 0x27, offset: 0x53B91, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController loadView]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x180 }
-  - { offsetInCU: 0x134, offset: 0x53C9E, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController loadView]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x180 }
-  - { offsetInCU: 0x167, offset: 0x53CD1, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController updateViewConstraints]', symObjAddr: 0x180, symBinAddr: 0x8180, symSize: 0x200 }
-  - { offsetInCU: 0x19A, offset: 0x53D04, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController scrollView]', symObjAddr: 0x380, symBinAddr: 0x8380, symSize: 0x4C }
-  - { offsetInCU: 0x1D1, offset: 0x53D3B, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController contentView]', symObjAddr: 0x3CC, symBinAddr: 0x83CC, symSize: 0x4C }
-  - { offsetInCU: 0x208, offset: 0x53D72, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController blueLabel]', symObjAddr: 0x418, symBinAddr: 0x8418, symSize: 0x118 }
-  - { offsetInCU: 0x23F, offset: 0x53DA9, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setBlueLabel:]', symObjAddr: 0x530, symBinAddr: 0x8530, symSize: 0x14 }
-  - { offsetInCU: 0x280, offset: 0x53DEA, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setScrollView:]', symObjAddr: 0x544, symBinAddr: 0x8544, symSize: 0x14 }
-  - { offsetInCU: 0x2C1, offset: 0x53E2B, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setContentView:]', symObjAddr: 0x558, symBinAddr: 0x8558, symSize: 0x14 }
-  - { offsetInCU: 0x302, offset: 0x53E6C, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController didSetupConstraints]', symObjAddr: 0x56C, symBinAddr: 0x856C, symSize: 0x10 }
-  - { offsetInCU: 0x339, offset: 0x53EA3, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setDidSetupConstraints:]', symObjAddr: 0x57C, symBinAddr: 0x857C, symSize: 0x10 }
-  - { offsetInCU: 0x374, offset: 0x53EDE, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController .cxx_destruct]', symObjAddr: 0x58C, symBinAddr: 0x858C, symSize: 0x54 }
-  - { offsetInCU: 0x27, offset: 0x53F55, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoInstallConstraints]', symObjAddr: 0x0, symBinAddr: 0x85E0, symSize: 0x218 }
-  - { offsetInCU: 0x18C, offset: 0x540BA, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoInstallConstraints]', symObjAddr: 0x0, symBinAddr: 0x85E0, symSize: 0x218 }
-  - { offsetInCU: 0x1FD, offset: 0x5412B, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoRemoveConstraints]', symObjAddr: 0x218, symBinAddr: 0x87F8, symSize: 0x168 }
-  - { offsetInCU: 0x24F, offset: 0x5417D, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoIdentifyConstraints:]', symObjAddr: 0x380, symBinAddr: 0x8960, symSize: 0x13C }
-  - { offsetInCU: 0x2B5, offset: 0x541E3, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoAlignViewsToEdge:]', symObjAddr: 0x4BC, symBinAddr: 0x8A9C, symSize: 0x19C }
-  - { offsetInCU: 0x356, offset: 0x54284, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoAlignViewsToAxis:]', symObjAddr: 0x658, symBinAddr: 0x8C38, symSize: 0x198 }
-  - { offsetInCU: 0x3F7, offset: 0x54325, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoMatchViewsDimension:]', symObjAddr: 0x7F0, symBinAddr: 0x8DD0, symSize: 0x19C }
-  - { offsetInCU: 0x498, offset: 0x543C6, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoSetViewsDimension:toSize:]', symObjAddr: 0x98C, symBinAddr: 0x8F6C, symSize: 0x188 }
-  - { offsetInCU: 0x539, offset: 0x54467, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoSetViewsDimensionsToSize:]', symObjAddr: 0xB14, symBinAddr: 0x90F4, symSize: 0xA8 }
-  - { offsetInCU: 0x590, offset: 0x544BE, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:]', symObjAddr: 0xBBC, symBinAddr: 0x919C, symSize: 0x8 }
-  - { offsetInCU: 0x5F0, offset: 0x5451E, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:insetSpacing:]', symObjAddr: 0xBC4, symBinAddr: 0x91A4, symSize: 0x8 }
-  - { offsetInCU: 0x668, offset: 0x54596, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:insetSpacing:matchedSizes:]', symObjAddr: 0xBCC, symBinAddr: 0x91AC, symSize: 0x2B0 }
-  - { offsetInCU: 0x7A8, offset: 0x546D6, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSize:]', symObjAddr: 0xE7C, symBinAddr: 0x945C, symSize: 0x8 }
-  - { offsetInCU: 0x80C, offset: 0x5473A, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSize:insetSpacing:]', symObjAddr: 0xE84, symBinAddr: 0x9464, symSize: 0x36C }
-  - { offsetInCU: 0x990, offset: 0x548BE, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_commonSuperviewOfViews]', symObjAddr: 0x11F0, symBinAddr: 0x97D0, symSize: 0x17C }
-  - { offsetInCU: 0xA26, offset: 0x54954, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_containsMinimumNumberOfViews:]', symObjAddr: 0x136C, symBinAddr: 0x994C, symSize: 0x144 }
-  - { offsetInCU: 0xAA0, offset: 0x549CE, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_copyViewsOnly]', symObjAddr: 0x14B0, symBinAddr: 0x9A90, symSize: 0x144 }
-  - { offsetInCU: 0x27, offset: 0x54AFB, size: 0x8, addend: 0x0, symName: '+[UIView(PureLayout) newAutoLayoutView]', symObjAddr: 0x0, symBinAddr: 0x9BD4, symSize: 0x2C }
-  - { offsetInCU: 0x1BB, offset: 0x54C8F, size: 0x8, addend: 0x0, symName: '+[UIView(PureLayout) newAutoLayoutView]', symObjAddr: 0x0, symBinAddr: 0x9BD4, symSize: 0x2C }
-  - { offsetInCU: 0x202, offset: 0x54CD6, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) initForAutoLayout]', symObjAddr: 0x2C, symBinAddr: 0x9C00, symSize: 0x34 }
-  - { offsetInCU: 0x239, offset: 0x54D0D, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) configureForAutoLayout]', symObjAddr: 0x60, symBinAddr: 0x9C34, symSize: 0x28 }
-  - { offsetInCU: 0x270, offset: 0x54D44, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoCenterInSuperview]', symObjAddr: 0x88, symBinAddr: 0x9C5C, symSize: 0x90 }
-  - { offsetInCU: 0x2B7, offset: 0x54D8B, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxisToSuperviewAxis:]', symObjAddr: 0x118, symBinAddr: 0x9CEC, symSize: 0x70 }
-  - { offsetInCU: 0x30E, offset: 0x54DE2, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoCenterInSuperviewMargins]', symObjAddr: 0x188, symBinAddr: 0x9D5C, symSize: 0x90 }
-  - { offsetInCU: 0x355, offset: 0x54E29, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxisToSuperviewMarginAxis:]', symObjAddr: 0x218, symBinAddr: 0x9DEC, symSize: 0x80 }
-  - { offsetInCU: 0x3BC, offset: 0x54E90, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:]', symObjAddr: 0x298, symBinAddr: 0x9E6C, symSize: 0x8 }
-  - { offsetInCU: 0x3FF, offset: 0x54ED3, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:withInset:]', symObjAddr: 0x2A0, symBinAddr: 0x9E74, symSize: 0x8 }
-  - { offsetInCU: 0x451, offset: 0x54F25, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:withInset:relation:]', symObjAddr: 0x2A8, symBinAddr: 0x9E7C, symSize: 0x564 }
-  - { offsetInCU: 0x538, offset: 0x5500C, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeArea]', symObjAddr: 0x80C, symBinAddr: 0xA3E0, symSize: 0x14 }
-  - { offsetInCU: 0x56E, offset: 0x55042, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeAreaWithInsets:]', symObjAddr: 0x820, symBinAddr: 0xA3F4, symSize: 0x118 }
-  - { offsetInCU: 0x5C8, offset: 0x5509C, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeAreaWithInsets:excludingEdge:]', symObjAddr: 0x938, symBinAddr: 0xA50C, symSize: 0x150 }
-  - { offsetInCU: 0x633, offset: 0x55107, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:]', symObjAddr: 0xA88, symBinAddr: 0xA65C, symSize: 0x8 }
-  - { offsetInCU: 0x678, offset: 0x5514C, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:withInset:]', symObjAddr: 0xA90, symBinAddr: 0xA664, symSize: 0x8 }
-  - { offsetInCU: 0x6CD, offset: 0x551A1, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:withInset:relation:]', symObjAddr: 0xA98, symBinAddr: 0xA66C, symSize: 0xBC }
-  - { offsetInCU: 0x749, offset: 0x5521D, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdges]', symObjAddr: 0xB54, symBinAddr: 0xA728, symSize: 0x14 }
-  - { offsetInCU: 0x77F, offset: 0x55253, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdgesWithInsets:]', symObjAddr: 0xB68, symBinAddr: 0xA73C, symSize: 0x118 }
-  - { offsetInCU: 0x7D9, offset: 0x552AD, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdgesWithInsets:excludingEdge:]', symObjAddr: 0xC80, symBinAddr: 0xA854, symSize: 0x278 }
-  - { offsetInCU: 0x844, offset: 0x55318, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:]', symObjAddr: 0xEF8, symBinAddr: 0xAACC, symSize: 0x8 }
-  - { offsetInCU: 0x889, offset: 0x5535D, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:withInset:]', symObjAddr: 0xF00, symBinAddr: 0xAAD4, symSize: 0xB0 }
-  - { offsetInCU: 0x905, offset: 0x553D9, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:relation:]', symObjAddr: 0xFB0, symBinAddr: 0xAB84, symSize: 0xBC }
-  - { offsetInCU: 0x981, offset: 0x55455, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMargins]', symObjAddr: 0x106C, symBinAddr: 0xAC40, symSize: 0x14 }
-  - { offsetInCU: 0x9B7, offset: 0x5548B, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMarginsWithInsets:]', symObjAddr: 0x1080, symBinAddr: 0xAC54, symSize: 0x118 }
-  - { offsetInCU: 0xA11, offset: 0x554E5, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMarginsExcludingEdge:]', symObjAddr: 0x1198, symBinAddr: 0xAD6C, symSize: 0xF4 }
-  - { offsetInCU: 0xA6B, offset: 0x5553F, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:]', symObjAddr: 0x128C, symBinAddr: 0xAE60, symSize: 0x8 }
-  - { offsetInCU: 0xACE, offset: 0x555A2, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:withOffset:]', symObjAddr: 0x1294, symBinAddr: 0xAE68, symSize: 0x8 }
-  - { offsetInCU: 0xB41, offset: 0x55615, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:withOffset:relation:]', symObjAddr: 0x129C, symBinAddr: 0xAE70, symSize: 0x4 }
-  - { offsetInCU: 0xBC3, offset: 0x55697, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:]', symObjAddr: 0x12A0, symBinAddr: 0xAE74, symSize: 0x8 }
-  - { offsetInCU: 0xC17, offset: 0x556EB, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:withOffset:]', symObjAddr: 0x12A8, symBinAddr: 0xAE7C, symSize: 0xC }
-  - { offsetInCU: 0xC7D, offset: 0x55751, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:withMultiplier:]', symObjAddr: 0x12B4, symBinAddr: 0xAE88, symSize: 0xC }
-  - { offsetInCU: 0xCE3, offset: 0x557B7, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:]', symObjAddr: 0x12C0, symBinAddr: 0xAE94, symSize: 0x8 }
-  - { offsetInCU: 0xD46, offset: 0x5581A, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withOffset:]', symObjAddr: 0x12C8, symBinAddr: 0xAE9C, symSize: 0x8 }
-  - { offsetInCU: 0xDB9, offset: 0x5588D, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withOffset:relation:]', symObjAddr: 0x12D0, symBinAddr: 0xAEA4, symSize: 0x4 }
-  - { offsetInCU: 0xE3B, offset: 0x5590F, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withMultiplier:]', symObjAddr: 0x12D4, symBinAddr: 0xAEA8, symSize: 0x8 }
-  - { offsetInCU: 0xEAE, offset: 0x55982, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withMultiplier:relation:]', symObjAddr: 0x12DC, symBinAddr: 0xAEB0, symSize: 0x4 }
-  - { offsetInCU: 0xF30, offset: 0x55A04, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimensionsToSize:]', symObjAddr: 0x12E0, symBinAddr: 0xAEB4, symSize: 0xA8 }
-  - { offsetInCU: 0xF8A, offset: 0x55A5E, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimension:toSize:]', symObjAddr: 0x1388, symBinAddr: 0xAF5C, symSize: 0x8 }
-  - { offsetInCU: 0xFDF, offset: 0x55AB3, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimension:toSize:relation:]', symObjAddr: 0x1390, symBinAddr: 0xAF64, symSize: 0x88 }
-  - { offsetInCU: 0x106C, offset: 0x55B40, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetContentCompressionResistancePriorityForAxis:]', symObjAddr: 0x1418, symBinAddr: 0xAFEC, symSize: 0x74 }
-  - { offsetInCU: 0x10D1, offset: 0x55BA5, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetContentHuggingPriorityForAxis:]', symObjAddr: 0x148C, symBinAddr: 0xB060, symSize: 0x74 }
-  - { offsetInCU: 0x1136, offset: 0x55C0A, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:]', symObjAddr: 0x1500, symBinAddr: 0xB0D4, symSize: 0x8 }
-  - { offsetInCU: 0x1199, offset: 0x55C6D, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withOffset:]', symObjAddr: 0x1508, symBinAddr: 0xB0DC, symSize: 0x8 }
-  - { offsetInCU: 0x120C, offset: 0x55CE0, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withOffset:relation:]', symObjAddr: 0x1510, symBinAddr: 0xB0E4, symSize: 0xC0 }
-  - { offsetInCU: 0x12CC, offset: 0x55DA0, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withMultiplier:]', symObjAddr: 0x15D0, symBinAddr: 0xB1A4, symSize: 0x8 }
-  - { offsetInCU: 0x133F, offset: 0x55E13, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withMultiplier:relation:]', symObjAddr: 0x15D8, symBinAddr: 0xB1AC, symSize: 0xC0 }
-  - { offsetInCU: 0x13FF, offset: 0x55ED3, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToTopLayoutGuideOfViewController:withInset:]', symObjAddr: 0x1698, symBinAddr: 0xB26C, symSize: 0x8 }
-  - { offsetInCU: 0x1454, offset: 0x55F28, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToTopLayoutGuideOfViewController:withInset:relation:]', symObjAddr: 0x16A0, symBinAddr: 0xB274, symSize: 0x144 }
-  - { offsetInCU: 0x14DF, offset: 0x55FB3, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToBottomLayoutGuideOfViewController:withInset:]', symObjAddr: 0x17E4, symBinAddr: 0xB3B8, symSize: 0x8 }
-  - { offsetInCU: 0x1534, offset: 0x56008, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToBottomLayoutGuideOfViewController:withInset:relation:]', symObjAddr: 0x17EC, symBinAddr: 0xB3C0, symSize: 0x150 }
-  - { offsetInCU: 0x15BF, offset: 0x56093, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_addConstraint:]', symObjAddr: 0x193C, symBinAddr: 0xB510, symSize: 0x84 }
-  - { offsetInCU: 0x1604, offset: 0x560D8, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_commonSuperviewWithView:]', symObjAddr: 0x19C0, symBinAddr: 0xB594, symSize: 0x84 }
-  - { offsetInCU: 0x166F, offset: 0x56143, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_alignAttribute:toView:forAxis:]', symObjAddr: 0x1A44, symBinAddr: 0xB618, symSize: 0x118 }
-  - { offsetInCU: 0x27, offset: 0x5629B, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_arraysOfCreatedConstraints]', symObjAddr: 0x0, symBinAddr: 0xB730, symSize: 0x44 }
-  - { offsetInCU: 0x41, offset: 0x562B5, size: 0x8, addend: 0x0, symName: __al_arraysOfCreatedConstraints, symObjAddr: 0x4730, symBinAddr: 0x111E8, symSize: 0x0 }
-  - { offsetInCU: 0x5C, offset: 0x562D0, size: 0x8, addend: 0x0, symName: __al_globalConstraintPriorities, symObjAddr: 0x4740, symBinAddr: 0x111F8, symSize: 0x0 }
-  - { offsetInCU: 0xA7, offset: 0x5631B, size: 0x8, addend: 0x0, symName: __al_globalConstraintIdentifiers, symObjAddr: 0x4748, symBinAddr: 0x11200, symSize: 0x0 }
-  - { offsetInCU: 0xBD, offset: 0x56331, size: 0x8, addend: 0x0, symName: __al_isInstallingCreatedConstraints, symObjAddr: 0x4738, symBinAddr: 0x111F0, symSize: 0x0 }
-  - { offsetInCU: 0x237, offset: 0x564AB, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_arraysOfCreatedConstraints]', symObjAddr: 0x0, symBinAddr: 0xB730, symSize: 0x44 }
-  - { offsetInCU: 0x26A, offset: 0x564DE, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentArrayOfCreatedConstraints]', symObjAddr: 0x44, symBinAddr: 0xB774, symSize: 0x44 }
-  - { offsetInCU: 0x2A1, offset: 0x56515, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_preventAutomaticConstraintInstallation]', symObjAddr: 0x88, symBinAddr: 0xB7B8, symSize: 0x54 }
-  - { offsetInCU: 0x2D8, offset: 0x5654C, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoCreateAndInstallConstraints:]', symObjAddr: 0xDC, symBinAddr: 0xB80C, symSize: 0x40 }
-  - { offsetInCU: 0x32F, offset: 0x565A3, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoCreateConstraintsWithoutInstalling:]', symObjAddr: 0x11C, symBinAddr: 0xB84C, symSize: 0xC8 }
-  - { offsetInCU: 0x39A, offset: 0x5660E, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_globalConstraintPriorities]', symObjAddr: 0x1E4, symBinAddr: 0xB914, symSize: 0x44 }
-  - { offsetInCU: 0x3CD, offset: 0x56641, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentGlobalConstraintPriority]', symObjAddr: 0x228, symBinAddr: 0xB958, symSize: 0x74 }
-  - { offsetInCU: 0x414, offset: 0x56688, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_isExecutingPriorityConstraintsBlock]', symObjAddr: 0x29C, symBinAddr: 0xB9CC, symSize: 0x40 }
-  - { offsetInCU: 0x44B, offset: 0x566BF, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoSetPriority:forConstraints:]', symObjAddr: 0x2DC, symBinAddr: 0xBA0C, symSize: 0xC0 }
-  - { offsetInCU: 0x4B2, offset: 0x56726, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_globalConstraintIdentifiers]', symObjAddr: 0x39C, symBinAddr: 0xBACC, symSize: 0x44 }
-  - { offsetInCU: 0x4E5, offset: 0x56759, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentGlobalConstraintIdentifier]', symObjAddr: 0x3E0, symBinAddr: 0xBB10, symSize: 0x58 }
-  - { offsetInCU: 0x52C, offset: 0x567A0, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoSetIdentifier:forConstraints:]', symObjAddr: 0x438, symBinAddr: 0xBB68, symSize: 0xB4 }
-  - { offsetInCU: 0x5A7, offset: 0x5681B, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoIdentify:]', symObjAddr: 0x4EC, symBinAddr: 0xBC1C, symSize: 0x54 }
-  - { offsetInCU: 0x5F0, offset: 0x56864, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoInstall]', symObjAddr: 0x540, symBinAddr: 0xBC70, symSize: 0x144 }
-  - { offsetInCU: 0x644, offset: 0x568B8, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoRemove]', symObjAddr: 0x684, symBinAddr: 0xBDB4, symSize: 0x13C }
-  - { offsetInCU: 0x690, offset: 0x56904, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_applyGlobalStateToConstraint:]', symObjAddr: 0x7C0, symBinAddr: 0xBEF0, symSize: 0x7C }
-  - { offsetInCU: 0x6E2, offset: 0x56956, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_layoutAttributeForAttribute:]', symObjAddr: 0x83C, symBinAddr: 0xBF6C, symSize: 0x10 }
-  - { offsetInCU: 0x736, offset: 0x569AA, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_constraintAxisForAxis:]', symObjAddr: 0x84C, symBinAddr: 0xBF7C, symSize: 0x24 }
-  - { offsetInCU: 0x78A, offset: 0x569FE, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_marginForEdge:]', symObjAddr: 0x870, symBinAddr: 0xBFA0, symSize: 0x18 }
-  - { offsetInCU: 0x7DE, offset: 0x56A52, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_marginAxisForAxis:]', symObjAddr: 0x888, symBinAddr: 0xBFB8, symSize: 0x10 }
+  - { offset: 0x589FC, size: 0x8, addend: 0x0, symName: _PureLayoutVersionString, symObjAddr: 0x0, symBinAddr: 0xD6C0, symSize: 0x0 }
+  - { offset: 0x58A31, size: 0x8, addend: 0x0, symName: _PureLayoutVersionNumber, symObjAddr: 0x30, symBinAddr: 0xD6F0, symSize: 0x0 }
+  - { offset: 0x58A6E, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController loadView]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x180 }
+  - { offset: 0x58B12, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController loadView]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x180 }
+  - { offset: 0x58B45, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController updateViewConstraints]', symObjAddr: 0x180, symBinAddr: 0x8180, symSize: 0x200 }
+  - { offset: 0x58B78, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController scrollView]', symObjAddr: 0x380, symBinAddr: 0x8380, symSize: 0x4C }
+  - { offset: 0x58BAF, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController contentView]', symObjAddr: 0x3CC, symBinAddr: 0x83CC, symSize: 0x4C }
+  - { offset: 0x58BE6, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController blueLabel]', symObjAddr: 0x418, symBinAddr: 0x8418, symSize: 0x118 }
+  - { offset: 0x58C1D, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setBlueLabel:]', symObjAddr: 0x530, symBinAddr: 0x8530, symSize: 0x14 }
+  - { offset: 0x58C5E, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setScrollView:]', symObjAddr: 0x544, symBinAddr: 0x8544, symSize: 0x14 }
+  - { offset: 0x58C9F, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setContentView:]', symObjAddr: 0x558, symBinAddr: 0x8558, symSize: 0x14 }
+  - { offset: 0x58CE0, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController didSetupConstraints]', symObjAddr: 0x56C, symBinAddr: 0x856C, symSize: 0x10 }
+  - { offset: 0x58D17, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController setDidSetupConstraints:]', symObjAddr: 0x57C, symBinAddr: 0x857C, symSize: 0x10 }
+  - { offset: 0x58D52, size: 0x8, addend: 0x0, symName: '-[ALiOSDemo11ViewController .cxx_destruct]', symObjAddr: 0x58C, symBinAddr: 0x858C, symSize: 0x54 }
+  - { offset: 0x58E30, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoInstallConstraints]', symObjAddr: 0x0, symBinAddr: 0x85E0, symSize: 0x218 }
+  - { offset: 0x58F6B, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoInstallConstraints]', symObjAddr: 0x0, symBinAddr: 0x85E0, symSize: 0x218 }
+  - { offset: 0x58FDC, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoRemoveConstraints]', symObjAddr: 0x218, symBinAddr: 0x87F8, symSize: 0x168 }
+  - { offset: 0x5902E, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoIdentifyConstraints:]', symObjAddr: 0x380, symBinAddr: 0x8960, symSize: 0x13C }
+  - { offset: 0x59094, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoAlignViewsToEdge:]', symObjAddr: 0x4BC, symBinAddr: 0x8A9C, symSize: 0x19C }
+  - { offset: 0x59135, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoAlignViewsToAxis:]', symObjAddr: 0x658, symBinAddr: 0x8C38, symSize: 0x198 }
+  - { offset: 0x591D6, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoMatchViewsDimension:]', symObjAddr: 0x7F0, symBinAddr: 0x8DD0, symSize: 0x19C }
+  - { offset: 0x59277, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoSetViewsDimension:toSize:]', symObjAddr: 0x98C, symBinAddr: 0x8F6C, symSize: 0x188 }
+  - { offset: 0x59318, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoSetViewsDimensionsToSize:]', symObjAddr: 0xB14, symBinAddr: 0x90F4, symSize: 0xA8 }
+  - { offset: 0x5936F, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:]', symObjAddr: 0xBBC, symBinAddr: 0x919C, symSize: 0x8 }
+  - { offset: 0x593CF, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:insetSpacing:]', symObjAddr: 0xBC4, symBinAddr: 0x91A4, symSize: 0x8 }
+  - { offset: 0x59447, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSpacing:insetSpacing:matchedSizes:]', symObjAddr: 0xBCC, symBinAddr: 0x91AC, symSize: 0x2B0 }
+  - { offset: 0x59587, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSize:]', symObjAddr: 0xE7C, symBinAddr: 0x945C, symSize: 0x8 }
+  - { offset: 0x595EB, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) autoDistributeViewsAlongAxis:alignedTo:withFixedSize:insetSpacing:]', symObjAddr: 0xE84, symBinAddr: 0x9464, symSize: 0x370 }
+  - { offset: 0x5976F, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_commonSuperviewOfViews]', symObjAddr: 0x11F4, symBinAddr: 0x97D4, symSize: 0x17C }
+  - { offset: 0x59805, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_containsMinimumNumberOfViews:]', symObjAddr: 0x1370, symBinAddr: 0x9950, symSize: 0x144 }
+  - { offset: 0x5987F, size: 0x8, addend: 0x0, symName: '-[NSArray(PureLayout) al_copyViewsOnly]', symObjAddr: 0x14B4, symBinAddr: 0x9A94, symSize: 0x144 }
+  - { offset: 0x599D6, size: 0x8, addend: 0x0, symName: '+[UIView(PureLayout) newAutoLayoutView]', symObjAddr: 0x0, symBinAddr: 0x9BD8, symSize: 0x2C }
+  - { offset: 0x59B40, size: 0x8, addend: 0x0, symName: '+[UIView(PureLayout) newAutoLayoutView]', symObjAddr: 0x0, symBinAddr: 0x9BD8, symSize: 0x2C }
+  - { offset: 0x59B87, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) initForAutoLayout]', symObjAddr: 0x2C, symBinAddr: 0x9C04, symSize: 0x34 }
+  - { offset: 0x59BBE, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) configureForAutoLayout]', symObjAddr: 0x60, symBinAddr: 0x9C38, symSize: 0x28 }
+  - { offset: 0x59BF5, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoCenterInSuperview]', symObjAddr: 0x88, symBinAddr: 0x9C60, symSize: 0x90 }
+  - { offset: 0x59C3C, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxisToSuperviewAxis:]', symObjAddr: 0x118, symBinAddr: 0x9CF0, symSize: 0x70 }
+  - { offset: 0x59C93, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoCenterInSuperviewMargins]', symObjAddr: 0x188, symBinAddr: 0x9D60, symSize: 0x90 }
+  - { offset: 0x59CDA, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxisToSuperviewMarginAxis:]', symObjAddr: 0x218, symBinAddr: 0x9DF0, symSize: 0x80 }
+  - { offset: 0x59D41, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:]', symObjAddr: 0x298, symBinAddr: 0x9E70, symSize: 0x8 }
+  - { offset: 0x59D84, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:withInset:]', symObjAddr: 0x2A0, symBinAddr: 0x9E78, symSize: 0x8 }
+  - { offset: 0x59DD6, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewSafeArea:withInset:relation:]', symObjAddr: 0x2A8, symBinAddr: 0x9E80, symSize: 0x564 }
+  - { offset: 0x59EBD, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeArea]', symObjAddr: 0x80C, symBinAddr: 0xA3E4, symSize: 0x14 }
+  - { offset: 0x59EF3, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeAreaWithInsets:]', symObjAddr: 0x820, symBinAddr: 0xA3F8, symSize: 0x118 }
+  - { offset: 0x59F4D, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewSafeAreaWithInsets:excludingEdge:]', symObjAddr: 0x938, symBinAddr: 0xA510, symSize: 0x150 }
+  - { offset: 0x59FB8, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:]', symObjAddr: 0xA88, symBinAddr: 0xA660, symSize: 0x8 }
+  - { offset: 0x59FFD, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:withInset:]', symObjAddr: 0xA90, symBinAddr: 0xA668, symSize: 0x8 }
+  - { offset: 0x5A052, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewEdge:withInset:relation:]', symObjAddr: 0xA98, symBinAddr: 0xA670, symSize: 0xBC }
+  - { offset: 0x5A0CE, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdges]', symObjAddr: 0xB54, symBinAddr: 0xA72C, symSize: 0x14 }
+  - { offset: 0x5A104, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdgesWithInsets:]', symObjAddr: 0xB68, symBinAddr: 0xA740, symSize: 0x118 }
+  - { offset: 0x5A15E, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewEdgesWithInsets:excludingEdge:]', symObjAddr: 0xC80, symBinAddr: 0xA858, symSize: 0x278 }
+  - { offset: 0x5A1C9, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:]', symObjAddr: 0xEF8, symBinAddr: 0xAAD0, symSize: 0x8 }
+  - { offset: 0x5A20E, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:withInset:]', symObjAddr: 0xF00, symBinAddr: 0xAAD8, symSize: 0xB0 }
+  - { offset: 0x5A28A, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgeToSuperviewMargin:relation:]', symObjAddr: 0xFB0, symBinAddr: 0xAB88, symSize: 0xBC }
+  - { offset: 0x5A306, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMargins]', symObjAddr: 0x106C, symBinAddr: 0xAC44, symSize: 0x14 }
+  - { offset: 0x5A33C, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMarginsWithInsets:]', symObjAddr: 0x1080, symBinAddr: 0xAC58, symSize: 0x118 }
+  - { offset: 0x5A396, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdgesToSuperviewMarginsExcludingEdge:]', symObjAddr: 0x1198, symBinAddr: 0xAD70, symSize: 0xF4 }
+  - { offset: 0x5A3F0, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:]', symObjAddr: 0x128C, symBinAddr: 0xAE64, symSize: 0x8 }
+  - { offset: 0x5A453, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:withOffset:]', symObjAddr: 0x1294, symBinAddr: 0xAE6C, symSize: 0x8 }
+  - { offset: 0x5A4C6, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinEdge:toEdge:ofView:withOffset:relation:]', symObjAddr: 0x129C, symBinAddr: 0xAE74, symSize: 0x4 }
+  - { offset: 0x5A548, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:]', symObjAddr: 0x12A0, symBinAddr: 0xAE78, symSize: 0x8 }
+  - { offset: 0x5A59C, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:withOffset:]', symObjAddr: 0x12A8, symBinAddr: 0xAE80, symSize: 0xC }
+  - { offset: 0x5A602, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoAlignAxis:toSameAxisOfView:withMultiplier:]', symObjAddr: 0x12B4, symBinAddr: 0xAE8C, symSize: 0xC }
+  - { offset: 0x5A668, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:]', symObjAddr: 0x12C0, symBinAddr: 0xAE98, symSize: 0x8 }
+  - { offset: 0x5A6CB, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withOffset:]', symObjAddr: 0x12C8, symBinAddr: 0xAEA0, symSize: 0x8 }
+  - { offset: 0x5A73E, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withOffset:relation:]', symObjAddr: 0x12D0, symBinAddr: 0xAEA8, symSize: 0x4 }
+  - { offset: 0x5A7C0, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withMultiplier:]', symObjAddr: 0x12D4, symBinAddr: 0xAEAC, symSize: 0x8 }
+  - { offset: 0x5A833, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoMatchDimension:toDimension:ofView:withMultiplier:relation:]', symObjAddr: 0x12DC, symBinAddr: 0xAEB4, symSize: 0x4 }
+  - { offset: 0x5A8B5, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimensionsToSize:]', symObjAddr: 0x12E0, symBinAddr: 0xAEB8, symSize: 0xA8 }
+  - { offset: 0x5A90F, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimension:toSize:]', symObjAddr: 0x1388, symBinAddr: 0xAF60, symSize: 0x8 }
+  - { offset: 0x5A964, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetDimension:toSize:relation:]', symObjAddr: 0x1390, symBinAddr: 0xAF68, symSize: 0x88 }
+  - { offset: 0x5A9F1, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetContentCompressionResistancePriorityForAxis:]', symObjAddr: 0x1418, symBinAddr: 0xAFF0, symSize: 0x74 }
+  - { offset: 0x5AA56, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoSetContentHuggingPriorityForAxis:]', symObjAddr: 0x148C, symBinAddr: 0xB064, symSize: 0x74 }
+  - { offset: 0x5AABB, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:]', symObjAddr: 0x1500, symBinAddr: 0xB0D8, symSize: 0x8 }
+  - { offset: 0x5AB1E, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withOffset:]', symObjAddr: 0x1508, symBinAddr: 0xB0E0, symSize: 0x8 }
+  - { offset: 0x5AB91, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withOffset:relation:]', symObjAddr: 0x1510, symBinAddr: 0xB0E8, symSize: 0xC0 }
+  - { offset: 0x5AC51, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withMultiplier:]', symObjAddr: 0x15D0, symBinAddr: 0xB1A8, symSize: 0x8 }
+  - { offset: 0x5ACC4, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoConstrainAttribute:toAttribute:ofView:withMultiplier:relation:]', symObjAddr: 0x15D8, symBinAddr: 0xB1B0, symSize: 0xC0 }
+  - { offset: 0x5AD84, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToTopLayoutGuideOfViewController:withInset:]', symObjAddr: 0x1698, symBinAddr: 0xB270, symSize: 0x8 }
+  - { offset: 0x5ADD9, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToTopLayoutGuideOfViewController:withInset:relation:]', symObjAddr: 0x16A0, symBinAddr: 0xB278, symSize: 0x144 }
+  - { offset: 0x5AE64, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToBottomLayoutGuideOfViewController:withInset:]', symObjAddr: 0x17E4, symBinAddr: 0xB3BC, symSize: 0x8 }
+  - { offset: 0x5AEB9, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) autoPinToBottomLayoutGuideOfViewController:withInset:relation:]', symObjAddr: 0x17EC, symBinAddr: 0xB3C4, symSize: 0x150 }
+  - { offset: 0x5AF44, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_addConstraint:]', symObjAddr: 0x193C, symBinAddr: 0xB514, symSize: 0x84 }
+  - { offset: 0x5AF89, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_commonSuperviewWithView:]', symObjAddr: 0x19C0, symBinAddr: 0xB598, symSize: 0x84 }
+  - { offset: 0x5AFF4, size: 0x8, addend: 0x0, symName: '-[UIView(PureLayout) al_alignAttribute:toView:forAxis:]', symObjAddr: 0x1A44, symBinAddr: 0xB61C, symSize: 0x118 }
+  - { offset: 0x5B176, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_arraysOfCreatedConstraints]', symObjAddr: 0x0, symBinAddr: 0xB734, symSize: 0x44 }
+  - { offset: 0x5B190, size: 0x8, addend: 0x0, symName: __al_arraysOfCreatedConstraints, symObjAddr: 0x4840, symBinAddr: 0x111E8, symSize: 0x0 }
+  - { offset: 0x5B1AB, size: 0x8, addend: 0x0, symName: __al_globalConstraintPriorities, symObjAddr: 0x4850, symBinAddr: 0x111F8, symSize: 0x0 }
+  - { offset: 0x5B1F6, size: 0x8, addend: 0x0, symName: __al_globalConstraintIdentifiers, symObjAddr: 0x4858, symBinAddr: 0x11200, symSize: 0x0 }
+  - { offset: 0x5B20C, size: 0x8, addend: 0x0, symName: __al_isInstallingCreatedConstraints, symObjAddr: 0x4848, symBinAddr: 0x111F0, symSize: 0x0 }
+  - { offset: 0x5B35C, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_arraysOfCreatedConstraints]', symObjAddr: 0x0, symBinAddr: 0xB734, symSize: 0x44 }
+  - { offset: 0x5B38F, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentArrayOfCreatedConstraints]', symObjAddr: 0x44, symBinAddr: 0xB778, symSize: 0x44 }
+  - { offset: 0x5B3C6, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_preventAutomaticConstraintInstallation]', symObjAddr: 0x88, symBinAddr: 0xB7BC, symSize: 0x54 }
+  - { offset: 0x5B3FD, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoCreateAndInstallConstraints:]', symObjAddr: 0xDC, symBinAddr: 0xB810, symSize: 0x40 }
+  - { offset: 0x5B454, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoCreateConstraintsWithoutInstalling:]', symObjAddr: 0x11C, symBinAddr: 0xB850, symSize: 0xC8 }
+  - { offset: 0x5B4BF, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_globalConstraintPriorities]', symObjAddr: 0x1E4, symBinAddr: 0xB918, symSize: 0x44 }
+  - { offset: 0x5B4F2, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentGlobalConstraintPriority]', symObjAddr: 0x228, symBinAddr: 0xB95C, symSize: 0x74 }
+  - { offset: 0x5B539, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_isExecutingPriorityConstraintsBlock]', symObjAddr: 0x29C, symBinAddr: 0xB9D0, symSize: 0x40 }
+  - { offset: 0x5B570, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoSetPriority:forConstraints:]', symObjAddr: 0x2DC, symBinAddr: 0xBA10, symSize: 0xC0 }
+  - { offset: 0x5B5D7, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_globalConstraintIdentifiers]', symObjAddr: 0x39C, symBinAddr: 0xBAD0, symSize: 0x44 }
+  - { offset: 0x5B60A, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_currentGlobalConstraintIdentifier]', symObjAddr: 0x3E0, symBinAddr: 0xBB14, symSize: 0x58 }
+  - { offset: 0x5B651, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) autoSetIdentifier:forConstraints:]', symObjAddr: 0x438, symBinAddr: 0xBB6C, symSize: 0xB4 }
+  - { offset: 0x5B6CC, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoIdentify:]', symObjAddr: 0x4EC, symBinAddr: 0xBC20, symSize: 0x54 }
+  - { offset: 0x5B715, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoInstall]', symObjAddr: 0x540, symBinAddr: 0xBC74, symSize: 0x144 }
+  - { offset: 0x5B769, size: 0x8, addend: 0x0, symName: '-[NSLayoutConstraint(PureLayout) autoRemove]', symObjAddr: 0x684, symBinAddr: 0xBDB8, symSize: 0x13C }
+  - { offset: 0x5B7B5, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_applyGlobalStateToConstraint:]', symObjAddr: 0x7C0, symBinAddr: 0xBEF4, symSize: 0x7C }
+  - { offset: 0x5B807, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_layoutAttributeForAttribute:]', symObjAddr: 0x83C, symBinAddr: 0xBF70, symSize: 0x10 }
+  - { offset: 0x5B85B, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_constraintAxisForAxis:]', symObjAddr: 0x84C, symBinAddr: 0xBF80, symSize: 0x24 }
+  - { offset: 0x5B8AF, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_marginForEdge:]', symObjAddr: 0x870, symBinAddr: 0xBFA4, symSize: 0x18 }
+  - { offset: 0x5B903, size: 0x8, addend: 0x0, symName: '+[NSLayoutConstraint(PureLayout) al_marginAxisForAxis:]', symObjAddr: 0x888, symBinAddr: 0xBFBC, symSize: 0x10 }
 ...

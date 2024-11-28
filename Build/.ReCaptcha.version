@@ -1,33 +1,33 @@
 {
+  "commitish" : "1.6.0",
   "iOS" : [
     {
       "name" : "ReCaptcha",
-      "identifier" : "ios-arm64",
       "container" : "ReCaptcha.xcframework",
-      "hash" : "096e62a0c04d089b39916fd6032ba4f40207246e484160bdff42108a923c91ea",
-      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+      "identifier" : "ios-arm64",
+      "hash" : "92ba4c44297e91d6a2156e6c08d946842c1b7e8a24268b171304e5a90aec3a29",
+      "swiftToolchainVersion" : "6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
     },
     {
-      "container" : "ReCaptcha.xcframework",
+      "swiftToolchainVersion" : "6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)",
       "identifier" : "ios-arm64_x86_64-simulator",
-      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
-      "hash" : "e8143de79039fbb3c41c7e865b2bd7292589dd14832cd43b9063b77cbdcbf638",
-      "name" : "ReCaptcha"
+      "name" : "ReCaptcha",
+      "container" : "ReCaptcha.xcframework",
+      "hash" : "fd00eaa2ed292b155850d06da7042f38ea739e7251cc9d4d37de69473d93b1cd"
+    },
+    {
+      "swiftToolchainVersion" : "6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)",
+      "name" : "ReCaptcha_RxSwift",
+      "container" : "ReCaptcha_RxSwift.xcframework",
+      "identifier" : "ios-arm64",
+      "hash" : "4760cf4fc8b5a9821dcbd94fc39e144a0821d31bd9bb08d724d1be1aca6cba1c"
     },
     {
       "name" : "ReCaptcha_RxSwift",
-      "identifier" : "ios-arm64",
+      "hash" : "0d8cbf8a440d2987a21c93acca01e3f03b16a68550fc340db4c84bab45136369",
       "container" : "ReCaptcha_RxSwift.xcframework",
-      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
-      "hash" : "063f64ea8f97e43d46b6c6556b4144bcefb36c9a0532d052b0fa4c8773a565c5"
-    },
-    {
-      "identifier" : "ios-arm64_x86_64-simulator",
-      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
-      "container" : "ReCaptcha_RxSwift.xcframework",
-      "hash" : "2c277cb2d3fac0adcf70ac77f14d26c776f460f6715ce2d9029e021976301d1d",
-      "name" : "ReCaptcha_RxSwift"
+      "swiftToolchainVersion" : "6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)",
+      "identifier" : "ios-arm64_x86_64-simulator"
     }
-  ],
-  "commitish" : "1.6.0"
+  ]
 }

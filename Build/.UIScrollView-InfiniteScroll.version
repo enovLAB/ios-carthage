@@ -1,17 +1,17 @@
 {
-  "commitish" : "1.3.0",
   "iOS" : [
     {
-      "hash" : "ff4fb33d44c8b519037c31c55c76b54a2bf13da034e2b0f8a135db9c1071a3f2",
-      "identifier" : "ios-arm64_x86_64-simulator",
+      "hash" : "4447259750c0a3c969a957362439bd3ddbc86afc1951ac4980ef03130ba8b0c6",
       "container" : "UIScrollView_InfiniteScroll.xcframework",
+      "identifier" : "ios-arm64",
       "name" : "UIScrollView_InfiniteScroll"
     },
     {
-      "name" : "UIScrollView_InfiniteScroll",
-      "hash" : "69e836b25d132492fc5b9e3bde1482d901daccbec624c9171eefe96d582029aa",
       "container" : "UIScrollView_InfiniteScroll.xcframework",
-      "identifier" : "ios-arm64"
+      "name" : "UIScrollView_InfiniteScroll",
+      "hash" : "7e408b84ea86697623436cdc97dea9f926633a6197148547389e04eb1206bf22",
+      "identifier" : "ios-arm64_x86_64-simulator"
     }
-  ]
+  ],
+  "commitish" : "1.3.0"
 }
